@@ -1,0 +1,1649 @@
+{
+  "area": "Conocimientos Generales",
+  "bloque": 2,
+  "preguntas": [
+   {
+      "id": 1,
+      "categoria": "Constitución Política",
+      "pregunta": "Según la Constitución, ¿cuántos idiomas oficiales tiene el Estado Plurinacional de Bolivia?",
+      "opciones": ["3 idiomas", "36 idiomas", "37 idiomas", "1 idioma"],
+      "respuesta_correcta": "37 idiomas",
+      "sustento": "La CPE reconoce el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos (36 idiomas nativos)."
+    },
+    {
+      "id": 2,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es el punto más alto de Bolivia?",
+      "opciones": ["Illimani", "Huayna Potosí", "Nevado Sajama", "Mururata"],
+      "respuesta_correcta": "Nevado Sajama",
+      "sustento": "Ubicado en el departamento de Oruro, tiene una altitud de 6,542 metros sobre el nivel del mar."
+    },
+    {
+      "id": 3,
+      "categoria": "Historia",
+      "pregunta": "¿En qué fecha se fundó la República de Bolivia?",
+      "opciones": ["16 de julio de 1809", "6 de agosto de 1825", "25 de mayo de 1809", "10 de noviembre de 1810"],
+      "respuesta_correcta": "6 de agosto de 1825",
+      "sustento": "La independencia se declaró en la Asamblea Deliberante en Chuquisaca, hoy Sucre."
+    },
+    {
+      "id": 4,
+      "categoria": "Símbolos Patrios",
+      "pregunta": "¿Qué representan los tres colores de la bandera boliviana (Rojo, Amarillo y Verde) respectivamente?",
+      "opciones": [
+        "Sangre, Riqueza Mineral y Naturaleza",
+        "Guerra, Oro y Selva",
+        "Héroes, Sol y Esperanza",
+        "Unión, Trabajo y Tierra"
+      ],
+      "respuesta_correcta": "Sangre, Riqueza Mineral y Naturaleza",
+      "sustento": "El rojo simboliza la sangre de los héroes, el amarillo la riqueza mineral y el verde la esperanza y riqueza natural."
+    },
+    {
+      "id": 5,
+      "categoria": "Organización del Estado",
+      "pregunta": "¿Cuáles son los cuatro órganos del Estado Plurinacional de Bolivia?",
+      "opciones": [
+        "Ejecutivo, Legislativo, Judicial y Electoral",
+        "Presidencia, Congreso, Corte Suprema y Alcaldía",
+        "Ejecutivo, Policial, Militar y Judicial",
+        "Legislativo, Administrativo, Jurídico y Social"
+      ],
+      "respuesta_correcta": "Ejecutivo, Legislativo, Judicial y Electoral",
+      "sustento": "Establecido en la CPE de 2009, reemplazando la antigua división de tres poderes."
+    },
+    {
+      "id": 6,
+      "categoria": "Geografía",
+      "pregunta": "¿Con qué países limita Bolivia al Norte y al Este?",
+      "opciones": ["Perú", "Argentina", "Brasil", "Chile"],
+      "respuesta_correcta": "Brasil",
+      "sustento": "Brasil es el país con el que Bolivia comparte su frontera más extensa al norte y este."
+    },
+    {
+      "id": 7,
+      "categoria": "Historia Contemporánea",
+      "pregunta": "¿Quién fue el primer presidente indígena de Bolivia?",
+      "opciones": ["Víctor Paz Estenssoro", "Evo Morales Ayma", "Hernán Siles Zuazo", "Gualberto Villarroel"],
+      "respuesta_correcta": "Evo Morales Ayma",
+      "sustento": "Asumió la presidencia el 22 de enero de 2006."
+    },
+    {
+      "id": 8,
+      "categoria": "Geografía Política",
+      "pregunta": "¿Cuál es la capital constitucional de Bolivia?",
+      "opciones": ["La Paz", "Cochabamba", "Santa Cruz", "Sucre"],
+      "respuesta_correcta": "Sucre",
+      "sustento": "Sucre es la capital constitucional, mientras que La Paz es la sede de los órganos Ejecutivo y Legislativo."
+    },
+    {
+      "id": 9,
+      "categoria": "Historia",
+      "pregunta": "¿A quién se debe el nombre de Bolivia?",
+      "opciones": ["Antonio José de Sucre", "Simón Bolívar", "Andrés de Santa Cruz", "Casimiro Olañeta"],
+      "respuesta_correcta": "Simón Bolívar",
+      "sustento": "El diputado Manuel Martín Cruz propuso el nombre bajo el argumento: 'Si de Rómulo Roma, de Bolívar Bolivia'."
+    },
+    {
+      "id": 10,
+      "categoria": "Actualidad / Educación",
+      "pregunta": "¿Cómo se llama la ley educativa vigente en Bolivia?",
+      "opciones": ["Ley 1565", "Ley Avelino Siñani - Elizardo Pérez", "Ley del Escalafón", "Código de la Educación"],
+      "respuesta_correcta": "Ley Avelino Siñani - Elizardo Pérez",
+      "sustento": "Es la Ley Nº 070, promulgada en diciembre de 2010."
+    },
+    {
+      "id": 11,
+      "categoria": "Historia de Bolivia",
+      "pregunta": "¿Qué guerra enfrentó a Bolivia contra Chile entre 1879 y 1884?",
+      "opciones": ["Guerra del Acre", "Guerra del Chaco", "Guerra del Pacífico", "Guerra Federal"],
+      "respuesta_correcta": "Guerra del Pacífico",
+      "sustento": "Como consecuencia de este conflicto, Bolivia perdió su cualidad marítima."
+    },
+    {
+      "id": 12,
+      "categoria": "Símbolos Patrios",
+      "pregunta": "¿Cuál de estos símbolos representa la sagrada Madre Tierra y la armonía?",
+      "opciones": ["El Escudo de Armas", "La Wiphala", "La Escarapela", "La Kantuta"],
+      "respuesta_correcta": "La Wiphala",
+      "sustento": "Es un símbolo nacional que representa la unidad y los principios de las naciones indígena originarias."
+    },
+    {
+      "id": 13,
+      "categoria": "Geografía",
+      "pregunta": "¿En qué departamento se encuentra el Salar de Uyuni?",
+      "opciones": ["Oruro", "Potosí", "La Paz", "Tarija"],
+      "respuesta_correcta": "Potosí",
+      "sustento": "Es el salar más grande del mundo y se ubica en el sudoeste de Potosí."
+    },
+    {
+      "id": 14,
+      "categoria": "Efemérides",
+      "pregunta": "¿Qué se conmemora el 23 de marzo en Bolivia?",
+      "opciones": ["Día de la Independencia", "Día del Mar", "Día del Maestro", "Día de la Bandera"],
+      "respuesta_correcta": "Día del Mar",
+      "sustento": "Se recuerda la defensa de Calama y el sacrificio de Eduardo Abaroa en la Guerra del Pacífico."
+    },
+    {
+      "id": 15,
+      "categoria": "Cultura",
+      "pregunta": "¿Qué ciudad boliviana es conocida como la 'Ciudad de los Cuatro Nombres'?",
+      "opciones": ["La Paz", "Potosí", "Sucre", "Cochabamba"],
+      "respuesta_correcta": "Sucre",
+      "sustento": "Ha sido llamada Charcas, La Plata, Chuquisaca y finalmente Sucre."
+    },
+    {
+      "id": 16,
+      "categoria": "Organización Territorial",
+      "pregunta": "¿Cuántos departamentos tiene Bolivia?",
+      "opciones": ["7 departamentos", "8 departamentos", "9 departamentos", "10 departamentos"],
+      "respuesta_correcta": "9 departamentos",
+      "sustento": "La Paz, Oruro, Potosí, Cochabamba, Chuquisaca, Tarija, Santa Cruz, Beni y Pando."
+    },
+    {
+      "id": 17,
+      "categoria": "Hidrografía",
+      "pregunta": "¿Cuál es el lago navegable más alto del mundo que comparte Bolivia con Perú?",
+      "opciones": ["Lago Poopó", "Lago Titicaca", "Laguna Colorada", "Laguna Verde"],
+      "respuesta_correcta": "Lago Titicaca",
+      "sustento": "Ubicado a 3,812 msnm en el departamento de La Paz."
+    },
+    {
+      "id": 18,
+      "categoria": "Historia",
+      "pregunta": "¿Qué presidente boliviano nacionalizó los hidrocarburos en 1937 creando YPFB?",
+      "opciones": ["Germán Busch", "David Toro", "Gualberto Villarroel", "Víctor Paz Estenssoro"],
+      "respuesta_correcta": "David Toro",
+      "sustento": "Fue la primera nacionalización de petróleo en América Latina tras la Guerra del Chaco."
+    },
+    {
+      "id": 19,
+      "categoria": "Recursos Naturales",
+      "pregunta": "¿Cuál es el mineral que Bolivia posee en mayores reservas mundiales, ubicado en sus salares?",
+      "opciones": ["Estaño", "Plata", "Litio", "Oro"],
+      "respuesta_correcta": "Litio",
+      "sustento": "Bolivia posee una de las reservas de litio más grandes del planeta en el Salar de Uyuni."
+    },
+    {
+      "id": 20,
+      "categoria": "Derechos y Deberes",
+      "pregunta": "Según la CPE, ¿a qué edad se adquiere la ciudadanía boliviana para ejercer derechos políticos?",
+      "opciones": ["16 años", "18 años", "21 años", "15 años"],
+      "respuesta_correcta": "18 años",
+      "sustento": "La mayoría de edad y la ciudadanía se obtienen a los 18 años cumplidos."
+    },
+    {
+      "id": 21,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue el héroe de la batalla de Calama que dijo: '¿Rendirme yo? ¡Que se rinda su abuela, carajo!'?",
+      "opciones": ["Ladislao Cabrera", "Eduardo Abaroa", "Narciso Campero", "Hilarión Daza"],
+      "respuesta_correcta": "Eduardo Abaroa",
+      "sustento": "Es el máximo héroe civil de la Guerra del Pacífico."
+    },
+    {
+      "id": 22,
+      "categoria": "Flora y Fauna",
+      "pregunta": "¿Cuál es la flor nacional de Bolivia que comparte colores con la bandera?",
+      "opciones": ["Rosa", "Kantuta", "Patujú", "Ambas (Kantuta y Patujú)"],
+      "respuesta_correcta": "Ambas (Kantuta y Patujú)",
+      "sustento": "Ambas son flores nacionales; la Kantuta representa el área andina y el Patujú los llanos."
+    },
+    {
+      "id": 23,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es el departamento más extenso de Bolivia?",
+      "opciones": ["La Paz", "Beni", "Santa Cruz", "Pando"],
+      "respuesta_correcta": "Santa Cruz",
+      "sustento": "Santa Cruz es el departamento con mayor superficie territorial del país."
+    },
+    {
+      "id": 24,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Cómo se define a Bolivia según el artículo 1 de la CPE?",
+      "opciones": [
+        "República Unitaria",
+        "Estado Plurinacional Comunitario",
+        "Estado Unitario Social de Derecho Plurinacional Comunitario",
+        "Federación de Naciones Indígenas"
+      ],
+      "respuesta_correcta": "Estado Unitario Social de Derecho Plurinacional Comunitario",
+      "sustento": "Es la definición completa que incluye la autonomía y la descentralización."
+    },
+    {
+      "id": 25,
+      "categoria": "Historia",
+      "pregunta": "¿Qué guerra enfrentó a Bolivia con Paraguay (1932-1935)?",
+      "opciones": ["Guerra del Acre", "Guerra del Chaco", "Guerra del Pacífico", "Guerra Federal"],
+      "respuesta_correcta": "Guerra del Chaco",
+      "sustento": "Fue un conflicto por el control del Chaco Boreal, motivado en parte por supuestas reservas petroleras."
+    },
+    {
+      "id": 26,
+      "categoria": "Cultura",
+      "pregunta": "¿Qué festividad boliviana fue declarada Obra Maestra del Patrimonio Oral e Intangible de la Humanidad?",
+      "opciones": ["Gran Poder", "Carnaval de Oruro", "Virgen de Urkupiña", "Fiesta de San Roque"],
+      "respuesta_correcta": "Carnaval de Oruro",
+      "sustento": "Recibió esta distinción de la UNESCO en el año 2001."
+    },
+    {
+      "id": 27,
+      "categoria": "Organización del Estado",
+      "pregunta": "¿Quién ejerce el mando del Órgano Ejecutivo?",
+      "opciones": [
+        "El Presidente de la Asamblea",
+        "El Presidente y Vicepresidente del Estado",
+        "El Tribunal Supremo de Justicia",
+        "El Gobernador de cada departamento"
+      ],
+      "respuesta_correcta": "El Presidente y Vicepresidente del Estado",
+      "sustento": "Junto con las ministras y ministros de Estado, conforman este órgano."
+    },
+    {
+      "id": 28,
+      "categoria": "Patrimonio",
+      "pregunta": "¿Qué cerro fue la mayor fuente de riqueza de plata durante la colonia en Bolivia?",
+      "opciones": ["Cerro Rico de Potosí", "Cerro de Pasco", "Cerro Chorolque", "Cerro de La Plata"],
+      "respuesta_correcta": "Cerro Rico de Potosí",
+      "sustento": "Su nombre en quechua es Sumaj Orcko y fue el pilar económico del Imperio Español."
+    },
+    {
+      "id": 29,
+      "categoria": "Historia",
+      "pregunta": "¿Qué líder indígena lideró el cerco a La Paz en 1781?",
+      "opciones": ["Túpac Amaru", "Túpac Katari", "Zárate Willka", "Apiaguaiki Tumpa"],
+      "respuesta_correcta": "Túpac Katari",
+      "sustento": "Julián Apaza, conocido como Túpac Katari, junto a Bartolina Sisa, lideraron esta gran rebelión."
+    },
+    {
+      "id": 30,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es el departamento más joven de Bolivia?",
+      "opciones": ["Beni", "Tarija", "Pando", "Oruro"],
+      "respuesta_correcta": "Pando",
+      "sustento": "Fue creado el 24 de septiembre de 1938 por el presidente Germán Busch."
+    },
+    {
+      "id": 31,
+      "categoria": "Historia",
+      "pregunta": "¿En qué batalla de la Guerra del Pacífico el ejército boliviano tuvo su última participación bélica?",
+      "opciones": ["Batalla de Calama", "Batalla del Alto de la Alianza", "Batalla de Pisagua", "Batalla de San Juan"],
+      "respuesta_correcta": "Batalla del Alto de la Alianza",
+      "sustento": "Ocurrió el 26 de mayo de 1880 en Tacna; tras la derrota, las tropas bolivianas se retiraron definitivamente del conflicto."
+    },
+    {
+      "id": 32,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Cuál es el valor máximo del Estado Plurinacional que significa 'Vivir Bien'?",
+      "opciones": ["Ama Sua", "Suma Qamaña", "Ñandereko", "Ivi Maraei"],
+      "respuesta_correcta": "Suma Qamaña",
+      "sustento": "Es el principio ético-moral en aymara que busca la armonía entre seres humanos y la naturaleza."
+    },
+    {
+      "id": 33,
+      "categoria": "Geografía / Hidrografía",
+      "pregunta": "¿A qué cuenca hidrográfica pertenece el río Mamoré?",
+      "opciones": ["Cuenca del Plata", "Cuenca Amazónica", "Cuenca Altiplánica", "Cuenca del Pacífico"],
+      "respuesta_correcta": "Cuenca Amazónica",
+      "sustento": "El Mamoré es uno de los principales afluentes que alimentan el sistema del Amazonas en territorio boliviano."
+    },
+    {
+      "id": 34,
+      "categoria": "Historia de Bolivia",
+      "pregunta": "¿Qué presidente dictó el Decreto de Nacionalización de las Minas en 1952?",
+      "opciones": ["Hernán Siles Zuazo", "Víctor Paz Estenssoro", "Gualberto Villarroel", "Juan Lechín Oquendo"],
+      "respuesta_correcta": "Víctor Paz Estenssoro",
+      "sustento": "Fue una de las medidas principales de la Revolución Nacional, firmada en Catavi."
+    },
+    {
+      "id": 35,
+      "categoria": "Símbolos Patrios",
+      "pregunta": "¿Qué animal se encuentra en el Escudo de Armas de Bolivia representando la libertad?",
+      "opciones": ["La Llama", "El Jaguar", "El Cóndor", "La Alpaca"],
+      "respuesta_correcta": "El Cóndor",
+      "sustento": "El cóndor de los Andes simboliza la búsqueda de horizontes sin límites y la soberanía del país."
+    },
+    {
+      "id": 36,
+      "categoria": "Organización Territorial",
+      "pregunta": "¿Cuál es la máxima autoridad ejecutiva de un Gobierno Autónomo Departamental?",
+      "opciones": ["Alcalde", "Corregidor", "Gobernador", "Asambleísta"],
+      "respuesta_correcta": "Gobernador",
+      "sustento": "Según la Ley de Autonomías, el Gobernador es elegido por voto universal para dirigir el departamento."
+    },
+    {
+      "id": 37,
+      "categoria": "Cultura y Tradición",
+      "pregunta": "¿En qué departamento se baila originalmente la danza de 'Los Macheteros'?",
+      "opciones": ["Pando", "Beni", "Santa Cruz", "Tarija"],
+      "respuesta_correcta": "Beni",
+      "sustento": "Es una danza guerrera y religiosa emblemática de la región de Moxos, en el Beni."
+    },
+    {
+      "id": 38,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue la heroína que lideró a las Heroínas de la Coronilla en Cochabamba?",
+      "opciones": ["Juana Azurduy", "Bartolina Sisa", "Manuela Gandarillas", "Vicenta Juaristi Eguino"],
+      "respuesta_correcta": "Manuela Gandarillas",
+      "sustento": "Lideró a las mujeres en la colina de San Sebastián contra las tropas realistas el 27 de mayo de 1812."
+    },
+    {
+      "id": 39,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es la capital del departamento de Pando?",
+      "opciones": ["Riberalta", "Guayaramerín", "Cobija", "Trinidad"],
+      "respuesta_correcta": "Cobija",
+      "sustento": "Cobija es conocida como la 'Perla del Acre' y es la capital de Pando."
+    },
+    {
+      "id": 40,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Cuál es la religión oficial del Estado Plurinacional de Bolivia?",
+      "opciones": ["Católica", "Cristiana", "Ninguna (Estado Laico)", "Andina"],
+      "respuesta_correcta": "Ninguna (Estado Laico)",
+      "sustento": "La CPE establece que el Estado es independiente de la religión y garantiza la libertad de cultos."
+    },
+    {
+      "id": 41,
+      "categoria": "Historia",
+      "pregunta": "¿Quién escribió la letra del Himno Nacional de Bolivia?",
+      "opciones": ["Leopoldo Benedetto Vincenti", "José Ignacio de Sanjinés", "Ricardo Mujía", "Franz Tamayo"],
+      "respuesta_correcta": "José Ignacio de Sanjinés",
+      "sustento": "La letra fue escrita por Sanjinés y la música compuesta por Vincenti."
+    },
+    {
+      "id": 42,
+      "categoria": "Actualidad / Economía",
+      "pregunta": "¿Cuál es la moneda oficial de Bolivia?",
+      "opciones": ["Dólar", "Peso Boliviano", "Boliviano", "Real"],
+      "respuesta_correcta": "Boliviano",
+      "sustento": "Es la unidad monetaria vigente emitida por el Banco Central de Bolivia (BCB)."
+    },
+    {
+      "id": 43,
+      "categoria": "Historia Contemporánea",
+      "pregunta": "¿Qué nombre recibió el conflicto social de 2003 relacionado con la exportación de gas?",
+      "opciones": ["Guerra del Agua", "Guerra del Gas", "Febrero Negro", "Marcha por la Vida"],
+      "respuesta_correcta": "Guerra del Gas",
+      "sustento": "Conflicto que derivó en la renuncia de Gonzalo Sánchez de Lozada y la 'Agenda de Octubre'."
+    },
+    {
+      "id": 44,
+      "categoria": "Geografía / Recursos",
+      "pregunta": "¿En qué departamento se encuentra el Mutún, una de las reservas de hierro más grandes del mundo?",
+      "opciones": ["Oruro", "Potosí", "Santa Cruz", "Beni"],
+      "respuesta_correcta": "Santa Cruz",
+      "sustento": "Se encuentra en la provincia Germán Busch, cerca de Puerto Suárez."
+    },
+    {
+      "id": 45,
+      "categoria": "Símbolos Patrios",
+      "pregunta": "¿Cuántas estrellas tiene el Escudo de Armas de Bolivia actualmente?",
+      "opciones": ["9 estrellas", "10 estrellas", "11 estrellas", "12 estrellas"],
+      "respuesta_correcta": "10 estrellas",
+      "sustento": "Representan a los 9 departamentos actuales y a la zona del Litoral boliviano."
+    },
+    {
+      "id": 46,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue el Mariscal de Zepita y presidente de la Confederación Perú-Boliviana?",
+      "opciones": ["Antonio José de Sucre", "Andrés de Santa Cruz", "José Ballivián", "Mariano Melgarejo"],
+      "respuesta_correcta": "Andrés de Santa Cruz",
+      "sustento": "Fue el principal impulsor de la unión entre ambos países entre 1836 y 1839."
+    },
+    {
+      "id": 47,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Cómo se eligen a los magistrados del Tribunal Supremo de Justicia en Bolivia?",
+      "opciones": ["Por designación del Presidente", "Por voto popular", "Por examen de méritos en el Congreso", "Por sorteo"],
+      "respuesta_correcta": "Por voto popular",
+      "sustento": "Bolivia es uno de los pocos países que elige a sus altas autoridades judiciales por sufragio universal."
+    },
+    {
+      "id": 48,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es el río que sirve de frontera natural entre Bolivia y Argentina al sur?",
+      "opciones": ["Río Madera", "Río Bermejo", "Río Iténez", "Río Paraguay"],
+      "respuesta_correcta": "Río Bermejo",
+      "sustento": "El río Bermejo y el río Pilcomayo delimitan gran parte de la frontera sur con Argentina."
+    },
+    {
+      "id": 49,
+      "categoria": "Educación / Historia",
+      "pregunta": "¿En qué año y dónde se fundó la Escuela Ayllu de Warisata?",
+      "opciones": ["1952 en La Paz", "1931 en el Altiplano paceño", "1900 en Sucre", "1940 en Cochabamba"],
+      "respuesta_correcta": "1931 en el Altiplano paceño",
+      "sustento": "Fundada por Elizardo Pérez y Avelino Siñani como modelo de educación comunitaria."
+    },
+    {
+      "id": 50,
+      "categoria": "Ecología",
+      "pregunta": "¿Cuál es el área protegida más biodiversa de Bolivia y del mundo?",
+      "opciones": ["Parque Noel Kempff Mercado", "Parque Nacional Madidi", "Reserva Eduardo Avaroa", "TIPNIS"],
+      "respuesta_correcta": "Parque Nacional Madidi",
+      "sustento": "Ubicado en el norte de La Paz, destaca por su inmensa variedad de ecosistemas y especies."
+    },
+    {
+      "id": 51,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue la líder indígena que luchó junto a Túpac Katari y es recordada el 5 de septiembre?",
+      "opciones": ["Juana Azurduy", "Bartolina Sisa", "Adela Zamudio", "Gregoria Apaza"],
+      "respuesta_correcta": "Bartolina Sisa",
+      "sustento": "En honor a su ejecución se celebra el Día Internacional de la Mujer Indígena."
+    },
+    {
+      "id": 52,
+      "categoria": "Cultura",
+      "pregunta": "¿A qué cultura precolombina pertenecen las ruinas de la Puerta del Sol?",
+      "opciones": ["Inca", "Tiwanaku", "Mollo", "Uru"],
+      "respuesta_correcta": "Tiwanaku",
+      "sustento": "Es uno de los monumentos más importantes de la civilización tiwanacota, cerca del Lago Titicaca."
+    },
+    {
+      "id": 53,
+      "categoria": "Organización del Estado",
+      "pregunta": "¿Cuál es la función principal de la Asamblea Legislativa Plurinacional?",
+      "opciones": ["Administrar justicia", "Dictar y aprobar leyes", "Ejecutar obras públicas", "Controlar la policía"],
+      "respuesta_correcta": "Dictar y aprobar leyes",
+      "sustento": "Es el órgano encargado de la formación de leyes y la fiscalización del Estado."
+    },
+    {
+      "id": 54,
+      "categoria": "Geografía",
+      "pregunta": "¿En qué departamento se encuentran los valles de los Yungas?",
+      "opciones": ["Cochabamba", "La Paz", "Santa Cruz", "Chuquisaca"],
+      "respuesta_correcta": "La Paz",
+      "sustento": "Los Yungas son una zona de transición entre el altiplano y la selva amazónica en el departamento de La Paz."
+    },
+    {
+      "id": 55,
+      "categoria": "Historia de la Educación",
+      "pregunta": "¿Cuál es el nombre del primer ministro de educación que tuvo Bolivia?",
+      "opciones": ["Simón Rodríguez", "Daniel Sánchez Bustamante", "Casimiro Olañeta", "Mariano Baptista"],
+      "respuesta_correcta": "Simón Rodríguez",
+      "sustento": "El maestro del Libertador Simón Bolívar fue encargado de organizar la educación en los inicios de la República."
+    },
+    {
+      "id": 56,
+      "categoria": "Literatura Boliviana",
+      "pregunta": "¿Quién es la autora del poema 'Nacer hombre' y defensora de los derechos de la mujer?",
+      "opciones": ["Virginia Estenssoro", "Adela Zamudio", "Yolanda Bedregal", "Matilde Casazola"],
+      "respuesta_correcta": "Adela Zamudio",
+      "sustento": "Zamudio fue pionera del feminismo en Bolivia; en su honor se celebra el Día de la Mujer Boliviana (11 de octubre)."
+    },
+    {
+      "id": 57,
+      "categoria": "Recursos Naturales",
+      "pregunta": "¿Cuál es el principal producto de exportación no tradicional de Bolivia?",
+      "opciones": ["Gas natural", "Oro", "Soya", "Estaño"],
+      "respuesta_correcta": "Soya",
+      "sustento": "La soya y sus derivados representan el rubro más importante de las exportaciones no minerales ni hidrocarburíferas."
+    },
+    {
+      "id": 58,
+      "categoria": "Historia",
+      "pregunta": "¿Qué presidente boliviano fue apodado 'El Tata'?",
+      "opciones": ["Mariano Melgarejo", "Manuel Isidoro Belzu", "Hilarión Daza", "José María Linares"],
+      "respuesta_correcta": "Manuel Isidoro Belzu",
+      "sustento": "Fue muy popular entre las clases bajas y artesanos, quienes lo llamaban cariñosamente 'Tata' Belzu."
+    },
+    {
+      "id": 59,
+      "categoria": "Geografía Política",
+      "pregunta": "¿Cuántas provincias tiene el departamento de Santa Cruz?",
+      "opciones": ["10 provincias", "15 provincias", "20 provincias", "12 provincias"],
+      "respuesta_correcta": "15 provincias",
+      "sustento": "Es el departamento con mayor número de provincias, reflejando su vasta extensión."
+    },
+    {
+      "id": 60,
+      "categoria": "Actualidad",
+      "pregunta": "¿Cuál es la función de la Aduana Nacional de Bolivia?",
+      "opciones": [
+        "Cuidar las fronteras militares",
+        "Controlar el ingreso y salida de mercancías del país",
+        "Emitir carnets de identidad",
+        "Administrar los peajes de carreteras"
+      ],
+      "respuesta_correcta": "Controlar el ingreso y salida de mercancías del país",
+      "sustento": "Se encarga de la recaudación de tributos aduaneros y la lucha contra el contrabando."
+    },
+    {
+      "id": 61,
+      "categoria": "Historia de la Educación",
+      "pregunta": "¿Cuál era el lema principal de la Escuela Ayllu de Warisata?",
+      "opciones": ["Estudio y trabajo", "Aprender haciendo", "Liberar al indio", "Estudio, trabajo y producción"],
+      "respuesta_correcta": "Liberar al indio",
+      "sustento": "Warisata nació como una escuela de resistencia y liberación frente al sistema de explotación del pongueaje."
+    },
+    {
+      "id": 62,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Qué establece la CPE sobre el acceso al agua?",
+      "opciones": [
+        "Es un servicio privado",
+        "Es un derecho humano fundamentalísimo",
+        "Depende del pago de impuestos",
+        "Solo es para las ciudades"
+      ],
+      "respuesta_correcta": "Es un derecho humano fundamentalísimo",
+      "sustento": "El artículo 20 de la CPE prohíbe la privatización del agua y la considera un derecho para la vida."
+    },
+    {
+      "id": 63,
+      "categoria": "Historia",
+      "pregunta": "¿En qué año se produjo la llamada 'Revolución Federal' en Bolivia?",
+      "opciones": ["1825", "1899", "1952", "2003"],
+      "respuesta_correcta": "1899",
+      "sustento": "Fue el conflicto entre el norte (liberales) y el sur (conservadores) que trasladó la sede de gobierno de Sucre a La Paz."
+    },
+    {
+      "id": 64,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es el departamento boliviano que no tiene límites con otros países?",
+      "opciones": ["Oruro", "Cochabamba", "Chuquisaca", "Tarija"],
+      "respuesta_correcta": "Cochabamba",
+      "sustento": "Cochabamba se encuentra en el corazón del país, rodeado solo por departamentos bolivianos."
+    },
+    {
+      "id": 65,
+      "categoria": "Cultura",
+      "pregunta": "¿Qué ciudad es conocida como la 'Capital Arqueológica de Bolivia'?",
+      "opciones": ["Sucre", "Potosí", "Tiwanaku", "Samaipata"],
+      "respuesta_correcta": "Tiwanaku",
+      "sustento": "Por ser el centro de una de las civilizaciones más antiguas y avanzadas de América."
+    },
+    {
+      "id": 66,
+      "categoria": "Símbolos Patrios",
+      "pregunta": "¿Cuál es el ave nacional de Bolivia?",
+      "opciones": ["Paraba Frente Roja", "Cóndor de los Andes", "Parina", "Águila Arpía"],
+      "respuesta_correcta": "Cóndor de los Andes",
+      "sustento": "Presente en el escudo nacional, simboliza la soberanía y la majestuosidad de la cordillera."
+    },
+    {
+      "id": 67,
+      "categoria": "Historia",
+      "pregunta": "¿Qué nombre recibió la sublevación indígena de 1892 en el Chaco boliviano?",
+      "opciones": ["Masacre de Kuruyuki", "Cerco de La Paz", "Revolución Agraria", "Marcha por el Territorio"],
+      "respuesta_correcta": "Masacre de Kuruyuki",
+      "sustento": "Fue el último gran levantamiento del pueblo guaraní contra la expansión de las haciendas, liderado por Apiaguaiki Tumpa."
+    },
+    {
+      "id": 68,
+      "categoria": "Actualidad / Instituciones",
+      "pregunta": "¿Cuál es la máxima autoridad del Ministerio Público en Bolivia?",
+      "opciones": ["El Ministro de Justicia", "El Fiscal General del Estado", "El Presidente del Tribunal Supremo", "El Defensor del Pueblo"],
+      "respuesta_correcta": "El Fiscal General del Estado",
+      "sustento": "Ejerce la representación de la sociedad ante los órganos jurisdiccionales."
+    },
+    {
+      "id": 69,
+      "categoria": "Geografía",
+      "pregunta": "¿Qué departamento es el principal productor de hidrocarburos (gas natural) en Bolivia?",
+      "opciones": ["Santa Cruz", "Beni", "Tarija", "Pando"],
+      "respuesta_correcta": "Tarija",
+      "sustento": "Tarija concentra la mayor parte de las reservas y producción de gas natural del país."
+    },
+    {
+      "id": 70,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Qué significa el principio de 'Ama Sua'?",
+      "opciones": ["No seas mentiroso", "No seas flojo", "No seas ladrón", "No seas hipócrita"],
+      "respuesta_correcta": "No seas ladrón",
+      "sustento": "Es uno de los tres principios éticos de la cultura incaica incorporados en la CPE."
+    },
+    {
+      "id": 71,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue el primer presidente de Bolivia que murió en ejercicio de sus funciones en un accidente aéreo?",
+      "opciones": ["René Barrientos Ortuño", "Germán Busch", "Gualberto Villarroel", "Hugo Banzer"],
+      "respuesta_correcta": "René Barrientos Ortuño",
+      "sustento": "Falleció en Arque, Cochabamba, en 1969, mientras su helicóptero se estrellaba."
+    },
+    {
+      "id": 72,
+      "categoria": "Geografía / Hidrografía",
+      "pregunta": "¿Cuál es el río más largo que transcurre íntegramente por territorio boliviano?",
+      "opciones": ["Río Mamoré", "Río Iténez", "Río Grande", "Río Desaguadero"],
+      "respuesta_correcta": "Río Grande",
+      "sustento": "También llamado Guapay, tiene una longitud aproximada de 1,438 km dentro de Bolivia."
+    },
+    {
+      "id": 73,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Cómo se llama la institución encargada de la identificación ciudadana en Bolivia?",
+      "opciones": ["Corte Electoral", "SEGIP", "SERECÍ", "Dirección de Migración"],
+      "respuesta_correcta": "SEGIP",
+      "sustento": "El Servicio General de Identificación Personal emite las cédulas de identidad y licencias de conducir."
+    },
+    {
+      "id": 74,
+      "categoria": "Historia Contemporánea",
+      "pregunta": "¿En qué año se llevó a cabo la 'Marcha por el Territorio y la Dignidad' de los pueblos del Oriente?",
+      "opciones": ["1952", "1990", "2000", "2011"],
+      "respuesta_correcta": "1990",
+      "sustento": "Fue un hito que visibilizó a los pueblos indígenas de tierras bajas y derivó en el reconocimiento de sus territorios."
+    },
+    {
+      "id": 75,
+      "categoria": "Organización del Estado",
+      "pregunta": "¿Cuántos senadores representan a cada departamento en la Asamblea Legislativa?",
+      "opciones": ["2 senadores", "3 senadores", "4 senadores", "5 senadores"],
+      "respuesta_correcta": "4 senadores",
+      "sustento": "La Cámara de Senadores está compuesta por 36 miembros (4 por cada uno de los 9 departamentos)."
+    },
+    {
+      "id": 76,
+      "categoria": "Patrimonio",
+      "pregunta": "¿Qué sitio arqueológico en Santa Cruz es considerado el monolito tallado más grande del mundo?",
+      "opciones": ["Tiwanaku", "El Fuerte de Samaipata", "Ínca Llajta", "Moxos"],
+      "respuesta_correcta": "El Fuerte de Samaipata",
+      "sustento": "Declarado Patrimonio de la Humanidad, es una roca esculpida con figuras geométricas y zoomorfas."
+    },
+    {
+      "id": 77,
+      "categoria": "Historia de la Educación",
+      "pregunta": "¿Quién es conocido como el 'Maestro de América' y fue asesor educativo en los inicios de Bolivia?",
+      "opciones": ["Elizardo Pérez", "Simón Rodríguez", "Andrés Bello", "Franz Tamayo"],
+      "respuesta_correcta": "Simón Rodríguez",
+      "sustento": "Rodríguez intentó implementar una educación popular y técnica en la naciente república."
+    },
+    {
+      "id": 78,
+      "categoria": "Geografía Política",
+      "pregunta": "¿Qué departamento de Bolivia tiene la mayor densidad poblacional?",
+      "opciones": ["Santa Cruz", "La Paz", "Cochabamba", "Tarija"],
+      "respuesta_correcta": "La Paz",
+      "sustento": "Aunque Santa Cruz es el más poblado en total, La Paz mantiene una alta concentración por km²."
+    },
+    {
+      "id": 79,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Cuáles son los tres niveles de autonomía reconocidos en la CPE?",
+      "opciones": [
+        "Nacional, Departamental y Local",
+        "Departamental, Municipal e Indígena Originaria Campesina",
+        "Estatal, Privada y Social",
+        "Urbana, Rural y Fronteriza"
+      ],
+      "respuesta_correcta": "Departamental, Municipal e Indígena Originaria Campesina",
+      "sustento": "A estas se suma la autonomía Regional, conformando el modelo de descentralización."
+    },
+    {
+      "id": 80,
+      "categoria": "Historia",
+      "pregunta": "¿Qué presidente boliviano fue colgado en un farol de la Plaza Murillo en 1946?",
+      "opciones": ["Germán Busch", "Gualberto Villarroel", "Bautista Saavedra", "Mariano Melgarejo"],
+      "respuesta_correcta": "Gualberto Villarroel",
+      "sustento": "Fue víctima de una insurrección popular instigada por la oligarquía minera tras el Primer Congreso Indígena."
+    },
+    {
+      "id": 81,
+      "categoria": "Símbolos Patrios",
+      "pregunta": "¿Qué representa la rama de laurel en el Escudo de Armas?",
+      "opciones": ["La paz", "La gloria", "La victoria", "La esperanza"],
+      "respuesta_correcta": "La gloria",
+      "sustento": "El laurel simboliza la gloria tras la lucha por la independencia; la rama de olivo simboliza la paz."
+    },
+    {
+      "id": 82,
+      "categoria": "Actualidad / Economía",
+      "pregunta": "¿Cuál es el principal destino de las exportaciones de gas natural boliviano?",
+      "opciones": ["Chile y Perú", "Brasil y Argentina", "China y EE.UU.", "Paraguay y Uruguay"],
+      "respuesta_correcta": "Brasil y Argentina",
+      "sustento": "Bolivia mantiene contratos históricos de suministro de energía con estos dos vecinos."
+    },
+    {
+      "id": 83,
+      "categoria": "Geografía",
+      "pregunta": "¿Cómo se llama la región geográfica de Bolivia que comprende los llanos y selvas?",
+      "opciones": ["Región Andina", "Región Subandina", "Región de los Llanos Orientales", "Región Chaqueña"],
+      "respuesta_correcta": "Región de los Llanos Orientales",
+      "sustento": "Ocupa más del 60% del territorio nacional, abarcando Santa Cruz, Beni y Pando."
+    },
+    {
+      "id": 84,
+      "categoria": "Cultura",
+      "pregunta": "¿En qué ciudad se celebra la festividad de 'Alasitas' y el culto al Ekeko?",
+      "opciones": ["Oruro", "Potosí", "La Paz", "Cochabamba"],
+      "respuesta_correcta": "La Paz",
+      "sustento": "Se celebra cada 24 de enero y fue declarada Patrimonio de la Humanidad por la UNESCO."
+    },
+    {
+      "id": 85,
+      "categoria": "Historia",
+      "pregunta": "¿Cuál fue el principal motivo del estallido de la Guerra del Acre?",
+      "opciones": ["El gas", "El caucho (goma elástica)", "El estaño", "La plata"],
+      "respuesta_correcta": "El caucho (goma elástica)",
+      "sustento": "A finales del siglo XIX, la explotación de la siringa generó tensiones territoriales con Brasil."
+    },
+    {
+      "id": 86,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Cuál es el órgano encargado de velar por la constitucionalidad de las leyes en Bolivia?",
+      "opciones": ["Corte Suprema", "Tribunal Constitucional Plurinacional", "Asamblea Legislativa", "Consejo de la Magistratura"],
+      "respuesta_correcta": "Tribunal Constitucional Plurinacional",
+      "sustento": "Tiene su sede en Sucre y resuelve recursos contra leyes que vulneren la CPE."
+    },
+    {
+      "id": 87,
+      "categoria": "Educación",
+      "pregunta": "¿Qué es el Programa de Formación Complementaria (PROFOCOM)?",
+      "opciones": ["Un curso para alumnos", "Un programa de actualización para maestros en ejercicio", "Una beca para estudiar afuera", "Un sistema de alfabetización"],
+      "respuesta_correcta": "Un programa de actualización para maestros en ejercicio",
+      "sustento": "Fue implementado para socializar y aplicar la Ley 070 en el sistema educativo plurinacional."
+    },
+    {
+      "id": 88,
+      "categoria": "Geografía",
+      "pregunta": "¿Qué departamento es conocido como el 'Granero de Bolivia'?",
+      "opciones": ["Santa Cruz", "Cochabamba", "Beni", "Tarija"],
+      "respuesta_correcta": "Santa Cruz",
+      "sustento": "Debido a su alta producción agroindustrial de cereales y granos."
+    },
+    {
+      "id": 89,
+      "categoria": "Historia de Bolivia",
+      "pregunta": "¿Quién fue el presidente que dictó la Ley de Reforma Agraria el 2 de agosto de 1953?",
+      "opciones": ["Víctor Paz Estenssoro", "Hernán Siles Zuazo", "Juan Lechín Oquendo", "René Barrientos"],
+      "respuesta_correcta": "Víctor Paz Estenssoro",
+      "sustento": "Bajo el lema 'la tierra es para quien la trabaja', se eliminó el latifundio feudal."
+    },
+    {
+      "id": 90,
+      "categoria": "Liderazgo Indígena",
+      "pregunta": "¿Quién fue el líder quechua que se rebeló en Chayanta en 1780?",
+      "opciones": ["Túpac Katari", "Tomás Katari", "Túpac Amaru", "Zárate Willka"],
+      "respuesta_correcta": "Tomás Katari",
+      "sustento": "Inició el ciclo de rebeliones indígenas reclamando derechos frente a los abusos de los corregidores."
+    },
+    {
+      "id": 91,
+      "categoria": "Historia de la Educación",
+      "pregunta": "¿Qué nombre recibió el congreso donde se sentaron las bases para la Ley Avelino Siñani - Elizardo Pérez?",
+      "opciones": ["Congreso de Pedagogía", "Congreso Nacional de Educación de Sucre", "Primer Congreso Indígena", "Asamblea Constituyente"],
+      "respuesta_correcta": "Congreso Nacional de Educación de Sucre",
+      "sustento": "Llevado a cabo en 2006, fue el espacio de debate entre organizaciones sociales y el magisterio para la nueva ley."
+    },
+    {
+      "id": 92,
+      "categoria": "Geografía / Hidrografía",
+      "pregunta": "¿Cuál es la principal característica del río Desaguadero?",
+      "opciones": ["Es el más caudaloso", "Conecta el Lago Titicaca con el Lago Poopó", "Desemboca en el Atlántico", "Es un río subterráneo"],
+      "respuesta_correcta": "Conecta el Lago Titicaca con el Lago Poopó",
+      "sustento": "Es el eje del sistema hidrológico de la cuenca cerrada o altiplánica de Bolivia."
+    },
+    {
+      "id": 93,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue el presidente boliviano que propuso el 'Socialismo Militar' tras la Guerra del Chaco?",
+      "opciones": ["Germán Busch", "David Toro", "Gualberto Villarroel", "Hugo Banzer"],
+      "respuesta_correcta": "David Toro",
+      "sustento": "Su gobierno (1936-1937) buscó la intervención del Estado en la economía y la protección social."
+    },
+    {
+      "id": 94,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Qué tipo de educación reconoce la CPE como derecho fundamental?",
+      "opciones": ["Solo la educación primaria", "Educación unitaria y privada", "Educación intracultural, intercultural y plurilingüe", "Educación técnica exclusivamente"],
+      "respuesta_correcta": "Educación intracultural, intercultural y plurilingüe",
+      "sustento": "El artículo 78 de la CPE establece que la educación es la función suprema y primera responsabilidad financiera del Estado."
+    },
+    {
+      "id": 95,
+      "categoria": "Geografía Política",
+      "pregunta": "¿En qué departamento se encuentra la provincia Gran Chaco, que cuenta con una autonomía regional?",
+      "opciones": ["Santa Cruz", "Chuquisaca", "Tarija", "Beni"],
+      "respuesta_correcta": "Tarija",
+      "sustento": "Es la primera región en implementar la Autonomía Regional en Bolivia, con sede en Yacuiba."
+    },
+    {
+      "id": 96,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue el líder indígena conocido como el 'Temible Willka'?",
+      "opciones": ["Túpac Katari", "Zárate Willka", "Santos Pariamo", "Apiaguaiki Tumpa"],
+      "respuesta_correcta": "Zárate Willka",
+      "sustento": "Líder aymara que participó en la Revolución Federal de 1899 luchando por la restitución de tierras."
+    },
+    {
+      "id": 97,
+      "categoria": "Actualidad / Instituciones",
+      "pregunta": "¿Cuál es la función del Banco Central de Bolivia (BCB)?",
+      "opciones": ["Cobrar impuestos", "Mantener la estabilidad del poder adquisitivo interno de la moneda", "Prestar dinero a ciudadanos", "Administrar los peajes"],
+      "respuesta_correcta": "Mantener la estabilidad del poder adquisitivo interno de la moneda",
+      "sustento": "Es el único emisor de moneda y regulador del sistema financiero y monetario."
+    },
+    {
+      "id": 98,
+      "categoria": "Símbolos Patrios",
+      "pregunta": "¿En qué año se oficializó la Wiphala como símbolo patrio de Bolivia?",
+      "opciones": ["1825", "1952", "2009", "2006"],
+      "respuesta_correcta": "2009",
+      "sustento": "Fue reconocida con la nueva Constitución Política del Estado de 2009."
+    },
+    {
+      "id": 99,
+      "categoria": "Historia",
+      "pregunta": "¿Qué presidente boliviano firmó el Tratado de Paz y Amistad de 1904 con Chile?",
+      "opciones": ["Ismael Montes", "José Manuel Pando", "Bautista Saavedra", "Mariano Melgarejo"],
+      "respuesta_correcta": "Ismael Montes",
+      "sustento": "Bajo este tratado, Bolivia cedió formalmente el territorio del Litoral a cambio de compensaciones económicas y libre tránsito."
+    },
+    {
+      "id": 100,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es la capital del departamento de Chuquisaca?",
+      "opciones": ["Sucre", "Monteagudo", "Camargo", "Tarabuco"],
+      "respuesta_correcta": "Sucre",
+      "sustento": "Sucre cumple la doble función de ser capital del departamento y capital constitucional de Bolivia."
+    },
+    {
+      "id": 101,
+      "categoria": "Educación / Ley 070",
+      "pregunta": "¿Cuáles son los tres subsistemas de educación en Bolivia?",
+      "opciones": [
+        "Primaria, Secundaria y Superior",
+        "Regular, Alternativa y Especial, y Superior de Formación Profesional",
+        "Pública, Privada y de Convenio",
+        "Urbana, Rural e Intercultural"
+      ],
+      "respuesta_correcta": "Regular, Alternativa y Especial, y Superior de Formación Profesional",
+      "sustento": "Estructura definida por la Ley 070 para organizar el sistema educativo."
+    },
+    {
+      "id": 102,
+      "categoria": "Historia",
+      "pregunta": "¿Qué presidente nacionalizó el petróleo por segunda vez en 1969?",
+      "opciones": ["René Barrientos", "Alfredo Ovando Candia", "Juan José Torres", "Hugo Banzer"],
+      "respuesta_correcta": "Alfredo Ovando Candia",
+      "sustento": "Revolucionó el sector al nacionalizar la Gulf Oil Company con el apoyo de Marcelo Quiroga Santa Cruz."
+    },
+    {
+      "id": 103,
+      "categoria": "Recursos Naturales",
+      "pregunta": "¿Cuál es la reserva de agua dulce más importante del altiplano compartido con otro país?",
+      "opciones": ["Lago Poopó", "Lago Titicaca", "Laguna Colorada", "Silala"],
+      "respuesta_correcta": "Lago Titicaca",
+      "sustento": "Es vital para el ecosistema y la economía de las poblaciones circunlacustres de Bolivia y Perú."
+    },
+    {
+      "id": 104,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Qué es la 'Consulta Previa' establecida en la CPE?",
+      "opciones": [
+        "Una consulta al médico antes de viajar",
+        "Derecho de las naciones indígenas a ser consultadas sobre proyectos en su territorio",
+        "Un examen antes de entrar a la universidad",
+        "Preguntar al presidente antes de votar"
+      ],
+      "respuesta_correcta": "Derecho de las naciones indígenas a ser consultadas sobre proyectos en su territorio",
+      "sustento": "Garantiza la participación de los pueblos en decisiones que afecten sus recursos naturales y cultura."
+    },
+    {
+      "id": 105,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue el creador de la bandera boliviana actual (1851)?",
+      "opciones": ["Simón Bolívar", "Antonio José de Sucre", "Manuel Isidoro Belzu", "José Ballivián"],
+      "respuesta_correcta": "Manuel Isidoro Belzu",
+      "sustento": "Fue bajo su gobierno que se fijaron los colores actuales: Rojo, Amarillo y Verde."
+    },
+    {
+      "id": 106,
+      "categoria": "Patrimonio",
+      "pregunta": "¿En qué departamento se encuentran las misiones jesuíticas de Chiquitos?",
+      "opciones": ["Beni", "Santa Cruz", "Pando", "Tarija"],
+      "respuesta_correcta": "Santa Cruz",
+      "sustento": "Son Patrimonio de la Humanidad y representan el barroco mestizo en Bolivia."
+    },
+    {
+      "id": 107,
+      "categoria": "Actualidad / Instituciones",
+      "pregunta": "¿Qué institución se encarga de organizar los procesos electorales en Bolivia?",
+      "opciones": ["Tribunal Supremo de Justicia", "Órgano Electoral Plurinacional", "Corte Constitucional", "Policía Boliviana"],
+      "respuesta_correcta": "Órgano Electoral Plurinacional",
+      "sustento": "Compuesto por el Tribunal Supremo Electoral y los Tribunales Departamentales."
+    },
+    {
+      "id": 108,
+      "categoria": "Geografía",
+      "pregunta": "¿Qué nombre recibe el paso o frontera que une a Bolivia con Perú en el norte?",
+      "opciones": ["Yacuiba", "Puerto Suárez", "Desaguadero", "Cobija"],
+      "respuesta_correcta": "Desaguadero",
+      "sustento": "Es el principal punto de tránsito comercial y terrestre hacia el Perú."
+    },
+    {
+      "id": 109,
+      "categoria": "Historia de la Educación",
+      "pregunta": "¿Qué fue el 'Código de la Educación Boliviana' de 1955?",
+      "opciones": [
+        "Una ley que prohibía estudiar a los campesinos",
+        "La primera reforma que universalizó la educación tras la Revolución del 52",
+        "Un manual de castigos para profesores",
+        "Una ley de la época colonial"
+      ],
+      "respuesta_correcta": "La primera reforma que universalizó la educación tras la Revolución del 52",
+      "sustento": "Buscó integrar a las grandes mayorías indígenas al sistema educativo oficial."
+    },
+    {
+      "id": 110,
+      "categoria": "Historia",
+      "pregunta": "¿En qué batalla Bolivia derrotó definitivamente a las tropas peruanas en 1841?",
+      "opciones": ["Batalla de Aroma", "Batalla de Ingavi", "Batalla de Ayacucho", "Batalla de Junín"],
+      "respuesta_correcta": "Batalla de Ingavi",
+      "sustento": "Liderada por José Ballivián, aseguró la independencia definitiva de Bolivia frente a pretensiones de anexión."
+    },
+    {
+      "id": 111,
+      "categoria": "Organización del Estado",
+      "pregunta": "¿Cuál es la función del Consejo de la Magistratura?",
+      "opciones": ["Dictar sentencias", "Administrar y disciplinar el órgano judicial", "Elegir al presidente", "Defender a los ciudadanos"],
+      "respuesta_correcta": "Administrar y disciplinar el órgano judicial",
+      "sustento": "Se encarga del control administrativo y el régimen disciplinario de jueces y vocales."
+    },
+    {
+      "id": 112,
+      "categoria": "Geografía",
+      "pregunta": "¿Qué departamento boliviano es conocido como la 'Hija Predilecta' de Bolívar?",
+      "opciones": ["Sucre", "Potosí", "La Paz", "Tarija"],
+      "respuesta_correcta": "Potosí",
+      "sustento": "Simón Bolívar expresó especial afecto por esta ciudad debido a su importancia histórica y económica."
+    },
+    {
+      "id": 113,
+      "categoria": "Cultura",
+      "pregunta": "¿Qué significa el término 'Plurinacional' en el nombre de Bolivia?",
+      "opciones": [
+        "Que hay muchos partidos políticos",
+        "El reconocimiento de la existencia de múltiples naciones indígenas con cultura y lengua propias",
+        "Que todos los bolivianos son iguales",
+        "Que Bolivia tiene muchos departamentos"
+      ],
+      "respuesta_correcta": "El reconocimiento de la existencia de múltiples naciones indígenas con cultura y lengua propias",
+      "sustento": "Es el eje del nuevo modelo de Estado que respeta la diversidad étnica."
+    },
+    {
+      "id": 114,
+      "categoria": "Historia Contemporánea",
+      "pregunta": "¿Qué presidente gobernó Bolivia durante la 'Guerra del Agua' en Cochabamba (2000)?",
+      "opciones": ["Gonzalo Sánchez de Lozada", "Hugo Banzer Suárez", "Jorge Quiroga", "Evo Morales"],
+      "respuesta_correcta": "Hugo Banzer Suárez",
+      "sustento": "Durante su segundo mandato (democrático) estalló el conflicto por la privatización del servicio de agua."
+    },
+    {
+      "id": 115,
+      "categoria": "Flora y Fauna",
+      "pregunta": "¿Cuál es el árbol emblemático de las tierras bajas cuya goma fue motor económico?",
+      "opciones": ["Mara", "Quebracho", "Siringa (Árbol del Caucho)", "Tajibo"],
+      "respuesta_correcta": "Siringa (Árbol del Caucho)",
+      "sustento": "Su explotación causó la Guerra del Acre y el auge económico del norte amazónico."
+    },
+    {
+      "id": 116,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Qué órgano del Estado tiene la facultad de declarar la guerra y la paz?",
+      "opciones": ["El Órgano Ejecutivo", "La Asamblea Legislativa Plurinacional", "Las Fuerzas Armadas", "El Tribunal Supremo"],
+      "respuesta_correcta": "La Asamblea Legislativa Plurinacional",
+      "sustento": "Es una de las atribuciones exclusivas del legislativo según la CPE."
+    },
+    {
+      "id": 117,
+      "categoria": "Educación / Historia",
+      "pregunta": "¿Cuál es la misión de las Escuelas Superiores de Formación de Maestros (ESFM)?",
+      "opciones": [
+        "Alfabetizar a los adultos",
+        "Formar profesionales con calidad académica y compromiso social para el magisterio",
+        "Construir nuevas escuelas",
+        "Vigilar a los estudiantes"
+      ],
+      "respuesta_correcta": "Formar profesionales con calidad académica y compromiso social para el magisterio",
+      "sustento": "Son las instituciones encargadas de la formación inicial de los docentes en Bolivia."
+    },
+    {
+      "id": 118,
+      "categoria": "Geografía",
+      "pregunta": "¿Qué río de Bolivia pertenece a la Cuenca del Plata?",
+      "opciones": ["Río Beni", "Río Pilcomayo", "Río Madre de Dios", "Río Iténez"],
+      "respuesta_correcta": "Río Pilcomayo",
+      "sustento": "Junto con el río Bermejo y el río Paraguay, forman parte del sistema que drena hacia el sur del continente."
+    },
+    {
+      "id": 119,
+      "categoria": "Historia",
+      "pregunta": "¿Quién fue el último presidente boliviano que participó activamente en la Guerra del Chaco como soldado?",
+      "opciones": ["Víctor Paz Estenssoro", "Hernán Siles Zuazo", "René Barrientos", "Ambos (Paz y Siles)"],
+      "respuesta_correcta": "Ambos (Paz y Siles)",
+      "sustento": "Ambos líderes de la Revolución de 1952 fueron combatientes en las arenas del Chaco."
+    },
+    {
+      "id": 120,
+      "categoria": "Constitución Política",
+      "pregunta": "¿Qué es la 'Minga' o 'Trabajo Comunitario' según la cosmovisión reconocida por el Estado?",
+      "opciones": [
+        "Un castigo para los que no trabajan",
+        "Sistema de trabajo colectivo en beneficio de la comunidad sin remuneración monetaria",
+        "Un tipo de mercado popular",
+        "Una fiesta religiosa"
+      ],
+      "respuesta_correcta": "Sistema de trabajo colectivo en beneficio de la comunidad sin remuneración monetaria",
+      "sustento": "Es una práctica ancestral que el Estado Plurinacional fomenta para el desarrollo local."
+    },
+    {
+      "id": 121,
+      "categoria": "Historia / Revolución",
+      "pregunta": "¿Qué gran reforma de 1952 otorgó el derecho al voto a mujeres y analfabetos?",
+      "opciones": ["La Reforma Agraria", "La Nacionalización de las Minas", "El Voto Universal", "El Código de la Educación"],
+      "respuesta_correcta": "El Voto Universal",
+      "sustento": "Antes de 1952, solo los varones que sabían leer y escribir y tenían renta podían votar (voto censitario)."
+    },
+    {
+      "id": 122,
+      "categoria": "Geografía",
+      "pregunta": "¿En qué departamento se ubica la mayor parte del Parque Nacional Isiboro Sécure (TIPNIS)?",
+      "opciones": ["La Paz", "Cochabamba y Beni", "Santa Cruz", "Pando"],
+      "respuesta_correcta": "Cochabamba y Beni",
+      "sustento": "Es un territorio indígena y área protegida que se extiende entre ambos departamentos."
+    },
+    {
+      "id": 123,
+      "categoria": "CPE / Derechos",
+      "pregunta": "¿Qué es la 'Justicia Comunitaria' según la Constitución?",
+      "opciones": [
+        "Justicia aplicada por las juntas vecinales",
+        "Jurisdicción Indígena Originaria Campesina",
+        "Justicia impartida por la policía",
+        "Linchamientos populares"
+      ],
+      "respuesta_correcta": "Jurisdicción Indígena Originaria Campesina",
+      "sustento": "La CPE reconoce que los pueblos indígenas tienen sus propios tribunales y normas, con igual jerarquía que la justicia ordinaria."
+    },
+    {
+      "id": 124,
+      "categoria": "Historia / Héroes",
+      "pregunta": "¿Quién es considerada la 'Generala' del Ejército boliviano y heroína de la independencia?",
+      "opciones": ["Bartolina Sisa", "Juana Azurduy de Padilla", "Adela Zamudio", "Vicenta Juaristi Eguino"],
+      "respuesta_correcta": "Juana Azurduy de Padilla",
+      "sustento": "Luchó en las guerrillas contra los realistas y fue reconocida con el grado de Generala por Bolivia y Argentina."
+    },
+    {
+      "id": 125,
+      "categoria": "Geografía Económica",
+      "pregunta": "¿Cuál es la principal fuente de energía eléctrica en Bolivia?",
+      "opciones": ["Energía Solar", "Plantas Hidroeléctricas y Termoeléctricas", "Energía Eólica", "Energía Nuclear"],
+      "respuesta_correcta": "Plantas Hidroeléctricas y Termoeléctricas",
+      "sustento": "La mayoría de la energía se genera quemando gas natural (termoeléctrica) y aprovechando caídas de agua."
+    },
+    {
+      "id": 126,
+      "categoria": "CPE / Símbolos",
+      "pregunta": "¿Cuál es la representación del sol en el Escudo de Armas de Bolivia?",
+      "opciones": ["El fin del día", "El nacimiento del Estado", "La riqueza mineral", "La libertad"],
+      "respuesta_correcta": "El nacimiento del Estado",
+      "sustento": "El sol naciente simboliza la aparición de una nación nueva y joven."
+    },
+    {
+      "id": 127,
+      "categoria": "Historia de la Educación",
+      "pregunta": "¿A quién se le atribuye la frase: 'La escuela es el lugar donde el pueblo aprende su liberación'?",
+      "opciones": ["Simón Bolívar", "Elizardo Pérez", "Avelino Siñani", "Fausto Reinaga"],
+      "respuesta_correcta": "Elizardo Pérez",
+      "sustento": "Fue el pensamiento central durante la creación de la Escuela Ayllu de Warisata."
+    },
+    {
+      "id": 128,
+      "categoria": "Geografía Política",
+      "pregunta": "¿Con qué país Bolivia tiene la frontera más corta?",
+      "opciones": ["Chile", "Perú", "Paraguay", "Argentina"],
+      "respuesta_correcta": "Paraguay",
+      "sustento": "La frontera con Paraguay es la de menor extensión lineal comparada con Brasil o Argentina."
+    },
+    {
+      "id": 129,
+      "categoria": "Actualidad / Deporte",
+      "pregunta": "¿En qué ciudad boliviana se encuentra el Estadio Hernando Siles, el más importante del país?",
+      "opciones": ["Santa Cruz", "Cochabamba", "La Paz", "Sucre"],
+      "respuesta_correcta": "La Paz",
+      "sustento": "Es el principal escenario deportivo nacional, ubicado en el barrio de Miraflores."
+    },
+    {
+      "id": 130,
+      "categoria": "Historia / Conflictos",
+      "pregunta": "¿En qué año Bolivia perdió su salida al mar tras el Tratado de 1904?",
+      "opciones": ["1879", "1884", "1904", "1920"],
+      "respuesta_correcta": "1904",
+      "sustento": "El Tratado de Paz y Amistad de 1904 consolidó el dominio chileno sobre el territorio del Litoral."
+    },
+    {
+      "id": 131,
+      "categoria": "Cultura / Lenguas",
+      "pregunta": "¿Cuál es la lengua nativa más hablada en Bolivia según el último censo?",
+      "opciones": ["Aymara", "Guaraní", "Quechua", "Mojeño"],
+      "respuesta_correcta": "Quechua",
+      "sustento": "El quechua es el idioma indígena con mayor número de hablantes, distribuido principalmente en los valles y el altiplano."
+    },
+    {
+      "id": 132,
+      "categoria": "Organización del Estado",
+      "pregunta": "¿Qué institución tiene la misión de 'Defender y conservar la independencia, seguridad y estabilidad del Estado'?",
+      "opciones": ["La Policía Nacional", "Las Fuerzas Armadas", "El Ministerio de Gobierno", "La Aduana"],
+      "respuesta_correcta": "Las Fuerzas Armadas",
+      "sustento": "Definido por la CPE como su rol principal en la seguridad externa del país."
+    },
+    {
+      "id": 133,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es el departamento boliviano que limita con Brasil, Perú y Chile?",
+      "opciones": ["La Paz", "Pando", "Oruro", "Ninguno"],
+      "respuesta_correcta": "La Paz",
+      "sustento": "La Paz tiene fronteras internacionales con Perú y Chile, pero no con Brasil (con Brasil limita Pando y Beni)."
+    },
+    {
+      "id": 134,
+      "categoria": "Historia / Revolución",
+      "pregunta": "¿Qué partido político lideró la Revolución Nacional de 1952?",
+      "opciones": ["MNR", "MIR", "ADN", "UDP"],
+      "respuesta_correcta": "MNR",
+      "sustento": "El Movimiento Nacionalista Revolucionario, con figuras como Paz Estenssoro y Siles Zuazo."
+    },
+    {
+      "id": 135,
+      "categoria": "Flora y Fauna",
+      "pregunta": "¿Qué animal es considerado patrimonio natural y se encuentra en peligro por el tráfico de colmillos?",
+      "opciones": ["Llama", "Jaguar", "Cóndor", "Tatú"],
+      "respuesta_correcta": "Jaguar",
+      "sustento": "Bolivia ha reforzado leyes para proteger al jaguar (otorongo) frente a la caza ilegal."
+    },
+    {
+      "id": 136,
+      "categoria": "CPE / Organización",
+      "pregunta": "¿Cómo se llama el principio que prohíbe el asentamiento de bases militares extranjeras en Bolivia?",
+      "opciones": ["Soberanía Nacional", "Bolivia es un Estado pacifista", "Antiimperialismo", "No alineación"],
+      "respuesta_correcta": "Bolivia es un Estado pacifista",
+      "sustento": "El artículo 10 de la CPE establece que Bolivia es un Estado pacifista y prohíbe bases militares extranjeras."
+    },
+    {
+      "id": 137,
+      "categoria": "Historia / Patrimonio",
+      "pregunta": "¿Qué ciudad boliviana fue la sede de la Casa Real de la Moneda?",
+      "opciones": ["La Paz", "Sucre", "Potosí", "Oruro"],
+      "respuesta_correcta": "Potosí",
+      "sustento": "Allí se acuñaban las monedas de plata que circulaban por todo el mundo durante la colonia."
+    },
+    {
+      "id": 138,
+      "categoria": "Educación / Ley 070",
+      "pregunta": "¿Cuál es el eje articulador que busca la armonía con la naturaleza en la Ley 070?",
+      "opciones": ["Educación en valores", "Educación en convivencia con la Madre Tierra", "Educación técnica", "Educación ciudadana"],
+      "respuesta_correcta": "Educación en convivencia con la Madre Tierra",
+      "sustento": "Busca generar conciencia ecológica y respeto por el medio ambiente desde el aula."
+    },
+    {
+      "id": 139,
+      "categoria": "Geografía / Hidrografía",
+      "pregunta": "¿Qué río fronterizo con Brasil es conocido por su riqueza en oro y pesca?",
+      "opciones": ["Río Iténez", "Río Madera", "Río Paraguay", "Río Pilcomayo"],
+      "respuesta_correcta": "Río Iténez",
+      "sustento": "También conocido como Guaporé, es un límite natural extenso con el gigante sudamericano."
+    },
+    {
+      "id": 140,
+      "categoria": "Actualidad / Social",
+      "pregunta": "¿Qué bono estatal se otorga para incentivar la permanencia escolar de niños y niñas?",
+      "opciones": ["Bono Juana Azurduy", "Renta Dignidad", "Bono Juancito Pinto", "Bono Familia"],
+      "respuesta_correcta": "Bono Juancito Pinto",
+      "sustento": "Es un subsidio anual que se paga a estudiantes de colegios fiscales y de convenio."
+    },
+    {
+      "id": 141,
+      "categoria": "Historia / Conflictos",
+      "pregunta": "¿Quién era el presidente de Bolivia al estallar la Guerra del Pacífico?",
+      "opciones": ["Hilarión Daza", "Narciso Campero", "Aniceto Arce", "Mariano Melgarejo"],
+      "respuesta_correcta": "Hilarión Daza",
+      "sustento": "Daza gobernaba cuando Chile invadió Antofagasta en febrero de 1879."
+    },
+    {
+      "id": 142,
+      "categoria": "CPE / Ciudadanía",
+      "pregunta": "¿Qué es el referéndum en Bolivia?",
+      "opciones": [
+        "Un tipo de ley",
+        "Un mecanismo de democracia directa para que el pueblo decida sobre temas de interés",
+        "Una reunión de ministros",
+        "El nombre del parlamento"
+      ],
+      "respuesta_correcta": "Un mecanismo de democracia directa para que el pueblo decida sobre temas de interés",
+      "sustento": "Permite a los ciudadanos votar 'Sí' o 'No' ante consultas nacionales, departamentales o municipales."
+    },
+    {
+      "id": 143,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es la capital del departamento de Beni?",
+      "opciones": ["Riberalta", "Trinidad", "Guayaramerín", "San Borja"],
+      "respuesta_correcta": "Trinidad",
+      "sustento": "Fundada como la Misión de la Santísima Trinidad, es el centro administrativo del Beni."
+    },
+    {
+      "id": 144,
+      "categoria": "Historia",
+      "pregunta": "¿En qué año se fundó la ciudad de Nuestra Señora de La Paz?",
+      "opciones": ["1538", "1548", "1550", "1600"],
+      "respuesta_correcta": "1548",
+      "sustento": "Fundada por Alonso de Mendoza en Laja y luego trasladada al valle de Chuquiago."
+    },
+    {
+      "id": 145,
+      "categoria": "Actualidad",
+      "pregunta": "¿Qué institución estatal se encarga de la exploración y explotación de gas y petróleo?",
+      "opciones": ["COMIBOL", "YPFB", "ENDE", "ENTEL"],
+      "respuesta_correcta": "YPFB",
+      "sustento": "Yacimientos Petrolíferos Fiscales Bolivianos es la empresa estratégica del Estado en hidrocarburos."
+    },
+    {
+      "id": 146,
+      "categoria": "Cultura",
+      "pregunta": "¿En qué ciudad se realiza la festividad de la Virgen de Urkupiña?",
+      "opciones": ["Oruro", "Potosí", "Quillacollo", "Tarija"],
+      "respuesta_correcta": "Quillacollo",
+      "sustento": "Quillacollo, en el departamento de Cochabamba, recibe miles de peregrinos cada agosto."
+    },
+    {
+      "id": 147,
+      "categoria": "Historia / Revolución",
+      "pregunta": "¿Qué presidente creó el Seguro Social Obligatorio en Bolivia?",
+      "opciones": ["Víctor Paz Estenssoro", "Hernán Siles Zuazo", "Hugo Banzer", "Evo Morales"],
+      "respuesta_correcta": "Hernán Siles Zuazo",
+      "sustento": "Durante su primer mandato se consolidaron beneficios sociales para los trabajadores."
+    },
+    {
+      "id": 148,
+      "categoria": "Geografía",
+      "pregunta": "¿Qué departamento de Bolivia es famoso por la producción de uvas y vinos?",
+      "opciones": ["Chuquisaca", "Tarija", "Cochabamba", "La Paz"],
+      "respuesta_correcta": "Tarija",
+      "sustento": "El Valle Central de Tarija es la zona vitivinícola más importante del país."
+    },
+    {
+      "id": 149,
+      "categoria": "CPE / Justicia",
+      "pregunta": "¿Quién es el actual Presidente del Estado Plurinacional de Bolivia?",
+      "opciones": ["Evo Morales", "Luis Arce Catacora", "David Choquehuanca", "Carlos Mesa"],
+      "respuesta_correcta": "Luis Arce Catacora",
+      "sustento": "Asumió la presidencia el 8 de noviembre de 2020."
+    },
+    {
+      "id": 150,
+      "categoria": "Educación / Valores",
+      "pregunta": "¿Qué significa el principio ético 'Ama Llulla'?",
+      "opciones": ["No seas ladrón", "No seas flojo", "No seas mentiroso", "No seas orgulloso"],
+      "respuesta_correcta": "No seas mentiroso",
+      "sustento": "Es el tercer principio de la trilogía andina reconocida por la Constitución boliviana."
+    },
+    {
+      "id": 151,
+      "categoria": "CPE / Organización del Estado",
+      "pregunta": "¿Cuál es la función principal del Órgano Electoral Plurinacional según la Constitución?",
+      "opciones": [
+        "Dictar leyes para el país",
+        "Organizar, administrar y ejecutar los procesos electorales y proclamar sus resultados",
+        "Juzgar a los ciudadanos que no votan",
+        "Elegir al Presidente del Estado"
+      ],
+      "respuesta_correcta": "Organizar, administrar y ejecutar los procesos electorales y proclamar sus resultados",
+      "sustento": "Es el cuarto órgano del Estado, encargado de garantizar la democracia intercultural."
+    },
+    {
+      "id": 152,
+      "categoria": "Historia / Revolución Nacional",
+      "pregunta": "¿Qué institución estratégica para la economía minera fue creada tras la Revolución de 1952?",
+      "opciones": ["YPFB", "COMIBOL", "ENTEL", "ENDE"],
+      "respuesta_correcta": "COMIBOL",
+      "sustento": "La Corporación Minera de Bolivia fue creada para administrar las minas nacionalizadas a los 'Barones del Estaño'."
+    },
+    {
+      "id": 153,
+      "categoria": "Ley 070 / Estructura",
+      "pregunta": "¿Cómo se denomina el nivel de formación superior que otorgan las ESFM?",
+      "opciones": [
+        "Técnico Medio",
+        "Licenciatura",
+        "Maestría",
+        "Técnico Superior"
+      ],
+      "respuesta_correcta": "Licenciatura",
+      "sustento": "La Ley 070 jerarquiza la formación docente otorgando el grado académico de Licenciatura tras 5 años de estudio."
+    },
+    {
+      "id": 154,
+      "categoria": "Geografía",
+      "pregunta": "¿Cuál es el nombre del salar más grande del mundo ubicado en el departamento de Potosí?",
+      "opciones": ["Salar de Coipasa", "Salar de Empexa", "Salar de Uyuni", "Salar de Chalviri"],
+      "respuesta_correcta": "Salar de Uyuni",
+      "sustento": "Es la mayor reserva de litio del mundo y un icono geográfico de Bolivia."
+    },
+    {
+      "id": 155,
+      "categoria": "Ley 348 / Derechos",
+      "pregunta": "¿Qué tipo de violencia se define como el uso de la fuerza física que causa daño o lesiones, según la Ley 348?",
+      "opciones": [
+        "Violencia Psicológica",
+        "Violencia Física",
+        "Violencia Patrimonial",
+        "Violencia Mediática"
+      ],
+      "respuesta_correcta": "Violencia Física",
+      "sustento": "La Ley 348 identifica 17 formas de violencia contra la mujer."
+    },
+    {
+      "id": 156,
+      "categoria": "Historia / Conflictos",
+      "pregunta": "¿Qué territorio perdió Bolivia en la Guerra del Acre?",
+      "opciones": ["El Litoral", "El Chaco Boreal", "El territorio del Acre", "Mato Grosso"],
+      "respuesta_correcta": "El territorio del Acre",
+      "sustento": "Fue cedido a Brasil tras la firma del Tratado de Petrópolis en 1903."
+    },
+    {
+      "id": 157,
+      "categoria": "CPE / Símbolos",
+      "pregunta": "¿Qué animal presente en el Escudo de Armas representa la fauna de Bolivia?",
+      "opciones": ["El Cóndor", "La Llama", "El Jaguar", "El Puma"],
+      "respuesta_correcta": "La Llama",
+      "sustento": "La llama simboliza la riqueza de la fauna andina en el escudo nacional."
+    },
+    {
+      "id": 158,
+      "categoria": "Cultura / Patrimonio",
+      "pregunta": "¿En qué departamento se encuentran las misiones jesuíticas de Chiquitos, declaradas Patrimonio de la Humanidad?",
+      "opciones": ["Beni", "Pando", "Santa Cruz", "Tarija"],
+      "respuesta_correcta": "Santa Cruz",
+      "sustento": "Son iglesias misionales que conservan la arquitectura y música barroca indígena."
+    },
+    {
+      "id": 159,
+      "categoria": "Ley 045 / Racismo",
+      "pregunta": "¿Qué autoridad o servidor público está obligado a denunciar actos de racismo o discriminación según la Ley 045?",
+      "opciones": [
+        "Solo los policías",
+        "Todo servidor público que tenga conocimiento de dichos actos",
+        "Solo el Director del colegio",
+        "Nadie está obligado"
+      ],
+      "respuesta_correcta": "Todo servidor público que tenga conocimiento de dichos actos",
+      "sustento": "La ley establece la obligatoriedad de denuncia para evitar la impunidad."
+    },
+    {
+      "id": 160,
+      "categoria": "Geografía / Hidrografía",
+      "pregunta": "¿Cuál es el río más largo que corre íntegramente por territorio boliviano?",
+      "opciones": ["Río Mamoré", "Río Desaguadero", "Río Grande", "Río Pilcomayo"],
+      "respuesta_correcta": "Río Mamoré",
+      "sustento": "Es el principal colector de la cuenca amazónica en Bolivia."
+    },
+    {
+      "id": 161,
+      "categoria": "CPE / Deberes",
+      "pregunta": "Según la Constitución, es un deber de los bolivianos y bolivianas:",
+      "opciones": [
+        "Viajar al extranjero una vez al año",
+        "Resguardar, defender y proteger el patrimonio natural, económico y cultural de Bolivia",
+        "Pertenecer a una organización social",
+        "Trabajar exclusivamente para el Estado"
+      ],
+      "respuesta_correcta": "Resguardar, defender y proteger el patrimonio natural, económico y cultural de Bolivia",
+      "sustento": "Artículo 108 de la CPE sobre deberes ciudadanos."
+    },
+    {
+      "id": 162,
+      "categoria": "Historia / Próceres",
+      "pregunta": "¿Quién es conocido como el 'Moto' Méndez, héroe de la batalla de la Tablada?",
+      "opciones": ["Eduardo Abaroa", "Eustaquio Méndez", "Manuel Ascencio Padilla", "José Ballivián"],
+      "respuesta_correcta": "Eustaquio Méndez",
+      "sustento": "Líder guerrillero que luchó por la independencia en la región de Tarija."
+    },
+    {
+      "id": 163,
+      "categoria": "Ley 070 / Principios",
+      "pregunta": "La educación boliviana es 'Intracultural, Intercultural y Plurilingüe'. ¿A qué se refiere la Interculturalidad?",
+      "opciones": [
+        "Aprender solo la cultura propia",
+        "El diálogo y convivencia respetuosa entre diversas culturas en igualdad de condiciones",
+        "Viajar a otros países para estudiar",
+        "Eliminar las culturas originarias para modernizarse"
+      ],
+      "respuesta_correcta": "El diálogo y convivencia respetuosa entre diversas culturas en igualdad de condiciones",
+      "sustento": "Busca la cohesión social y el aprendizaje mutuo entre las 36 naciones del Estado."
+    },
+    {
+      "id": 164,
+      "categoria": "Actualidad / Economía",
+      "pregunta": "¿Cuál es la moneda oficial del Estado Plurinacional de Bolivia?",
+      "opciones": ["El Peso Boliviano", "El Dólar", "El Boliviano", "El Sol"],
+      "respuesta_correcta": "El Boliviano",
+      "sustento": "Es la unidad monetaria legalmente establecida desde 1987."
+    },
+    {
+      "id": 165,
+      "categoria": "Historia / Patrimonio",
+      "pregunta": "¿En qué ciudad se firmó el Acta de Independencia de Bolivia el 6 de agosto de 1825?",
+      "opciones": ["La Paz", "Potosí", "Chuquisaca (hoy Sucre)", "Santa Cruz"],
+      "respuesta_correcta": "Chuquisaca (hoy Sucre)",
+      "sustento": "La Asamblea Deliberante se reunió en la Casa de la Libertad."
+    },
+    {
+      "id": 181,
+      "categoria": "Historia / Revolución Nacional",
+      "pregunta": "¿Qué medida de 1953 permitió que los campesinos se convirtieran en propietarios de la tierra que trabajaban?",
+      "opciones": [
+        "La Nacionalización de las Minas",
+        "La Reforma Agraria",
+        "El Voto Universal",
+        "El Código de la Educación"
+      ],
+      "respuesta_correcta": "La Reforma Agraria",
+      "sustento": "Bajo el lema 'la tierra es de quien la trabaja', se buscó eliminar el sistema latifundista."
+    },
+    {
+      "id": 182,
+      "categoria": "CPE / Derechos Ambientales",
+      "pregunta": "Según la Constitución, ¿qué es el agua para el Estado Plurinacional?",
+      "opciones": [
+        "Un bien de exportación",
+        "Un derecho humano fundamental y un recurso finito y vulnerable",
+        "Una mercancía privada",
+        "Un recurso que solo pertenece a las gobernaciones"
+      ],
+      "respuesta_correcta": "Un derecho humano fundamental y un recurso finito y vulnerable",
+      "sustento": "La CPE prohíbe la privatización del agua por ser vital para la vida."
+    },
+    {
+      "id": 183,
+      "categoria": "Geografía / Hidrografía",
+      "pregunta": "¿A qué cuenca hidrográfica pertenece el Lago Titicaca?",
+      "opciones": [
+        "Cuenca del Amazonas",
+        "Cuenca del Plata",
+        "Cuenca Cerrada o Lacustre",
+        "Cuenca del Pacífico"
+      ],
+      "respuesta_correcta": "Cuenca Cerrada o Lacustre",
+      "sustento": "Es una cuenca endorreica que no tiene salida hacia los océanos."
+    },
+    {
+      "id": 184,
+      "categoria": "Ley 070 / Niveles",
+      "pregunta": "¿Cuáles son las etapas que comprende el nivel de Educación Primaria Comunitaria Vocacional?",
+      "opciones": [
+        "De 1ro a 4to año",
+        "De 1ro a 6to año",
+        "De 1ro a 8vo año",
+        "Solo 1ro y 2do año"
+      ],
+      "respuesta_correcta": "De 1ro a 6to año",
+      "sustento": "La estructura actual del sistema educativo divide primaria y secundaria en 6 años cada una."
+    },
+    {
+      "id": 185,
+      "categoria": "CPE / Organización Territorial",
+      "pregunta": "¿Cuántos departamentos tiene el Estado Plurinacional de Bolivia?",
+      "opciones": ["7", "8", "9", "10"],
+      "respuesta_correcta": "9",
+      "sustento": "La división política actual consta de 9 departamentos autónomos."
+    },
+    {
+      "id": 186,
+      "categoria": "Historia / Conflictos",
+      "pregunta": "¿En qué año se libró la Batalla de Boquerón durante la Guerra del Chaco?",
+      "opciones": ["1932", "1935", "1900", "1952"],
+      "respuesta_correcta": "1932",
+      "sustento": "Fue una de las batallas más heroicas y recordadas por la resistencia boliviana."
+    },
+    {
+      "id": 187,
+      "categoria": "Ley 045 / Racismo",
+      "pregunta": "¿Cuál es la sanción máxima de privación de libertad por el delito de Racismo según la Ley 045?",
+      "opciones": [
+        "1 a 3 años",
+        "3 a 7 años",
+        "10 años",
+        "30 años"
+      ],
+      "respuesta_correcta": "3 a 7 años",
+      "sustento": "Esta pena se agrava si el hecho es cometido por un servidor público."
+    },
+    {
+      "id": 188,
+      "categoria": "CPE / Deberes Docentes",
+      "pregunta": "Según la CPE, ¿cuál es la responsabilidad del Estado respecto a la formación de maestros?",
+      "opciones": [
+        "Privatizar la formación docente",
+        "Es responsabilidad única y exclusiva del Estado la formación profesional de maestros",
+        "Dejar que cada universidad cree su propia currícula",
+        "No intervenir en las ESFM"
+      ],
+      "respuesta_correcta": "Es responsabilidad única y exclusiva del Estado la formación profesional de maestros",
+      "sustento": "Garantiza la unidad del sistema educativo plurinacional (Artículo 96)."
+    },
+    {
+      "id": 189,
+      "categoria": "Geografía / Límites",
+      "pregunta": "¿Con qué país Bolivia comparte la mayor extensión de frontera?",
+      "opciones": ["Argentina", "Brasil", "Perú", "Chile"],
+      "respuesta_correcta": "Brasil",
+      "sustento": "La frontera con Brasil se extiende por más de 3,400 kilómetros."
+    },
+    {
+      "id": 190,
+      "categoria": "Ley 348",
+      "pregunta": "¿Qué instancia es la encargada de recibir denuncias de violencia contra la mujer en la Policía?",
+      "opciones": ["FELCC", "FELCV", "FELCN", "Interpol"],
+      "respuesta_correcta": "FELCV",
+      "sustento": "Fuerza Especial de Lucha Contra la Violencia."
+    },
+    {
+      "id": 191,
+      "categoria": "CPE / Salud",
+      "pregunta": "¿Qué establece la Constitución sobre la medicina tradicional?",
+      "opciones": [
+        "Está prohibida por no ser científica",
+        "El Estado garantiza el respeto y la promoción de la medicina tradicional",
+        "Solo se permite en el campo",
+        "No tiene ninguna validez legal"
+      ],
+      "respuesta_correcta": "El Estado garantiza el respeto y la promoción de la medicina tradicional",
+      "sustento": "Se reconoce como parte de los saberes de las naciones indígena originarias."
+    },
+    {
+      "id": 192,
+      "categoria": "Historia / Próceres",
+      "pregunta": "¿Quién fue la heroína que lideró a las mujeres en la colina de San Sebastián (Cochabamba)?",
+      "opciones": ["Juana Azurduy", "Manuela Gandarillas", "Vicenta Juaristi Eguino", "Adela Zamudio"],
+      "respuesta_correcta": "Manuela Gandarillas",
+      "sustento": "Lideró a las 'Heroínas de la Coronilla' contra las tropas realistas en 1812."
+    },
+    {
+      "id": 193,
+      "categoria": "Ley 070 / Currículo",
+      "pregunta": "¿Cuál es el documento que orienta la educación en todo el país de forma uniforme?",
+      "opciones": [
+        "Currículo Regionalizado",
+        "Currículo Base",
+        "Proyecto Socioproductivo",
+        "Plan de Clase"
+      ],
+      "respuesta_correcta": "Currículo Base",
+      "sustento": "Establece los lineamientos comunes para todos los subsistemas del país."
+    },
+    {
+      "id": 194,
+      "categoria": "CPE / Ética",
+      "pregunta": "¿Qué significa el principio ético-moral 'Ama Llulla'?",
+      "opciones": [
+        "No seas flojo",
+        "No seas mentiroso",
+        "No seas ladrón",
+        "Vive bien"
+      ],
+      "respuesta_correcta": "No seas mentiroso",
+      "sustento": "Es uno de los tres pilares de la moral incaica recogidos en la CPE."
+    },
+    {
+      "id": 195,
+      "categoria": "Geografía / Altitud",
+      "pregunta": "¿Cuál es la capital del Estado Plurinacional de Bolivia según la Constitución?",
+      "opciones": ["La Paz", "Cochabamba", "Sucre", "Santa Cruz"],
+      "respuesta_correcta": "Sucre",
+      "sustento": "Sucre es la capital histórica y sede del Órgano Judicial."
+    },
+    {
+      "id": 196,
+      "categoria": "Cultura / Patrimonio",
+      "pregunta": "¿En qué departamento se celebra la festividad de la Virgen de Urkupiña?",
+      "opciones": ["Oruro", "Cochabamba", "Potosí", "La Paz"],
+      "respuesta_correcta": "Cochabamba",
+      "sustento": "Se celebra cada agosto en el municipio de Quillacollo."
+    },
+    {
+      "id": 197,
+      "categoria": "Ley 045 / Definiciones",
+      "pregunta": "¿Qué es la 'Misoginia' según la normativa boliviana?",
+      "opciones": [
+        "Odio a los extranjeros",
+        "Cualquier conducta de odio, desprecio o rechazo hacia las mujeres",
+        "Miedo a los animales",
+        "Prejuicio contra los jóvenes"
+      ],
+      "respuesta_correcta": "Cualquier conducta de odio, desprecio o rechazo hacia las mujeres",
+      "sustento": "Es una conducta sancionada en el marco de la lucha contra la discriminación."
+    },
+    {
+      "id": 198,
+      "categoria": "CPE / Símbolos",
+      "pregunta": "¿Qué flor nacional representa la unión de las regiones de Bolivia?",
+      "opciones": ["La Rosa", "La Kantuta y el Patujú", "El Girasol", "La Orquídea"],
+      "respuesta_correcta": "La Kantuta y el Patujú",
+      "sustento": "Ambas son símbolos patrios que representan el Altiplano y los Llanos."
+    },
+    {
+      "id": 199,
+      "categoria": "Historia / Actualidad",
+      "pregunta": "¿En qué año se realizó el Censo de Población y Vivienda más reciente en Bolivia?",
+      "opciones": ["2012", "2020", "2024", "2010"],
+      "respuesta_correcta": "2024",
+      "sustento": "El censo nacional se llevó a cabo en marzo de 2024."
+    },
+    {
+      "id": 200,
+      "categoria": "CPE / Educación",
+      "pregunta": "En Bolivia, ¿hasta qué nivel la educación es obligatoria?",
+      "opciones": [
+        "Solo hasta Primaria",
+        "Hasta el Bachillerato",
+        "Hasta la Universidad",
+        "No es obligatoria"
+      ],
+      "respuesta_correcta": "Hasta el Bachillerato",
+      "sustento": "El Estado garantiza la obligatoriedad de la educación hasta el nivel secundario."
+    }
+
+
+    ]
+    }
+

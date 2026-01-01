@@ -1,0 +1,593 @@
+{
+"area": "Conocimientos Generales",
+  "bloque": 4,
+  "preguntas": [
+    {
+      "id": 1,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la Inteligencia Emocional según los textos de formación docente?",
+      "opciones": [
+        "La capacidad de memorizar datos rápido",
+        "La habilidad de reconocer, entender y gestionar nuestras propias emociones y las de los demás",
+        "La capacidad de no sentir tristeza ni enojo",
+        "Ser el más inteligente del curso"
+      ],
+      "respuesta_correcta": "La habilidad de reconocer, entender y gestionar nuestras propias emociones y las de los demás",
+      "sustento": "Permite al docente manejar el clima del aula y empatizar con los estudiantes."
+    },
+    {
+      "id": 2,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cuál de las siguientes es una característica de la 'Escucha Activa'?",
+      "opciones": [
+        "Oír lo que el otro dice mientras hago otra cosa",
+        "Interrumpir para dar mi opinión rápido",
+        "Prestar atención total, asintiendo y validando lo que la otra persona expresa",
+        "Esperar a que el otro termine para decirle que está equivocado"
+      ],
+      "respuesta_correcta": "Prestar atención total, asintiendo y validando lo que la otra persona expresa",
+      "sustento": "La escucha activa es fundamental para la resolución de conflictos en la comunidad educativa."
+    },
+    {
+      "id": 3,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué se entiende por 'Empatía'?",
+      "opciones": [
+        "Sentir lástima por los demás",
+        "Ponerse en el lugar del otro para comprender sus sentimientos y perspectivas",
+        "Darle la razón a todos para evitar problemas",
+        "Ayudar a los demás solo cuando nos conviene"
+      ],
+      "respuesta_correcta": "Ponerse en el lugar del otro para comprender sus sentimientos y perspectivas",
+      "sustento": "Es la base de la convivencia armónica y el respeto a la diversidad."
+    },
+    {
+      "id": 4,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Asertividad' en la comunicación?",
+      "opciones": [
+        "Expresar lo que pensamos de forma agresiva para que nos respeten",
+        "Quedarse callado para no generar conflicto",
+        "Expresar ideas y sentimientos de manera directa, honesta y respetuosa, sin agredir ni someterse",
+        "Hablar siempre con palabras técnicas"
+      ],
+      "respuesta_correcta": "Expresar ideas y sentimientos de manera directa, honesta y respetuosa, sin agredir ni someterse",
+      "sustento": "Un docente asertivo pone límites claros sin dañar la integridad del estudiante."
+    },
+    {
+      "id": 5,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cómo se define la 'Resiliencia'?",
+      "opciones": [
+        "La capacidad de evitar problemas",
+        "La capacidad de superar la adversidad y salir fortalecido de ella",
+        "No tener sentimientos frente a la tragedia",
+        "Olvidar rápido los sucesos malos"
+      ],
+      "respuesta_correcta": "La capacidad de superar la adversidad y salir fortalecido de ella",
+      "sustento": "Es vital para los docentes que trabajan en contextos vulnerables o de crisis."
+    },
+    {
+      "id": 6,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cuál es el primer paso para una resolución pacífica de conflictos?",
+      "opciones": [
+        "Buscar un culpable",
+        "Llamar a la policía",
+        "Identificar el problema y las emociones involucradas",
+        "Ignorar la situación hasta que pase"
+      ],
+      "respuesta_correcta": "Identificar el problema y las emociones involucradas",
+      "sustento": "Sin claridad sobre el origen del conflicto no se puede llegar a una solución duradera."
+    },
+    {
+      "id": 7,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es el 'Autoconocimiento'?",
+      "opciones": [
+        "Saber mucha historia universal",
+        "Conocer nuestras propias fortalezas, debilidades, valores y emociones",
+        "Creer que somos mejores que los demás",
+        "Saber qué piensan los demás de nosotros"
+      ],
+      "respuesta_correcta": "Conocer nuestras propias fortalezas, debilidades, valores y emociones",
+      "sustento": "Es la base para el desarrollo personal y la autorregulación."
+    },
+    {
+      "id": 8,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es el 'Trabajo Colaborativo'?",
+      "opciones": [
+        "Que una persona haga todo el trabajo y los demás firmen",
+        "Repartir las tareas y que cada uno trabaje por su cuenta",
+        "Interacción coordinada donde los miembros aportan para lograr una meta común, aprendiendo unos de otros",
+        "Competir para ver quién es el mejor del grupo"
+      ],
+      "respuesta_correcta": "Interacción coordinada donde los miembros aportan para lograr una meta común, aprendiendo unos de otros",
+      "sustento": "Responde al principio de comunidad del Sistema Educativo Plurinacional."
+    },
+    {
+      "id": 9,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Autorregulación Emocional'?",
+      "opciones": [
+        "Reprimir las emociones para no llorar",
+        "Controlar las reacciones impulsivas y expresar las emociones de forma adecuada al contexto",
+        "Hacer lo que uno quiera cuando tiene rabia",
+        "No sentir nada ante situaciones estresantes"
+      ],
+      "respuesta_correcta": "Controlar las reacciones impulsivas y expresar las emociones de forma adecuada al contexto",
+      "sustento": "Previene el maltrato y mejora la toma de decisiones bajo presión."
+    },
+    {
+      "id": 10,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿A qué se refiere el término 'Liderazgo Distribuido' en la escuela?",
+      "opciones": [
+        "A que el director manda a todos",
+        "A que todos los miembros de la comunidad asumen responsabilidades y aportan según sus capacidades",
+        "A que no hay ninguna autoridad",
+        "A repartir premios a los mejores líderes"
+      ],
+      "respuesta_correcta": "A que todos los miembros de la comunidad asumen responsabilidades y aportan según sus capacidades",
+      "sustento": "Promueve la democratización y la participación social."
+    },
+    {
+      "id": 11,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "En el contexto educativo boliviano, ¿qué significa 'Vivir Bien' (Suma Qamaña) en las relaciones sociales?",
+      "opciones": [
+        "Tener mucho dinero y propiedades",
+        "Vivir en armonía con uno mismo, con la comunidad y con la naturaleza",
+        "Ganar siempre en las discusiones",
+        "Viajar por todo el mundo"
+      ],
+      "respuesta_correcta": "Vivir en armonía con uno mismo, con la comunidad y con la naturaleza",
+      "sustento": "Es el horizonte ético que guía la conducta del docente y el estudiante."
+    },
+    {
+      "id": 12,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Tolerancia a la Frustración'?",
+      "opciones": [
+        "Aceptar que siempre vamos a perder",
+        "La capacidad de manejar el estrés cuando las cosas no salen como esperábamos",
+        "Enojarse mucho para desahogarse",
+        "Rendirse rápido para no sufrir"
+      ],
+      "respuesta_correcta": "La capacidad de manejar el estrés cuando las cosas no salen como esperábamos",
+      "sustento": "Fundamental para el proceso de aprendizaje, donde el error es parte del crecimiento."
+    },
+    {
+      "id": 13,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué caracteriza a una persona con 'Autoestima Positiva'?",
+      "opciones": [
+        "Pensar que es perfecta y no comete errores",
+        "Valorarse y aceptarse a sí misma con sus virtudes y defectos",
+        "Sentirse superior a los demás",
+        "Necesitar la aprobación constante de todos"
+      ],
+      "respuesta_correcta": "Valorarse y aceptarse a sí misma con sus virtudes y defectos",
+      "sustento": "Una buena autoestima permite enfrentar retos con mayor seguridad."
+    },
+    {
+      "id": 14,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Negociación' en la resolución de conflictos?",
+      "opciones": [
+        "Pagar para que el conflicto se acabe",
+        "Proceso de comunicación entre partes para llegar a un acuerdo aceptable para ambos",
+        "Hacer que la otra parte se rinda",
+        "Imponer nuestra solución a la fuerza"
+      ],
+      "respuesta_correcta": "Proceso de comunicación entre partes para llegar a un acuerdo aceptable para ambos",
+      "sustento": "Busca el beneficio mutuo o el 'ganar-ganar'."
+    },
+    {
+      "id": 15,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es el 'Pensamiento Crítico' aplicado a las emociones?",
+      "opciones": [
+        "Criticar lo que los demás sienten",
+        "Analizar por qué sentimos lo que sentimos antes de actuar",
+        "Ser negativo ante cualquier situación",
+        "No creer en las emociones de nadie"
+      ],
+      "respuesta_correcta": "Analizar por qué sentimos lo que sentimos antes de actuar",
+      "sustento": "Ayuda a desnaturalizar prejuicios y reacciones automáticas violentas."
+    },
+{
+      "id": 31,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "Según los textos de apoyo, ¿cuál es la base para la 'Convivencia Armónica' en la comunidad educativa?",
+      "opciones": [
+        "El cumplimiento estricto de horarios",
+        "El respeto mutuo, el diálogo y el reconocimiento del otro",
+        "La aplicación de sanciones severas",
+        "La uniformidad de pensamiento"
+      ],
+      "respuesta_correcta": "El respeto mutuo, el diálogo y el reconocimiento del otro",
+      "sustento": "La convivencia armónica es un principio del Modelo Educativo Sociocomunitario Productivo para generar ambientes de aprendizaje seguros."
+    },
+    {
+      "id": 32,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué papel juega la 'Escucha Atenta' en el proceso de enseñanza-aprendizaje?",
+      "opciones": [
+        "Permite que el profesor dicte mejor su clase",
+        "Facilita la comprensión de las necesidades y realidades de las y los estudiantes",
+        "Sirve para identificar quién no está prestando atención",
+        "Es una técnica para mantener el silencio en el aula"
+      ],
+      "respuesta_correcta": "Facilita la comprensión de las necesidades y realidades de las y los estudiantes",
+      "sustento": "El currículo enfatiza la escucha como una herramienta pedagógica para la formación integral."
+    },
+    {
+      "id": 33,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cómo se define el 'Autocontrol' en el ejercicio docente según el repositorio?",
+      "opciones": [
+        "La capacidad de no demostrar ninguna emoción frente a los alumnos",
+        "La gestión equilibrada de las reacciones ante situaciones de tensión en el aula",
+        "Ignorar las faltas de respeto de los estudiantes",
+        "Hacer que los estudiantes se autocontrolen mediante el miedo"
+      ],
+      "respuesta_correcta": "La gestión equilibrada de las reacciones ante situaciones de tensión en el aula",
+      "sustento": "El docente debe ser ejemplo de madurez emocional para resolver conflictos de forma no violenta."
+    },
+    {
+      "id": 34,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "Dentro del enfoque de 'Valores Sociocomunitarios', ¿qué representa la Solidaridad?",
+      "opciones": [
+        "Ayudar a otros para recibir un reconocimiento público",
+        "La acción de compartir y colaborar en tareas comunes para el bienestar de la comunidad",
+        "Hacer el trabajo del compañero que falta",
+        "Dar limosna a quienes no tienen recursos"
+      ],
+      "respuesta_correcta": "La acción de compartir y colaborar en tareas comunes para el bienestar de la comunidad",
+      "sustento": "La solidaridad en el PDF se describe como una práctica colectiva, no como un acto individual de caridad."
+    },
+    {
+      "id": 35,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿A qué se refiere el concepto de 'Intraculturalidad' en el desarrollo personal del estudiante?",
+      "opciones": [
+        "Aprender otros idiomas extranjeros",
+        "El fortalecimiento de la identidad propia, valorando la cultura y saberes de su origen",
+        "Estudiar la historia de otros países",
+        "Integrarse a la cultura global dominante"
+      ],
+      "respuesta_correcta": "El fortalecimiento de la identidad propia, valorando la cultura y saberes de su origen",
+      "sustento": "Es el paso previo y necesario para una relación intercultural respetuosa."
+    },
+    {
+      "id": 36,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "En la resolución de conflictos escolares, ¿qué es la 'Mediación' según el enfoque del SEP?",
+      "opciones": [
+        "La intervención del director para decidir quién tiene la razón",
+        "Un proceso donde un tercero facilita que las partes en conflicto dialoguen y lleguen a acuerdos",
+        "Un juicio interno para castigar al culpable",
+        "La firma de un acta de compromiso obligatoria"
+      ],
+      "respuesta_correcta": "Un proceso donde un tercero facilita que las partes en conflicto dialoguen y lleguen a acuerdos",
+      "sustento": "Busca que la solución nazca del consenso y no de la imposición."
+    },
+    {
+      "id": 37,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué implica la 'Corresponsabilidad' de los padres de familia en el bienestar emocional del estudiante?",
+      "opciones": [
+        "Pagar las pensiones o aportes a tiempo",
+        "Acompañar activamente el proceso formativo y emocional de sus hijos en coordinación con la escuela",
+        "Asistir a todas las reuniones convocadas por el director",
+        "Comprar todos los materiales que el profesor solicita"
+      ],
+      "respuesta_correcta": "Acompañar activamente el proceso formativo y emocional de sus hijos en coordinación con la escuela",
+      "sustento": "La educación es una tarea compartida entre Estado, sociedad y familia según la Ley 070."
+    },
+    {
+      "id": 38,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cuál es el objetivo de desarrollar la 'Asertividad' en las y los futuros maestros?",
+      "opciones": [
+        "Poder imponer su autoridad en el aula sin discusiones",
+        "Comunicar decisiones y sentimientos de forma clara y firme, respetando los derechos de los demás",
+        "Ser amigos de todos los estudiantes para evitar conflictos",
+        "Saber decir 'sí' a todas las peticiones de los padres de familia"
+      ],
+      "respuesta_correcta": "Comunicar decisiones y sentimientos de forma clara y firme, respetando los derechos de los demás",
+      "sustento": "Evita tanto la pasividad como la agresividad en el trato pedagógico."
+    },
+    {
+      "id": 39,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué se busca fortalecer con la 'Autoestima Sociocomunitaria'?",
+      "opciones": [
+        "El orgullo individual de ser el mejor estudiante",
+        "La valoración positiva de uno mismo como parte activa y digna de una comunidad y cultura",
+        "La capacidad de competir con otros grupos",
+        "El sentimiento de superioridad sobre otras culturas"
+      ],
+      "respuesta_correcta": "La valoración positiva de uno mismo como parte activa y digna de una comunidad y cultura",
+      "sustento": "Rompe con la visión individualista de la psicología tradicional, enfocándola en el entorno social."
+    },
+    {
+      "id": 40,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cómo ayuda la 'Resiliencia' al docente en el contexto del Modelo Educativo actual?",
+      "opciones": [
+        "A ignorar los problemas de la comunidad",
+        "A adaptarse y superar desafíos pedagógicos en entornos diversos o difíciles",
+        "A no cansarse nunca durante las horas de clase",
+        "A trabajar sin necesidad de recursos materiales"
+      ],
+      "respuesta_correcta": "A adaptarse y superar desafíos pedagógicos en entornos diversos o difíciles",
+      "sustento": "Permite transformar las dificultades en oportunidades de aprendizaje para la comunidad."
+    },
+    {
+      "id": 41,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Ética del Cuidado' en el aula?",
+      "opciones": [
+        "Vigilar que los estudiantes no se lastimen físicamente",
+        "La responsabilidad de proteger y promover el desarrollo emocional y la integridad de los estudiantes",
+        "Limpiar el aula antes de empezar la clase",
+        "Asegurarse de que los estudiantes cumplan con sus tareas"
+      ],
+      "respuesta_correcta": "La responsabilidad de proteger y promover el desarrollo emocional y la integridad de los estudiantes",
+      "sustento": "El docente es el primer garante de un ambiente libre de violencia."
+    },
+    {
+      "id": 42,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué promueve el valor del 'Ayni' en las relaciones dentro de la ESFM?",
+      "opciones": [
+        "La competencia por las mejores notas",
+        "La reciprocidad y ayuda mutua entre compañeros de formación",
+        "El pago de deudas económicas",
+        "La realización de trabajos grupales por obligación"
+      ],
+      "respuesta_correcta": "La reciprocidad y ayuda mutua entre compañeros de formación",
+      "sustento": "Es un principio andino de colaboración: 'hoy por ti, mañana por mí' aplicado al estudio."
+    },
+    {
+      "id": 43,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cuál es la importancia de la 'Empatía Intercultural'?",
+      "opciones": [
+        "Aprender a bailar danzas de todas las regiones",
+        "Comprender y sentir respeto por las visiones de mundo diferentes a la propia",
+        "Convencer a otros de que nuestra cultura es mejor",
+        "Aceptar a otros solo si se adaptan a nuestras costumbres"
+      ],
+      "respuesta_correcta": "Comprender y sentir respeto por las visiones de mundo diferentes a la propia",
+      "sustento": "Es fundamental para el diálogo horizontal entre diversas naciones del Estado Plurinacional."
+    },
+    {
+      "id": 44,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Autorregulación' en el proceso de aprendizaje?",
+      "opciones": [
+        "Que el profesor ponga las reglas",
+        "La capacidad del estudiante de monitorear y ajustar su propio esfuerzo y emociones para aprender",
+        "Estudiar siempre a la misma hora",
+        "No pedir ayuda a nadie para demostrar independencia"
+      ],
+      "respuesta_correcta": "La capacidad del estudiante de monitorear y ajustar su propio esfuerzo y emociones para aprender",
+      "sustento": "Fomenta la autonomía del estudiante en el Modelo Educativo Sociocomunitario."
+    },
+    {
+      "id": 45,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "En el marco de la Despatriarcalización, ¿cuál es una habilidad socioemocional clave?",
+      "opciones": [
+        "La fuerza física para resolver problemas",
+        "La expresión abierta de sentimientos sin miedo a prejuicios de género",
+        "La obediencia ciega a las autoridades masculinas",
+        "El mantenimiento de los roles tradicionales de hombres y mujeres"
+      ],
+      "respuesta_correcta": "La expresión abierta de sentimientos sin miedo a prejuicios de género",
+      "sustento": "Busca romper estereotipos que impiden a los varones expresar vulnerabilidad o a las mujeres firmeza."
+    },
+    {
+      "id": 46,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿A qué se refiere el 'Liderazgo Comunitario' del docente?",
+      "opciones": [
+        "A ser el jefe de la zona donde vive",
+        "A la capacidad de articular la escuela con la comunidad para resolver problemas comunes",
+        "A mandar sobre los padres de familia",
+        "A organizar fiestas patronales en la escuela"
+      ],
+      "respuesta_correcta": "A la capacidad de articular la escuela con la comunidad para resolver problemas comunes",
+      "sustento": "El docente boliviano es un agente social, no solo un transmisor de contenidos en el aula."
+    },
+    {
+      "id": 47,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué característica define al 'Diálogo' como herramienta de resolución de conflictos?",
+      "opciones": [
+        "Una discusión donde gana quien habla más fuerte",
+        "Un intercambio de palabras para convencer al otro de su error",
+        "Un proceso de comunicación horizontal para buscar soluciones de beneficio común",
+        "Escuchar al otro pero mantener siempre la decisión propia"
+      ],
+      "respuesta_correcta": "Un proceso de comunicación horizontal para buscar soluciones de beneficio común",
+      "sustento": "El diálogo implica una disposición real al cambio y al acuerdo."
+    },
+    {
+      "id": 48,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cómo influye el 'Entorno Familiar' en el desarrollo socioemocional según el repositorio?",
+      "opciones": [
+        "Es el único responsable de la conducta del niño",
+        "Es el primer espacio de socialización y formación de valores y seguridad emocional",
+        "No influye, ya que el niño aprende todo en la escuela",
+        "Solo influye si los padres tienen estudios superiores"
+      ],
+      "respuesta_correcta": "Es el primer espacio de socialización y formación de valores y seguridad emocional",
+      "sustento": "La estabilidad en el hogar es la base para el éxito escolar y social."
+    },
+    {
+      "id": 49,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Motivación Social' en la educación productiva?",
+      "opciones": [
+        "Hacer las tareas para que todos vean que soy inteligente",
+        "El deseo de aprender para contribuir al desarrollo y bienestar de su comunidad",
+        "Participar en redes sociales para ser popular",
+        "Aprender para ganar mucho dinero en el futuro"
+      ],
+      "respuesta_correcta": "El deseo de aprender para contribuir al desarrollo y bienestar de su comunidad",
+      "sustento": "Se alinea con el fin de la educación de formar personas útiles a su sociedad."
+    },
+    {
+      "id": 50,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "Ante la diversidad de opiniones en un consejo de profesores, ¿cuál debe ser la actitud?",
+      "opciones": [
+        "Imponer el punto de vista del director por jerarquía",
+        "Aceptar la opinión de la mayoría sin discutir",
+        "Practicar el pluralismo y el respeto, buscando el consenso en beneficio de los estudiantes",
+        "Ignorar las opiniones contrarias para no perder tiempo"
+      ],
+      "respuesta_correcta": "Practicar el pluralismo y el respeto, buscando el consenso en beneficio de los estudiantes",
+      "sustento": "El trabajo en equipo docente es clave para el éxito institucional."
+    },
+    {
+      "id": 51,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es el 'Acompañamiento Emocional' durante la evaluación?",
+      "opciones": [
+        "Ayudar al estudiante dándole las respuestas",
+        "Brindar seguridad y retroalimentación constructiva para que el error sea visto como aprendizaje",
+        "No poner notas bajas para que el estudiante no se sienta mal",
+        "Estar presente físicamente mientras el alumno rinde el examen"
+      ],
+      "respuesta_correcta": "Brindar seguridad y retroalimentación constructiva para que el error sea visto como aprendizaje",
+      "sustento": "La evaluación en el SEP debe ser formativa y no punitiva."
+    },
+    {
+      "id": 52,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cuál es la importancia de reconocer las propias 'Debilidades' como docente?",
+      "opciones": [
+        "Ninguna, un profesor siempre debe mostrarse perfecto",
+        "Permite buscar formación continua y mejorar la práctica pedagógica",
+        "Sirve para pedir disculpas constantes a los estudiantes",
+        "Hace que el profesor pierda autoridad frente al grupo"
+      ],
+      "respuesta_correcta": "Permite buscar formación continua y mejorar la práctica pedagógica",
+      "sustento": "El autoconocimiento es el punto de partida para la excelencia profesional."
+    },
+    {
+      "id": 53,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué promueve la 'Cultura de la Paz' en las unidades educativas?",
+      "opciones": [
+        "La ausencia total de ruidos y juegos en el recreo",
+        "El rechazo a la violencia y el uso del diálogo como única vía para resolver diferencias",
+        "Que no existan exámenes para evitar el estrés",
+        "Que todos los estudiantes se vistan de blanco"
+      ],
+      "respuesta_correcta": "El rechazo a la violencia y el uso del diálogo como única vía para resolver diferencias",
+      "sustento": "Es un mandato de la CPE y la Ley 070 para erradicar el maltrato escolar."
+    },
+    {
+      "id": 4,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué significa ser un 'Facilitador' emocional en el aula?",
+      "opciones": [
+        "Hacer que el contenido de la materia sea muy fácil",
+        "Crear las condiciones para que los estudiantes expresen y manejen sus emociones saludablemente",
+        "Dejar que los estudiantes hagan lo que quieran",
+        "No exigir tareas difíciles"
+      ],
+      "respuesta_correcta": "Crear las condiciones para que los estudiantes expresen y manejen sus emociones saludablemente",
+      "sustento": "El docente gestiona no solo conocimientos, sino también el clima afectivo."
+    },
+    {
+      "id": 55,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es la 'Identidad Cultural' desde la psicología educativa boliviana?",
+      "opciones": [
+        "Usar ropa típica en las fiestas cívicas solamente",
+        "El sentimiento de pertenencia a una nación o pueblo con historia, lengua y valores propios",
+        "Saber cocinar platos tradicionales",
+        "Vivir obligatoriamente en el lugar de nacimiento de los padres"
+      ],
+      "respuesta_correcta": "El sentimiento de pertenencia a una nación o pueblo con historia, lengua y valores propios",
+      "sustento": "Es un componente esencial de la salud mental y la seguridad personal del estudiante."
+    },
+    {
+      "id": 56,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿A qué ayuda el 'Pensamiento Creativo' en las relaciones interpersonales?",
+      "opciones": [
+        "A inventar excusas convincentes",
+        "A encontrar soluciones novedosas y diversas ante problemas de convivencia",
+        "A hacer manualidades para decorar el aula",
+        "A cambiar las reglas del colegio cada día"
+      ],
+      "respuesta_correcta": "A encontrar soluciones novedosas y diversas ante problemas de convivencia",
+      "sustento": "Permite salir de ciclos de respuesta automáticos y a veces violentos."
+    },
+    {
+      "id": 57,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué es el 'Sentido del Deber' en la formación docente?",
+      "opciones": [
+        "Obedecer al director en todo sin cuestionar",
+        "El compromiso ético y social de cumplir con la labor educativa para el bien común",
+        "Trabajar solo por el sueldo a fin de mes",
+        "Hacer horas extra sin que nadie lo pida"
+      ],
+      "respuesta_correcta": "El compromiso ético y social de cumplir con la labor educativa para el bien común",
+      "sustento": "Se basa en la vocación de servicio a la sociedad boliviana."
+    },
+    {
+      "id": 58,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Cómo se manifiesta el 'Respeto a la Madre Tierra' como habilidad emocional?",
+      "opciones": [
+        "Estudiar biología",
+        "Sentir una conexión profunda y responsabilidad ética por el cuidado de la naturaleza",
+        "No ensuciar el aula",
+        "Tener muchas plantas en la escuela"
+      ],
+      "respuesta_correcta": "Sentir una conexión profunda y responsabilidad ética por el cuidado de la naturaleza",
+      "sustento": "Implica una sensibilidad especial que va más allá de la teoría ecológica."
+    },
+    {
+      "id": 59,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué busca evitar la 'Comunicación No Violenta' (CNV)?",
+      "opciones": [
+        "Las discusiones políticas",
+        "El uso de juicios, críticas o etiquetas que dañan la autoestima del otro",
+        "Hablar de temas tristes",
+        "Las bromas entre compañeros"
+      ],
+      "respuesta_correcta": "El uso de juicios, críticas o etiquetas que dañan la autoestima del otro",
+      "sustento": "La CNV es una herramienta clave propuesta en los talleres de formación de maestros."
+    },
+    {
+      "id": 60,
+      "categoria": "Habilidades Socioemocionales",
+      "pregunta": "¿Qué papel tiene el 'Perdón' y la 'Reconciliación' en la escuela?",
+      "opciones": [
+        "Olvidar las faltas y no poner sanciones",
+        "Procesos necesarios para restaurar la armonía comunitaria tras un conflicto",
+        "Hacer que todos se den la mano obligatoriamente",
+        "No hablar más del problema ocurrido"
+      ],
+      "respuesta_correcta": "Procesos necesarios para restaurar la armonía comunitaria tras un conflicto",
+      "sustento": "La justicia restaurativa es preferible a la puramente punitiva en el ámbito educativo."
+    }
+
+    
+  ]
+}

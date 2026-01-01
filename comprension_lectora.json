@@ -1,0 +1,2059 @@
+{
+"area": "Compresion Lectora",
+  "bloque": 3,
+  "preguntas": [
+    {
+      "id": 1,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Cuál fue la reducción porcentual de la superficie forestal en los Andes bolivianos entre 1900 y 1960?",
+      "opciones": ["10%", "15%", "20%", "25%"],
+      "respuesta_correcta": "20%",
+      "sustento": "La superficie forestal pasó de 4,9 a 3,9 millones de hectáreas entre 1900 y 1960, una reducción del 20%[cite: 548, 590]."
+    },
+    {
+      "id": 2,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué incremento de temperatura media se registró en la zona andina de Bolivia entre 1990 y 2020?",
+      "opciones": ["0.3°C", "0.6°C", "0.9°C", "1.2°C"],
+      "respuesta_correcta": "0.6°C",
+      "sustento": "El aumento de la temperatura media fue de 0,6°C entre 1990 y 2020 según datos del SENAMHI[cite: 559, 604]."
+    },
+    {
+      "id": 3,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Cuál es el primer factor técnico que relaciona la deforestación con el aumento de temperatura en el modelo de balance energético?",
+      "opciones": ["Humedad", "Radiación neta", "Reducción del albedo", "Calor sensible"],
+      "respuesta_correcta": "Reducción del albedo",
+      "sustento": "El texto menciona primero la reducción del albedo (reflectancia) como el factor que desencadena la cadena de efectos térmicos[cite: 601]."
+    },
+    {
+      "id": 4,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué proceso técnico aumenta directamente por la reducción del calor latente (LE) tras la pérdida de bosques?",
+      "opciones": ["Calor sensible (H)", "Precipitación", "Transpiración", "Albedo"],
+      "respuesta_correcta": "Calor sensible (H)",
+      "sustento": "La disminución de LE al perderse los bosques eleva el calor sensible (H) y, por ende, la temperatura del aire[cite: 558, 607]."
+    },
+    {
+      "id": 5,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Cuál era la densidad forestal estimada en los Yungas en el siglo XV según estudios arqueológicos?",
+      "opciones": ["50%", "70%", "85%", "95%"],
+      "respuesta_correcta": "85%",
+      "sustento": "Los estudios indican que la densidad forestal en el siglo XV era aproximadamente un 85% del área total[cite: 543]."
+    },
+    {
+      "id": 6,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué efecto tiene la pérdida de bosque sobre la capacidad de retención de agua en el suelo?",
+      "opciones": ["La aumenta", "La mantiene igual", "La reduce, amplificando sequías", "No tiene relación"],
+      "respuesta_correcta": "La reduce, amplificando sequías",
+      "sustento": "La pérdida de bosque reduce la capacidad de retención de agua en el suelo, amplificando los efectos de la sequía[cite: 561, 626]."
+    },
+    {
+      "id": 7,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Cuántos árboles nativos ha sembrado el programa Biodiversidad Andina (2020-2024)?",
+      "opciones": ["1.5 millones", "2.5 millones", "3.5 millones", "5 millones"],
+      "respuesta_correcta": "3.5 millones",
+      "sustento": "El programa ha sembrado 3,5 millones de árboles nativos en áreas degradadas de los Yungas[cite: 571, 639]."
+    },
+    {
+      "id": 8,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "En el estudio de la UCB, ¿cómo cambió el promedio de calificaciones en matemática con el uso de tutores virtuales de IA?",
+      "opciones": ["De 5.0 a 6.0", "De 6.8 a 8.1", "De 7.5 a 8.5", "No hubo cambio"],
+      "respuesta_correcta": "De 6.8 a 8.1",
+      "sustento": "El promedio de calificaciones pasó de 6.8 a 8.1 y la tasa de deserción disminuyó un 12%[cite: 22, 32]."
+    },
+    {
+      "id": 9,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué proceso biológico maximizan los algoritmos de IA al adaptar la complejidad de los ejercicios?",
+      "opciones": ["Carga cognitiva", "Plasticidad sináptica", "Memoria a corto plazo", "Reflejos"],
+      "respuesta_correcta": "Plasticidad sináptica",
+      "sustento": "Los algoritmos adaptan la complejidad para maximizar la plasticidad sináptica sin saturar la carga cognitiva[cite: 20, 30]."
+    },
+    {
+      "id": 10,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Cuál es la principal diferencia entre los tutores virtuales y la analítica de aprendizaje según el texto?",
+      "opciones": ["La IA solo es para docentes", "Los tutores actúan y la analítica solo informa", "La analítica reemplaza al maestro", "No hay diferencia"],
+      "respuesta_correcta": "Los tutores actúan y la analítica solo informa",
+      "sustento": "Los tutores virtuales actúan directamente en el aprendizaje, mientras que la analítica de aprendizaje proporciona datos para la toma de decisiones[cite: 24, 34]."
+    },
+    {
+      "id": 11,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Cuál es la producción de metano por kilogramo de residuos orgánicos mediante digestores anaeróbicos?",
+      "opciones": ["0.15 m³", "0.30 m³", "0.45 m³", "0.60 m³"],
+      "respuesta_correcta": "0.45 m³",
+      "sustento": "La valorización energética produce 0,45 m³ de metano por kilogramo de residuos orgánicos[cite: 42, 44]."
+    },
+    {
+      "id": 12,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué aceleración de la deforestación se registró entre 2005 y 2020 en comparación con el periodo 1990-2005?",
+      "opciones": ["De 10k a 20k ha/año", "De 32k a 45k ha/año", "Se mantuvo en 32k", "Bajó a 15k"],
+      "respuesta_correcta": "De 32k a 45k ha/año",
+      "sustento": "La pérdida anual media subió de 32,000 ha (1990-2005) a 45,000 ha (2005-2020)[cite: 552, 615]."
+    },
+    {
+      "id": 13,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué carretera abierta en 1978 aceleró la colonización y deforestación del bosque subtropical?",
+      "opciones": ["La Paz - Oruro", "Cochabamba - Santa Cruz", "Trinidad - Riberalta", "Potosí - Tarija"],
+      "respuesta_correcta": "Cochabamba - Santa Cruz",
+      "sustento": "La carretera Cochabamba-Santa Cruz (1978) abrió áreas del bosque a la colonización agroindustrial[cite: 551, 641]."
+    },
+    {
+      "id": 14,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Cuál es el objetivo de combinar conocimientos tradicionales con monitoreo satelital?",
+      "opciones": ["Eliminar la tecnología", "Gestión adaptativa y selección de especies", "Vigilancia de comunidades", "Aumentar la minería"],
+      "respuesta_correcta": "Gestión adaptativa y selección de especies",
+      "sustento": "Permite identificar zonas con estrés hídrico y orientar la selección de especies nativas tolerantes a la sequía[cite: 574, 654]."
+    },
+    {
+      "id": 15,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué gases de efecto invernadero aumentan debido a la quema forestal según el texto?",
+      "opciones": ["Oxígeno", "Dióxido de carbono (CO2)", "Nitrógeno", "Argón"],
+      "respuesta_correcta": "Dióxido de carbono (CO2)",
+      "sustento": "Las emisiones de CO2 por quema forestal intensifican el calentamiento global y crean un círculo vicioso[cite: 562, 568, 646]."
+    },
+    {
+      "id": 16,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué factor mitiga el aumento térmico en los sistemas agroforestales precolombinos?",
+      "opciones": ["Uso de fertilizantes", "Transpiración vegetal sostenida (mayor LE)", "Maquinaria pesada", "Eliminación del dosel"],
+      "respuesta_correcta": "Transpiración vegetal sostenida (mayor LE)",
+      "sustento": "La transpiración vegetal sostenida implica un mayor flujo de calor latente (LE), mitigando el aumento térmico[cite: 621]."
+    },
+    {
+      "id": 17,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué ocurre con la energía neta (Rn) cuando se reduce el albedo (superficies más oscuras)?",
+      "opciones": ["Disminuye la reflectancia", "Aumenta la reflectancia", "No cambia", "Elimina la radiación"],
+      "respuesta_correcta": "Disminuye la reflectancia",
+      "sustento": "La reducción del albedo disminuye la reflectancia, lo que afecta la radiación neta absorbida[cite: 635]."
+    },
+    {
+      "id": 18,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Cuál es la emisión estimada de CO2 anual de Bolivia por incendios entre 2000-2015?",
+      "opciones": ["5 MtCO2", "12 MtCO2", "20 MtCO2", "30 MtCO2"],
+      "respuesta_correcta": "12 MtCO2",
+      "sustento": "Bolivia emitió aproximadamente 12 MtCO2 al año debido a incendios y quema de residuos[cite: 563, 597]."
+    },
+    {
+      "id": 19,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Qué consecuencia tiene una mejor segregación de residuos orgánicos en origen?",
+      "opciones": ["Más contaminación", "Más producción de metano disponible", "Menos reciclaje", "Aumento de costos"],
+      "respuesta_correcta": "Más producción de metano disponible",
+      "sustento": "Al incrementarse la cantidad de residuos orgánicos capturados se genera más metano para abastecer hogares[cite: 44]."
+    },
+    {
+      "id": 20,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué pueblos originarios practicaban la agroforestería tradicional en los Yungas?",
+      "opciones": ["Incas y Mayas", "Aymara y Guaraní", "Quechuas y Chipayas", "Urus y Moxos"],
+      "respuesta_correcta": "Aymara y Guaraní",
+      "sustento": "El artículo menciona explícitamente a los pueblos Aymara y Guaraní en la zona de los Yungas[cite: 541, 612]."
+    },
+    {
+      "id": 21,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué recurso motivó la tala de bosques durante la colonización española del siglo XVI?",
+      "opciones": ["Papel", "Leña y construcción para minería", "Turismo", "Exportación de frutas"],
+      "respuesta_correcta": "Leña y construcción para minería",
+      "sustento": "La demanda de oro y plata impulsó la tala para construcción de carreteras y obtención de leña[cite: 545]."
+    },
+    {
+      "id": 22,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Cuál es la función climática esencial de los bosques andinos mencionada en la introducción?",
+      "opciones": ["Producir madera", "Regulan temperatura y capturan CO2", "Atraer lluvias ácidas", "Aumentar el albedo"],
+      "respuesta_correcta": "Regulan temperatura y capturan CO2",
+      "sustento": "Los bosques desempeñan funciones esenciales: regulan temperatura, retienen agua y capturan CO2[cite: 534]."
+    },
+    {
+      "id": 23,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué provocó la erosión del suelo tras la introducción de ganado vacuno y ovino?",
+      "opciones": ["Rotación de cultivos", "Sobrepastoreo", "Riego por goteo", "Fertilización natural"],
+      "respuesta_correcta": "Sobrepastoreo",
+      "sustento": "La introducción de ganado generó presión y el sobrepastoreo provocó la erosión del suelo[cite: 546]."
+    },
+    {
+      "id": 24,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué cultivos combinaban los pueblos originarios en sus sistemas agroforestales?",
+      "opciones": ["Trigo y cebada", "Maíz, papa y plátano", "Soya y girasol", "Arroz y caña"],
+      "respuesta_correcta": "Maíz, papa y plátano",
+      "sustento": "Combinaban cultivos alimentarios como maíz, papa y plátano con árboles nativos[cite: 541]."
+    },
+    {
+      "id": 25,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué programa utiliza sensores térmicos para identificar estrés hídrico?",
+      "opciones": ["SENAMHI", "Biodiversidad Andina", "Landsat", "GFED"],
+      "respuesta_correcta": "Biodiversidad Andina",
+      "sustento": "La integración de saberes con tecnología en este programa permite usar sensores para identificar estrés hídrico[cite: 574, 654]."
+    },
+    {
+      "id": 26,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué ocurre si la tendencia de deforestación actual continúa en la próxima década?",
+      "opciones": ["Bajará la temperatura", "Aumento de al menos 0.3°C y más sequías", "No habrá cambios", "Aumentará la humedad"],
+      "respuesta_correcta": "Aumento de al menos 0.3°C y más sequías",
+      "sustento": "Se espera otro aumento de temperatura (al menos 0.3°C) y más sequías e incendios[cite: 632]."
+    },
+    {
+      "id": 27,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué entidad reportó los indicadores forestales de Bolivia de 1900-2020?",
+      "opciones": ["Ministerio de Educación", "INE", "FAO", "SENAMHI"],
+      "respuesta_correcta": "INE",
+      "sustento": "Los datos sobre la disminución de la superficie forestal provienen del Instituto Nacional de Estadística (INE)[cite: 547, 584]."
+    },
+    {
+      "id": 28,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿En qué década el Estado boliviano implementó planes de desarrollo que favorecieron la soja?",
+      "opciones": ["1940", "1960", "1980", "2000"],
+      "respuesta_correcta": "1960",
+      "sustento": "A partir de la década de 1960, se implementaron planes para la expansión de la agricultura comercial[cite: 549, 550]."
+    },
+    {
+      "id": 29,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué herramienta permitió cuantificar la aceleración de la deforestación desde 1990?",
+      "opciones": ["Censos manuales", "Imágenes satelitales Landsat", "Encuestas a campesinos", "Vuelos en avioneta"],
+      "respuesta_correcta": "Imágenes satelitales Landsat",
+      "sustento": "El uso de imágenes satelitales del programa Landsat permitió cuantificar la aceleración de la deforestación[cite: 552]."
+    },
+    {
+      "id": 30,
+      "categoria": "Deforestación y Cambio Climático",
+      "pregunta": "¿Qué principio se extrae sobre la mitigación de efectos sociales de la deforestación?",
+      "opciones": ["Solo requiere tecnología", "Depende de saberes tradicionales y participación comunitaria", "Debe ser impuesta por el gobierno", "No se puede mitigar"],
+      "respuesta_correcta": "Depende de saberes tradicionales y participación comunitaria",
+      "sustento": "La mitigación depende de la integración de saberes tradicionales y la participación activa de comunidades indígenas[cite: 624]."
+    },
+    
+    {
+      "id": 31,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué institución lideró el proyecto Bolnet para proporcionar la primera salida de internet a Bolivia?",
+      "opciones": ["Entel", "UMSA", "Ministerio de Educación", "Agetic"],
+      "respuesta_correcta": "UMSA",
+      "sustento": "Bolnet nació como una iniciativa académica de la Universidad Mayor de San Andrés para conectar a Bolivia con redes internacionales."
+    },
+    {
+      "id": 32,
+      "categoria": "Participación Política",
+      "pregunta": "Según el texto sobre digitalización, ¿qué define el concepto de 'Ciberactivismo' en la juventud boliviana?",
+      "opciones": ["Jugar videojuegos en red", "Uso de redes sociales para movilización y debate político", "Tener muchos seguidores en TikTok", "Comprar productos por internet"],
+      "respuesta_correcta": "Uso de redes sociales para movilización y debate político",
+      "sustento": "El ciberactivismo se describe como el uso estratégico de herramientas digitales para incidir en la agenda pública y política."
+    },
+    {
+      "id": 33,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Cuál es la función de los algoritmos de 'Procesamiento de Lenguaje Natural' (PLN) en los tutores inteligentes?",
+      "opciones": ["Arreglar el hardware", "Permitir una interacción fluida en lenguaje humano entre el sistema y el estudiante", "Aumentar la velocidad del internet", "Sustituir la voz del docente"],
+      "respuesta_correcta": "Permitir una interacción fluida en lenguaje humano entre el sistema y el estudiante",
+      "sustento": "El PLN es la rama de la IA que permite a las máquinas comprender y responder en lenguaje natural."
+    },
+    {
+      "id": 34,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué es la 'Latencia' en una conexión de internet y cómo afecta la teleducación?",
+      "opciones": ["Es el color de los cables", "Es el retraso en la transmisión de datos que afecta las videollamadas", "Es el costo mensual del servicio", "Es la marca de la computadora"],
+      "respuesta_correcta": "Es el retraso en la transmisión de datos que afecta las videollamadas",
+      "sustento": "Una latencia alta provoca cortes o retrasos en la comunicación síncrona, dificultando el aprendizaje en tiempo real."
+    },
+    {
+      "id": 35,
+      "categoria": "Participación Política",
+      "pregunta": "¿A qué se refiere el texto cuando menciona la 'polarización afectiva' en redes sociales?",
+      "opciones": ["Al amor por la tecnología", "Al rechazo emocional hacia quienes piensan diferente políticamente", "A la falta de batería en los dispositivos", "Al uso de emojis en los mensajes"],
+      "respuesta_correcta": "Al rechazo emocional hacia quienes piensan diferente políticamente",
+      "sustento": "Las redes sociales tienden a agrupar a personas con ideas similares, generando hostilidad hacia los grupos externos."
+    },
+    {
+      "id": 36,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Cuál fue el principal beneficio del satélite Túpac Katari (TKSAT-1) para la educación?",
+      "opciones": ["Proveer internet de fibra óptica", "Llevar señal de internet y teleducación a zonas rurales remotas", "Bajar el precio del internet en las ciudades", "Mejorar la señal de radio AM"],
+      "respuesta_correcta": "Llevar señal de internet y teleducación a zonas rurales remotas",
+      "sustento": "El satélite permite cobertura en puntos geográficos donde no llega el cableado tradicional."
+    },
+    {
+      "id": 37,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué papel juega la 'evapotranspiración' de los bosques en el ciclo hidrológico andino?",
+      "opciones": ["No tiene impacto", "Devuelve humedad a la atmósfera favoreciendo las lluvias", "Seca los ríos", "Produce oxígeno solamente"],
+      "respuesta_correcta": "Devuelve humedad a la atmósfera favoreciendo las lluvias",
+      "sustento": "Los bosques funcionan como bombas bióticas que mantienen el flujo de humedad y las lluvias locales."
+    },
+    {
+      "id": 38,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es un 'modelo generativo' en el contexto de la IA educativa?",
+      "opciones": ["Una IA que solo borra datos", "Una IA capaz de crear contenido nuevo como textos, imágenes o código", "Un tipo de monitor", "Una ley de educación"],
+      "respuesta_correcta": "Una IA capaz de crear contenido nuevo como textos, imágenes o código",
+      "sustento": "Los modelos generativos (como ChatGPT) pueden crear materiales didácticos basados en instrucciones."
+    },
+    {
+      "id": 39,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué significa que Bolivia haya logrado 'soberanía digital' con la fibra óptica al Pacífico?",
+      "opciones": ["Que el internet es gratis", "Que ya no depende de empresas intermediarias de países vecinos para el tránsito de datos", "Que solo se usa software boliviano", "Que se prohibió el uso de cables"],
+      "respuesta_correcta": "Que ya no depende de empresas intermediarias de países vecinos para el tránsito de datos",
+      "sustento": "Tener red propia hasta el mar reduce costos y da autonomía técnica al Estado boliviano."
+    },
+    {
+      "id": 40,
+      "categoria": "Participación Política",
+      "pregunta": "¿Cuál es la función de los 'Bots' en una campaña de desinformación según el repositorio?",
+      "opciones": ["Ayudar a los usuarios con sus tareas", "Automatizar la difusión masiva de mensajes para simular un apoyo mayoritario", "Reparar computadoras", "Traducir textos"],
+      "respuesta_correcta": "Automatizar la difusión masiva de mensajes para simular un apoyo mayoritario",
+      "sustento": "Los bots se usan para inflar tendencias y hacer creer que una opinión es compartida por miles de personas reales."
+    },
+    {
+      "id": 41,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué diferencia a la 'Web 1.0' de la 'Web 2.0' según el análisis histórico?",
+      "opciones": ["La velocidad", "La transición de un usuario pasivo a uno que crea y comparte contenido", "El precio de las computadoras", "El uso de colores en la pantalla"],
+      "respuesta_correcta": "La transición de un usuario pasivo a uno que crea y comparte contenido",
+      "sustento": "La Web 2.0 permitió la interacción social y el contenido generado por el usuario (blogs, redes sociales)."
+    },
+    {
+      "id": 42,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué ocurre con el ciclo del carbono cuando un bosque es quemado (chaqueo)?",
+      "opciones": ["El carbono se entierra", "Se libera CO2 a la atmósfera, contribuyendo al efecto invernadero", "Se produce más oxígeno", "El ciclo se detiene"],
+      "respuesta_correcta": "Se libera CO2 a la atmósfera, contribuyendo al efecto invernadero",
+      "sustento": "Los árboles almacenan carbono; al quemarse, ese carbono vuelve a la atmósfera en forma de gas de efecto invernadero."
+    },
+    {
+      "id": 43,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Cuál es el propósito de la 'ética de datos' en los sistemas educativos con IA?",
+      "opciones": ["Comprar datos baratos", "Garantizar la privacidad, transparencia y justicia en el manejo de información de menores", "Hacer los sistemas más rápidos", "Evitar el uso de internet"],
+      "respuesta_correcta": "Garantizar la privacidad, transparencia y justicia en el manejo de información de menores",
+      "sustento": "La ética asegura que el uso de IA no vulnere derechos fundamentales de los estudiantes."
+    },
+    {
+      "id": 44,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué tecnología permitió el salto de internet móvil en Bolivia de 3G a 4G LTE?",
+      "opciones": ["La radio AM", "La fibra óptica y nuevas bandas de frecuencia", "Los satélites de baja órbita", "El telégrafo"],
+      "respuesta_correcta": "La fibra óptica y nuevas bandas de frecuencia",
+      "sustento": "El 4G LTE requirió una infraestructura de soporte más robusta para permitir altas velocidades de datos."
+    },
+    {
+      "id": 45,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué es la 'Cámara de Eco' en redes sociales?",
+      "opciones": ["Un filtro de audio", "Un entorno donde solo se escuchan y refuerzan opiniones iguales a la propia", "Una habitación para grabar podcasts", "Un virus informático"],
+      "respuesta_correcta": "Un entorno donde solo se escuchan y refuerzan opiniones iguales a la propia",
+      "sustento": "Debido a los algoritmos, el usuario deja de ver opiniones contrarias, creyendo que su visión es la única real."
+    },
+    {
+      "id": 46,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué significa el término 'Blended Learning' o aprendizaje semipresencial?",
+      "opciones": ["Estudiar solo por internet", "Combinar clases presenciales con actividades virtuales", "Estudiar en dos colegios", "No usar tecnología"],
+      "respuesta_correcta": "Combinar clases presenciales con actividades virtuales",
+      "sustento": "Es un modelo híbrido que aprovecha lo mejor de la presencialidad y la flexibilidad virtual."
+    },
+    {
+      "id": 47,
+      "categoria": "Deforestación",
+      "pregunta": "¿Cómo afecta la pérdida de biodiversidad andina a la seguridad alimentaria?",
+      "opciones": ["Aumenta la comida", "Reduce la variedad de cultivos y polinizadores necesarios para la agricultura", "No tiene impacto", "Mejora el sabor de los alimentos"],
+      "respuesta_correcta": "Reduce la variedad de cultivos y polinizadores necesarios para la agricultura",
+      "sustento": "Los ecosistemas sanos proveen servicios esenciales como la polinización de los cultivos."
+    },
+    {
+      "id": 48,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es el 'aprendizaje profundo' (Deep Learning)?",
+      "opciones": ["Estudiar muchas horas", "Una técnica de IA que imita el funcionamiento de las redes neuronales del cerebro", "Un examen difícil", "Un software para nadadores"],
+      "respuesta_correcta": "Una técnica de IA que imita el funcionamiento de las redes neuronales del cerebro",
+      "sustento": "El Deep Learning permite a las máquinas aprender patrones complejos a partir de grandes volúmenes de datos."
+    },
+    {
+      "id": 49,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué impacto tuvo la Ley 164 en el sector de las telecomunicaciones en Bolivia?",
+      "opciones": ["Prohibió el internet", "Estableció el derecho al acceso universal a las TIC", "Privatizó todas las empresas", "Eliminó el uso de satélites"],
+      "respuesta_correcta": "Estableció el derecho al acceso universal a las TIC",
+      "sustento": "La ley garantiza que el Estado debe trabajar para que todos los bolivianos tengan acceso a la tecnología."
+    },
+    {
+      "id": 50,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué es el 'Clickactivismo' y por qué es criticado?",
+      "opciones": ["Hacer clic muy rápido", "Apoyo superficial a causas sociales (likes) sin compromiso real fuera de internet", "Un tipo de mouse", "Programar en Java"],
+      "respuesta_correcta": "Apoyo superficial a causas sociales (likes) sin compromiso real fuera de internet",
+      "sustento": "Se critica porque puede dar una falsa sensación de ayuda sin generar cambios reales en la sociedad."
+    },
+    {
+      "id": 51,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué zona de Bolivia ha sido la más afectada por la deforestación para el cultivo de soya?",
+      "opciones": ["El Altiplano", "Las Tierras Bajas (Santa Cruz)", "Los valles de Tarija", "La Cordillera Real"],
+      "respuesta_correcta": "Las Tierras Bajas (Santa Cruz)",
+      "sustento": "La expansión de la agroindustria ha concentrado la pérdida de bosque en el oriente boliviano."
+    },
+    {
+      "id": 52,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es un 'chatbot' pedagógico?",
+      "opciones": ["Un robot que limpia el aula", "Un programa diseñado para resolver dudas académicas de forma automática", "Un juguete electrónico", "Un virus de chat"],
+      "respuesta_correcta": "Un programa diseñado para resolver dudas académicas de forma automática",
+      "sustento": "Son herramientas que ofrecen respuestas inmediatas a preguntas frecuentes de los estudiantes."
+    },
+    {
+      "id": 53,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Cuál es el principal reto de la 'evaluación en línea' según el repositorio?",
+      "opciones": ["El costo del papel", "Garantizar la honestidad académica y la identidad del estudiante", "Que no se pueden usar colores", "Que dura menos tiempo"],
+      "respuesta_correcta": "Garantizar la honestidad académica y la identidad del estudiante",
+      "sustento": "La virtualidad presenta desafíos para evitar el plagio y asegurar que el estudiante realice sus propias pruebas."
+    },
+    {
+      "id": 54,
+      "categoria": "Participación Política",
+      "pregunta": "¿Cómo influyen los 'algoritmos de recomendación' en el consumo de noticias?",
+      "opciones": ["Obligan a leer todo", "Muestran noticias basadas en el historial del usuario, limitando la diversidad", "Solo muestran noticias falsas", "No tienen influencia"],
+      "respuesta_correcta": "Muestran noticias basadas en el historial del usuario, limitando la diversidad",
+      "sustento": "Los algoritmos priorizan lo que 'gusta' al usuario, encerrándolo en un círculo de información repetitiva."
+    },
+    {
+      "id": 55,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué son los 'Telecentros' comunitarios?",
+      "opciones": ["Tiendas de ropa", "Espacios públicos con internet para comunidades que no tienen acceso privado", "Centros de televisión", "Casetas telefónicas antiguas"],
+      "respuesta_correcta": "Espacios públicos con internet para comunidades que no tienen acceso privado",
+      "sustento": "Son fundamentales para reducir la brecha digital en el área rural."
+    },
+    {
+      "id": 56,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué papel juega la IA en la 'analítica de aprendizaje'?",
+      "opciones": ["No tiene papel", "Identificar patrones de comportamiento para predecir el éxito o fracaso escolar", "Borrar las notas bajas", "Sustituir al director"],
+      "respuesta_correcta": "Identificar patrones de comportamiento para predecir el éxito o fracaso escolar",
+      "sustento": "La analítica usa datos para ayudar a los docentes a intervenir a tiempo si un alumno tiene problemas."
+    },
+    {
+      "id": 57,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué es el 'desarrollo sostenible' según el texto ambiental?",
+      "opciones": ["Gastar todo ahora", "Satisfacer necesidades actuales sin comprometer las de futuras generaciones", "Prohibir todo tipo de industria", "Solo plantar flores"],
+      "respuesta_correcta": "Satisfacer necesidades actuales sin comprometer las de futuras generaciones",
+      "sustento": "Busca un equilibrio entre el crecimiento económico, el cuidado ambiental y el bienestar social."
+    },
+    {
+      "id": 58,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué es la 'Alfabetización Mediática e Informacional' (AMI)?",
+      "opciones": ["Saber leer y escribir", "Habilidad para acceder, analizar y evaluar críticamente los mensajes de los medios", "Tener un título en comunicación", "Comprar periódicos"],
+      "respuesta_correcta": "Habilidad para acceder, analizar y evaluar críticamente los mensajes de los medios",
+      "sustento": "La AMI es la mejor defensa ciudadana contra la manipulación y las noticias falsas."
+    },
+    {
+      "id": 59,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué ventaja ofrece el 'Software Libre' para el sistema educativo boliviano?",
+      "opciones": ["Es más difícil de usar", "Permite ahorrar en licencias y adaptar el código a las necesidades locales", "No necesita computadora", "Solo funciona en español"],
+      "respuesta_correcta": "Permite ahorrar en licencias y adaptar el código a las necesidades locales",
+      "sustento": "El software libre fomenta la soberanía tecnológica y el conocimiento compartido."
+    },
+    {
+      "id": 60,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Por qué se dice que la IA puede 'democratizar' el acceso al conocimiento?",
+      "opciones": ["Porque es gratis siempre", "Porque ofrece tutoría personalizada a gran escala a bajo costo relativo", "Porque hace los exámenes sola", "Porque no necesita internet"],
+      "respuesta_correcta": "Porque ofrece tutoría personalizada a gran escala a bajo costo relativo",
+      "sustento": "Sistemas inteligentes pueden llegar a miles de estudiantes con guías personalizadas que antes solo eran posibles con tutores humanos individuales."
+    },
+ 
+    {
+      "id": 61,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es la 'Carga Cognitiva' y por qué la IA busca no saturarla?",
+      "opciones": [
+        "Es el peso de la computadora",
+        "Es la cantidad de esfuerzo mental utilizado en la memoria de trabajo",
+        "Es el costo de la energía eléctrica",
+        "Es la cantidad de libros en una biblioteca"
+      ],
+      "respuesta_correcta": "Es la cantidad de esfuerzo mental utilizado en la memoria de trabajo",
+      "sustento": "El texto científico indica que la IA adapta la dificultad para que el estudiante aprenda sin bloquear su capacidad de procesamiento mental."
+    },
+    {
+      "id": 62,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Cuál es la principal diferencia entre el modelo económico lineal y el circular?",
+      "opciones": [
+        "El lineal es más rápido",
+        "El circular busca que los residuos se conviertan en recursos",
+        "El lineal no usa dinero",
+        "El circular solo se aplica en agricultura"
+      ],
+      "respuesta_correcta": "El circular busca que los residuos se conviertan en recursos",
+      "sustento": "A diferencia del 'extraer-fabricar-eliminar', la economía circular propone el reciclaje y la reutilización constante."
+    },
+    {
+      "id": 63,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué fenómeno describe la 'Brecha Digital de Segundo Grado'?",
+      "opciones": [
+        "No tener dinero para comprar un celular",
+        "Tener acceso a internet pero no saber usarlo para aprender o producir",
+        "Que la señal de internet sea muy lenta",
+        "No tener electricidad en la casa"
+      ],
+      "respuesta_correcta": "Tener acceso a internet pero no saber usarlo para aprender o producir",
+      "sustento": "Ya no se trata solo de tener el cable, sino de poseer las competencias digitales para aprovechar la herramienta."
+    },
+    {
+      "id": 64,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué impacto tuvo la implementación del dominio '.bo' en la identidad digital de Bolivia?",
+      "opciones": [
+        "Permitió identificar sitios web como originarios de Bolivia",
+        "Hizo que el internet fuera gratuito",
+        "Eliminó la necesidad de usar Google",
+        "Solo se podía usar en la ciudad de La Paz"
+      ],
+      "respuesta_correcta": "Permitió identificar sitios web como originarios de Bolivia",
+      "sustento": "La gestión del dominio soberano .bo fue un paso clave en la institucionalización del internet en el país."
+    },
+    {
+      "id": 65,
+      "categoria": "Participación Política",
+      "pregunta": "¿Cómo define el texto a los 'Prosumidores' digitales?",
+      "opciones": [
+        "Usuarios que solo leen noticias",
+        "Usuarios que consumen y a la vez producen contenido en redes sociales",
+        "Personas que venden computadoras",
+        "Expertos en reparación de software"
+      ],
+      "respuesta_correcta": "Usuarios que consumen y a la vez producen contenido en redes sociales",
+      "sustento": "El prosumidor es el actor clave de la web 2.0, ya que no es un espectador pasivo."
+    },
+    {
+      "id": 66,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es un 'Algoritmo de Recomendación' y cómo afecta el estudio?",
+      "opciones": [
+        "Un virus que borra archivos",
+        "Un sistema que sugiere contenidos basados en el comportamiento previo del usuario",
+        "Una persona que da consejos",
+        "Un tipo de teclado nuevo"
+      ],
+      "respuesta_correcta": "Un sistema que sugiere contenidos basados en el comportamiento previo del usuario",
+      "sustento": "En educación, estos algoritmos ayudan a personalizar la ruta de aprendizaje según lo que el alumno ya sabe."
+    },
+    {
+      "id": 67,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué es la 'Resiliencia Ecosistémica' mencionada en el repositorio?",
+      "opciones": [
+        "La capacidad de un bosque de recuperarse tras una perturbación",
+        "La altura de los árboles más viejos",
+        "La velocidad con la que se corta la madera",
+        "El color de las hojas en otoño"
+      ],
+      "respuesta_correcta": "La capacidad de un bosque de recuperarse tras una perturbación",
+      "sustento": "Los bosques andinos con mayor biodiversidad tienen más resiliencia ante el cambio climático."
+    },
+    {
+      "id": 68,
+      "categoria": "Ciberseguridad",
+      "pregunta": "¿Cuál es la función del 'Cifrado de Extremo a Extremo' en las comunicaciones educativas?",
+      "opciones": [
+        "Hacer que el internet sea más rápido",
+        "Garantizar que solo el emisor y el receptor puedan leer los mensajes",
+        "Traducir los mensajes a otros idiomas",
+        "Guardar los mensajes en una base de datos pública"
+      ],
+      "respuesta_correcta": "Garantizar que solo el emisor y el receptor puedan leer los mensajes",
+      "sustento": "Es una medida de privacidad vital para proteger la información sensible de docentes y alumnos."
+    },
+    {
+      "id": 69,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué significa el término 'Asincrónico' en el aprendizaje virtual?",
+      "opciones": [
+        "Que ocurre en tiempo real",
+        "Que los estudiantes y docentes no necesitan estar conectados al mismo tiempo",
+        "Que la computadora está rota",
+        "Que el profesor no asiste a clases"
+      ],
+      "respuesta_correcta": "Que los estudiantes y docentes no necesitan estar conectados al mismo tiempo",
+      "sustento": "Permite que el estudiante acceda a videos o tareas en su propio horario."
+    },
+    {
+      "id": 70,
+      "categoria": "Impacto de Redes Sociales",
+      "pregunta": "¿Qué es el 'Doxing' y por qué es un peligro en la red?",
+      "opciones": [
+        "Un tipo de baile viral",
+        "La publicación de información privada de una persona sin su consentimiento",
+        "Un software de diseño gráfico",
+        "Una nueva criptomoneda"
+      ],
+      "respuesta_correcta": "La publicación de información privada de una persona sin su consentimiento",
+      "sustento": "El doxing es una forma de acoso digital que expone la seguridad física y emocional del usuario."
+    },
+    {
+      "id": 71,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿A qué se refiere el término 'Caja Negra' en la Inteligencia Artificial?",
+      "opciones": [
+        "A un dispositivo físico de color negro",
+        "A sistemas cuyo proceso interno de decisión es difícil de entender para los humanos",
+        "Al monitor cuando está apagado",
+        "A una base de datos secreta del gobierno"
+      ],
+      "respuesta_correcta": "A sistemas cuyo proceso interno de decisión es difícil de entender para los humanos",
+      "sustento": "Es un desafío ético porque no siempre sabemos por qué una IA tomó una decisión específica."
+    },
+    {
+      "id": 72,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué tecnología precedió al uso de la banda ancha en los hogares bolivianos?",
+      "opciones": [
+        "La conexión vía satélite 5G",
+        "La conexión telefónica dial-up (por módem)",
+        "El uso exclusivo de señales de radio",
+        "La fibra óptica directa al hogar"
+      ],
+      "respuesta_correcta": "La conexión telefónica dial-up (por módem)",
+      "sustento": "En los años 90, la conexión se hacía mediante la línea telefónica, ocupando el teléfono mientras se navegaba."
+    },
+    {
+      "id": 73,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Qué es la 'Obsolescencia Programada'?",
+      "opciones": [
+        "Un programa de computación antiguo",
+        "La planificación del fin de la vida útil de un producto para fomentar el consumo",
+        "Arreglar cosas viejas",
+        "Vender productos de segunda mano"
+      ],
+      "respuesta_correcta": "La planificación del fin de la vida útil de un producto para fomentar el consumo",
+      "sustento": "Es lo opuesto a la economía circular, ya que genera residuos innecesarios de forma deliberada."
+    },
+    {
+      "id": 74,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué define a la 'Democracia Digital' según el repositorio?",
+      "opciones": [
+        "Votar por internet solamente",
+        "El uso de TIC para ampliar la participación ciudadana y la transparencia",
+        "Tener una cuenta de Facebook oficial",
+        "Eliminar el congreso físico"
+      ],
+      "respuesta_correcta": "El uso de TIC para ampliar la participación ciudadana y la transparencia",
+      "sustento": "Busca que el ciudadano tenga más canales de diálogo y fiscalización hacia el Estado."
+    },
+    {
+      "id": 75,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué es un 'Recurso Educativo Abierto' (REA)?",
+      "opciones": [
+        "Un libro que se puede comprar en la calle",
+        "Materiales de enseñanza de dominio público o con licencias que permiten su uso gratuito",
+        "Un aula sin paredes",
+        "Un examen que se da a libro abierto"
+      ],
+      "respuesta_correcta": "Materiales de enseñanza de dominio público o con licencias que permiten su uso gratuito",
+      "sustento": "Los REA son fundamentales para democratizar el acceso al conocimiento sin costos de copyright."
+    },
+    {
+      "id": 76,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué relación existe entre la deforestación y las enfermedades zoonóticas?",
+      "opciones": [
+        "No existe relación",
+        "Al destruir hábitats, los humanos tienen más contacto con fauna silvestre y sus virus",
+        "La deforestación mata a todos los virus",
+        "Los árboles producen virus"
+      ],
+      "respuesta_correcta": "Al destruir hábitats, los humanos tienen más contacto con fauna silvestre y sus virus",
+      "sustento": "La pérdida de biodiversidad altera el equilibrio biológico, facilitando el salto de patógenos a humanos."
+    },
+    {
+      "id": 77,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es el 'Aprendizaje Supervisado'?",
+      "opciones": [
+        "Un maestro mirando a los alumnos",
+        "Entrenar a una IA con datos etiquetados que ya tienen la respuesta correcta",
+        "Un examen con cámaras de seguridad",
+        "Aprender solo con libros del gobierno"
+      ],
+      "respuesta_correcta": "Entrenar a una IA con datos etiquetados que ya tienen la respuesta correcta",
+      "sustento": "Es la forma más común de enseñar a una IA a reconocer patrones específicos."
+    },
+    {
+      "id": 78,
+      "categoria": "Ciberseguridad",
+      "pregunta": "¿Qué es la 'Autenticación de Dos Pasos' (2FA)?",
+      "opciones": [
+        "Caminar dos pasos antes de usar la PC",
+        "Un método de seguridad que requiere dos formas distintas de confirmar la identidad",
+        "Usar dos computadoras a la vez",
+        "Cambiar de contraseña cada dos días"
+      ],
+      "respuesta_correcta": "Un método de seguridad que requiere dos formas distintas de confirmar la identidad",
+      "sustento": "Añade una capa de protección si alguien llegara a robar tu contraseña principal."
+    },
+    {
+      "id": 79,
+      "categoria": "Impacto de Redes Sociales",
+      "pregunta": "¿A qué se refiere el término 'Engagement' en el análisis de redes?",
+      "opciones": [
+        "A la cantidad de seguidores",
+        "Al nivel de interacción y compromiso de los usuarios con el contenido",
+        "Al precio de la publicidad",
+        "A la velocidad de descarga"
+      ],
+      "respuesta_correcta": "Al nivel de interacción y compromiso de los usuarios con el contenido",
+      "sustento": "Mide qué tan relevante es un mensaje basándose en likes, compartidos y comentarios."
+    },
+    {
+      "id": 80,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué es la 'Interoperabilidad' en plataformas educativas?",
+      "opciones": [
+        "Que todos los profesores usen la misma marca de laptop",
+        "La capacidad de diferentes sistemas y aplicaciones para compartir datos entre sí",
+        "Que el internet funcione en todo el mundo",
+        "Que los alumnos puedan operar las computadoras"
+      ],
+      "respuesta_correcta": "La capacidad de diferentes sistemas y aplicaciones para compartir datos entre sí",
+      "sustento": "Permite que las notas de una plataforma pasen automáticamente a otra sin errores."
+    },
+    {
+      "id": 81,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es la 'Singularidad Tecnológica'?",
+      "opciones": [
+        "Un error en el disco duro",
+        "Un punto hipotético donde la IA supera la inteligencia humana",
+        "El nombre de la primera computadora boliviana",
+        "Un tipo de cable de fibra óptica"
+      ],
+      "respuesta_correcta": "Un punto hipotético donde la IA supera la inteligencia humana",
+      "sustento": "Es un concepto de debate en la filosofía de la tecnología sobre el futuro de la humanidad."
+    },
+    {
+      "id": 82,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué papel cumplieron los 'Cibercafés' en la sociedad boliviana de los años 2000?",
+      "opciones": [
+        "Eran lugares solo para tomar café",
+        "Fueron los principales centros de acceso democratizado al internet",
+        "Eran centros de reparación de teléfonos",
+        "Solo servían para jugar videojuegos"
+      ],
+      "respuesta_correcta": "Fueron los principales centros de acceso democratizado al internet",
+      "sustento": "Antes de que el internet fuera común en los hogares, los cibercafés permitieron que la población se conectara."
+    },
+    {
+      "id": 83,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Qué es la 'Minería Urbana'?",
+      "opciones": [
+        "Buscar oro en las calles de la ciudad",
+        "La recuperación de metales preciosos de desechos electrónicos",
+        "Cavar túneles bajo los edificios",
+        "Extraer piedras para construcción"
+      ],
+      "respuesta_correcta": "La recuperación de metales preciosos de desechos electrónicos",
+      "sustento": "Es clave en la economía circular para evitar la extracción de nuevos recursos naturales."
+    },
+    {
+      "id": 84,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué es un 'Algoritmo de Curación de Contenidos'?",
+      "opciones": [
+        "Un software médico",
+        "Un sistema que selecciona y organiza la información más relevante para el usuario",
+        "Un programa para arreglar fotos",
+        "Una ley de salud digital"
+      ],
+      "respuesta_correcta": "Un sistema que selecciona y organiza la información más relevante para el usuario",
+      "sustento": "Ayuda a combatir la infoxicación (exceso de información) seleccionando lo más importante."
+    },
+    {
+      "id": 85,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué define a un 'Ambiente Virtual de Aprendizaje' (AVA)?",
+      "opciones": [
+        "Un aula con proyector",
+        "Una plataforma de software diseñada para gestionar cursos y comunicación educativa",
+        "Un juego de realidad virtual",
+        "Estudiar en la biblioteca"
+      ],
+      "respuesta_correcta": "Una plataforma de software diseñada para gestionar cursos y comunicación educativa",
+      "sustento": "Ejemplos de AVA son Moodle, Google Classroom o Canvas."
+    },
+    {
+      "id": 86,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué es el 'Efecto Borde' en fragmentación de bosques?",
+      "opciones": [
+        "El límite de un país",
+        "Cambios ambientales en los límites del bosque que afectan su biodiversidad",
+        "Pintar los árboles de blanco",
+        "El final de una carretera"
+      ],
+      "respuesta_correcta": "Cambios ambientales en los límites del bosque que afectan su biodiversidad",
+      "sustento": "Al fragmentar el bosque, los bordes quedan expuestos a más viento y calor, dañando el ecosistema interno."
+    },
+    {
+      "id": 87,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es el 'Test de Turing'?",
+      "opciones": [
+        "Un examen de conducir",
+        "Una prueba para medir la capacidad de una máquina de exhibir comportamiento inteligente",
+        "Un test de velocidad de internet",
+        "Un examen para profesores de tecnología"
+      ],
+      "respuesta_correcta": "Una prueba para medir la capacidad de una máquina de exhibir comportamiento inteligente",
+      "sustento": "Si un humano no puede distinguir si habla con una máquina o una persona, la máquina pasa el test."
+    },
+    {
+      "id": 88,
+      "categoria": "Ciberseguridad",
+      "pregunta": "¿Qué es el 'Malware'?",
+      "opciones": [
+        "Una marca de ropa",
+        "Software malicioso diseñado para dañar o infiltrarse en un sistema",
+        "Un programa de cocina",
+        "Una conexión segura"
+      ],
+      "respuesta_correcta": "Software malicioso diseñado para dañar o infiltrarse en un sistema",
+      "sustento": "Incluye virus, troyanos, ransomware y espías informáticos."
+    },
+    {
+      "id": 89,
+      "categoria": "Impacto de Redes Sociales",
+      "pregunta": "¿Qué es la 'Vigilancia Digital' según el repositorio?",
+      "opciones": [
+        "Tener guardias en los servidores",
+        "El monitoreo y recolección de datos personales por empresas o gobiernos",
+        "Mirar la televisión",
+        "Seguir a amigos en Instagram"
+      ],
+      "respuesta_correcta": "El monitoreo y recolección de datos personales por empresas o gobiernos",
+      "sustento": "Es un tema de debate sobre la libertad individual frente al uso de grandes volúmenes de datos."
+    },
+    {
+      "id": 90,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué es la 'Computación en la Nube'?",
+      "opciones": [
+        "Usar internet cuando está nublado",
+        "Servicios de computación y almacenamiento que se ofrecen a través de internet",
+        "Una red de satélites en la atmósfera",
+        "Guardar archivos en un disquete"
+      ],
+      "respuesta_correcta": "Servicios de computación y almacenamiento que se ofrecen a través de internet",
+      "sustento": "Permite acceder a archivos y programas desde cualquier dispositivo sin instalarlos localmente."
+    },
+
+    {
+      "id": 91,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es el 'Aprendizaje no Supervisado' y cómo se diferencia del supervisado?",
+      "opciones": [
+        "Es estudiar sin profesor",
+        "El sistema busca patrones por sí mismo en datos no etiquetados",
+        "Es una IA que no necesita electricidad",
+        "Es un método para borrar archivos duplicados"
+      ],
+      "respuesta_correcta": "El sistema busca patrones por sí mismo en datos no etiquetados",
+      "sustento": "A diferencia del supervisado, aquí la IA no tiene una 'respuesta correcta' previa y debe agrupar la información por similitudes encontradas autónomamente."
+    },
+    {
+      "id": 92,
+      "categoria": "Gestión de Residuos",
+      "pregunta": "¿Cuál es el beneficio ambiental de la 'Pirólisis' según el texto sobre tecnología?",
+      "opciones": [
+        "Aumentar el uso de plásticos",
+        "Convertir residuos en combustible mediante descomposición térmica sin oxígeno",
+        "Enterrar la basura en lugares profundos",
+        "Lavar los plásticos con químicos fuertes"
+      ],
+      "respuesta_correcta": "Convertir residuos en combustible mediante descomposición térmica sin oxígeno",
+      "sustento": "Es un proceso técnico que permite revalorizar desechos que de otro modo terminarían en vertederos."
+    },
+    {
+      "id": 93,
+      "categoria": "Educación Digital",
+      "pregunta": "¿A qué se refiere el término 'Infoxicación' en el entorno educativo virtual?",
+      "opciones": [
+        "A un virus que daña la pantalla",
+        "Al exceso de información que impide al estudiante procesar contenidos de calidad",
+        "A la falta de libros digitales",
+        "A una enfermedad física por usar mucho el mouse"
+      ],
+      "respuesta_correcta": "Al exceso de información que impide al estudiante procesar contenidos de calidad",
+      "sustento": "La sobreabundancia de datos sin filtrar genera ansiedad y dificulta el aprendizaje profundo."
+    },
+    {
+      "id": 94,
+      "categoria": "Ciberseguridad",
+      "pregunta": "¿Qué es el 'Ransomware' y cuál es su impacto en instituciones educativas?",
+      "opciones": [
+        "Un software para mejorar la velocidad",
+        "Un secuestro de datos donde se exige un rescate para desbloquearlos",
+        "Un tipo de memoria USB",
+        "Un curso de seguridad gratuito"
+      ],
+      "respuesta_correcta": "Un secuestro de datos donde se exige un rescate para desbloquearlos",
+      "sustento": "Es una de las mayores amenazas actuales, ya que puede paralizar el sistema administrativo de una universidad o colegio."
+    },
+    {
+      "id": 95,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es la 'IA Débil' (o estrecha) en comparación con la 'IA Fuerte'?",
+      "opciones": [
+        "Una IA que no tiene mucha potencia",
+        "Sistemas diseñados para realizar una tarea específica (como jugar ajedrez)",
+        "Una IA que se rompe fácilmente",
+        "Software que solo funciona en celulares antiguos"
+      ],
+      "respuesta_correcta": "Sistemas diseñados para realizar una tarea específica (como jugar ajedrez)",
+      "sustento": "Casi toda la IA actual es 'débil', ya que no posee una conciencia o inteligencia general humana."
+    },
+    {
+      "id": 96,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Qué es el 'Upcycling' (Supra-reciclaje)?",
+      "opciones": [
+        "Tirar las cosas desde un lugar alto",
+        "Transformar residuos en objetos de mayor valor que el original",
+        "Bajar el precio de los productos reciclados",
+        "Usar menos energía al fabricar"
+      ],
+      "respuesta_correcta": "Transformar residuos en objetos de mayor valor que el original",
+      "sustento": "A diferencia del reciclaje común, el upcycling añade valor estético o funcional al desecho."
+    },
+    {
+      "id": 97,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué es la 'Tecnopolítica' según el repositorio?",
+      "opciones": [
+        "Que los robots gobiernen",
+        "El uso estratégico de herramientas digitales para la organización y acción política",
+        "Vender votos por internet",
+        "Tener una página web del gobierno"
+      ],
+      "respuesta_correcta": "El uso estratégico de herramientas digitales para la organización y acción política",
+      "sustento": "Es la evolución de la política tradicional hacia el espacio digital coordinado."
+    },
+    {
+      "id": 98,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué papel juega el 'IXP' (Punto de Intercambio de Internet) en Bolivia?",
+      "opciones": [
+        "Es un satélite de reserva",
+        "Permite que el tráfico de datos nacional no tenga que salir del país para volver a entrar",
+        "Es una oficina de correos",
+        "Es el nombre del primer módem boliviano"
+      ],
+      "respuesta_correcta": "Permite que el tráfico de datos nacional no tenga que salir del país para volver a entrar",
+      "sustento": "El PIT (Punto de Intercambio de Tráfico) mejora la velocidad y baja los costos al mantener los datos locales dentro de la red nacional."
+    },
+    {
+      "id": 99,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es el 'Tuning' (Ajuste fino) de un modelo de IA?",
+      "opciones": [
+        "Limpiar la computadora",
+        "Entrenar un modelo ya existente con datos específicos para una tarea nueva",
+        "Cambiar el color de la interfaz",
+        "Subir el volumen de las respuestas"
+      ],
+      "respuesta_correcta": "Entrenar un modelo ya existente con datos específicos para una tarea nueva",
+      "sustento": "Permite que una IA general aprenda términos médicos o legales específicos, por ejemplo."
+    },
+    {
+      "id": 100,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué es el 'Aprendizaje Ubicuo' (u-learning)?",
+      "opciones": [
+        "Aprender solo en el aula",
+        "El aprendizaje que ocurre en cualquier lugar y momento gracias a los dispositivos móviles",
+        "Estudiar bajo el agua",
+        "Un método para aprender idiomas"
+      ],
+      "respuesta_correcta": "El aprendizaje que ocurre en cualquier lugar y momento gracias a los dispositivos móviles",
+      "sustento": "Rompe la barrera del espacio físico del colegio, integrando el aprendizaje a la vida diaria."
+    },
+    {
+      "id": 101,
+      "categoria": "Deforestación",
+      "pregunta": "¿A qué se refiere la 'Fragmentación del Hábitat'?",
+      "opciones": [
+        "A que los animales se dividen en grupos",
+        "A la división de grandes áreas de bosque en parches aislados por carreteras o cultivos",
+        "A plantar árboles de diferentes especies",
+        "A la rotura de las hojas de los árboles"
+      ],
+      "respuesta_correcta": "A la división de grandes áreas de bosque en parches aislados por carreteras o cultivos",
+      "sustento": "Esto impide el movimiento de especies y debilita la salud genética del ecosistema."
+    },
+    {
+      "id": 102,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es la 'Visión Artificial'?",
+      "opciones": [
+        "Usar lentes para ver la pantalla",
+        "La capacidad de las máquinas para obtener información de imágenes o videos",
+        "Un programa de edición de fotos",
+        "Tener una cámara de mucha resolución"
+      ],
+      "respuesta_correcta": "La capacidad de las máquinas para obtener información de imágenes o videos",
+      "sustento": "Se usa en educación para identificar gestos de aburrimiento o atención en estudiantes virtuales."
+    },
+    {
+      "id": 103,
+      "categoria": "Ciberseguridad",
+      "pregunta": "¿Qué es un 'Ataque DDoS'?",
+      "opciones": [
+        "Un virus que borra fotos",
+        "Un ataque que satura un servidor con miles de solicitudes falsas para tumbarlo",
+        "Robar la contraseña del WiFi",
+        "Enviar correos con publicidad"
+      ],
+      "respuesta_correcta": "Un ataque que satura un servidor con miles de solicitudes falsas para tumbarlo",
+      "sustento": "Suele usarse para inhabilitar plataformas educativas en momentos críticos como exámenes."
+    },
+    {
+      "id": 104,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Qué es la 'Huella de Carbono' de un producto digital?",
+      "opciones": [
+        "El color de la carcasa",
+        "La cantidad de gases de efecto invernadero emitidos por los servidores que lo mantienen",
+        "El peso del software en megabytes",
+        "La duración de la batería"
+      ],
+      "respuesta_correcta": "La cantidad de gases de efecto invernadero emitidos por los servidores que lo mantienen",
+      "sustento": "Mantener internet y la nube encendidos consume gran cantidad de electricidad, generando emisiones de CO2."
+    },
+    {
+      "id": 105,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es la 'Explicabilidad' (XAI) en Inteligencia Artificial?",
+      "opciones": [
+        "Que la IA hable muchos idiomas",
+        "La capacidad de un sistema de IA de justificar cómo llegó a una conclusión",
+        "Que el manual de usuario sea fácil de leer",
+        "Que la IA no cometa errores"
+      ],
+      "respuesta_correcta": "La capacidad de un sistema de IA de justificar cómo llegó a una conclusión",
+      "sustento": "Es vital en educación para entender por qué una IA recomendó reprobar a un alumno o asignarle un material."
+    },
+    {
+      "id": 106,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué son los 'Entornos Personales de Aprendizaje' (PLE)?",
+      "opciones": [
+        "El escritorio de un estudiante",
+        "Conjunto de herramientas y fuentes que cada persona usa para su propio aprendizaje",
+        "Una cuenta de Facebook para estudiar",
+        "La biblioteca del colegio"
+      ],
+      "respuesta_correcta": "Conjunto de herramientas y fuentes que cada persona usa para su propio aprendizaje",
+      "sustento": "Cada estudiante construye su PLE eligiendo qué aplicaciones y webs le sirven más."
+    },
+    {
+      "id": 107,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué es el 'E-Government' (Gobierno Electrónico)?",
+      "opciones": [
+        "Que los gobernantes usen redes sociales",
+        "Digitalización de trámites y servicios estatales para el ciudadano",
+        "Hacer campañas solo por internet",
+        "Votar por mensaje de texto"
+      ],
+      "respuesta_correcta": "Digitalización de trámites y servicios estatales para el ciudadano",
+      "sustento": "Busca eficiencia y transparencia, reduciendo la burocracia física."
+    },
+    {
+      "id": 108,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué es la 'Agricultura de Conservación'?",
+      "opciones": [
+        "No cultivar nada",
+        "Sistemas agrícolas que mantienen la cobertura del suelo y reducen la erosión",
+        "Usar solo fertilizantes químicos",
+        "Plantar árboles en medio de la ciudad"
+      ],
+      "respuesta_correcta": "Sistemas agrícolas que mantienen la cobertura del suelo y reducen la erosión",
+      "sustento": "Es una alternativa para frenar la expansión de la frontera agrícola sobre los bosques."
+    },
+    {
+      "id": 109,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es el 'Sesgo de Confirmación' en los algoritmos sociales?",
+      "opciones": [
+        "Que el algoritmo confirme tu nombre",
+        "La tendencia a mostrarte solo información que refuerza lo que ya crees",
+        "Un error que borra tus likes",
+        "Confirmar que eres un humano con un captcha"
+      ],
+      "respuesta_correcta": "La tendencia a mostrarte solo información que refuerza lo que ya crees",
+      "sustento": "Esto contribuye a la polarización, ya que el usuario nunca ve puntos de vista diferentes."
+    },
+    {
+      "id": 110,
+      "categoria": "Ciberseguridad",
+      "pregunta": "¿Qué es el 'Spyware'?",
+      "opciones": [
+        "Un software para ver películas",
+        "Programa diseñado para recopilar información de un usuario sin su permiso",
+        "Un tipo de cámara de seguridad",
+        "Un juego de espías"
+      ],
+      "respuesta_correcta": "Programa diseñado para recopilar información de un usuario sin su permiso",
+      "sustento": "Puede robar contraseñas, historial de navegación y datos bancarios de forma silenciosa."
+    },
+    {
+      "id": 111,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué es la 'Neutralidad de la Red'?",
+      "opciones": [
+        "Que el internet sea de color gris",
+        "Trato igualitario de todos los datos que circulan, sin discriminación de origen o destino",
+        "Que no haya guerras en internet",
+        "Tener internet de un país neutral"
+      ],
+      "respuesta_correcta": "Trato igualitario de todos los datos que circulan, sin discriminación de origen o destino",
+      "sustento": "Impide que las empresas proveedoras cobren más por usar ciertas apps o bloqueen contenidos específicos."
+    },
+    {
+      "id": 112,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es un 'Sistema Experto'?",
+      "opciones": [
+        "Una persona que sabe mucho",
+        "Software de IA que emula el razonamiento de un experto humano en un área",
+        "Una computadora muy cara",
+        "Un manual de instrucciones digital"
+      ],
+      "respuesta_correcta": "Software de IA que emula el razonamiento de un experto humano en un área",
+      "sustento": "Fueron los precursores de la IA moderna, basados en reglas de 'si ocurre esto, entonces haz aquello'."
+    },
+    {
+      "id": 113,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Qué es la 'Logística Inversa'?",
+      "opciones": [
+        "Caminar hacia atrás",
+        "El proceso de devolver productos o envases desde el consumidor al fabricante para reciclaje",
+        "Enviar paquetes por avión",
+        "Vender productos usados"
+      ],
+      "respuesta_correcta": "El proceso de devolver productos o envases desde el consumidor al fabricante para reciclaje",
+      "sustento": "Es clave para cerrar el ciclo de vida de los productos y evitar que se conviertan en basura."
+    },
+    {
+      "id": 114,
+      "categoria": "Participación Política",
+      "pregunta": "¿Qué es el 'Open Data' (Datos Abiertos)?",
+      "opciones": [
+        "Datos que cualquiera puede abrir",
+        "Información pública disponible para ser descargada, analizada y reutilizada por la ciudadanía",
+        "Una carpeta sin contraseña",
+        "Publicar fotos personales"
+      ],
+      "respuesta_correcta": "Información pública disponible para ser descargada, analizada y reutilizada por la ciudadanía",
+      "sustento": "Fomenta la transparencia gubernamental y la fiscalización ciudadana."
+    },
+    {
+      "id": 115,
+      "categoria": "Educación Digital",
+      "pregunta": "¿Qué es la 'Alfabetización de Datos'?",
+      "opciones": [
+        "Saber escribir números",
+        "Habilidad para leer, entender, crear y comunicar datos como información",
+        "Tener muchos gigabytes de internet",
+        "Saber programar en Excel"
+      ],
+      "respuesta_correcta": "Habilidad para leer, entender, crear y comunicar datos como información",
+      "sustento": "Es vital en el siglo XXI para no ser manipulado por estadísticas engañosas o gráficas falsas."
+    },
+    {
+      "id": 116,
+      "categoria": "Deforestación",
+      "pregunta": "¿Qué es un 'Corredor Biológico'?",
+      "opciones": [
+        "Un pasillo en un zoológico",
+        "Área que conecta ecosistemas aislados para permitir el flujo genético de especies",
+        "Una carretera para camiones de madera",
+        "Un río que atraviesa la ciudad"
+      ],
+      "respuesta_correcta": "Área que conecta ecosistemas aislados para permitir el flujo genético de especies",
+      "sustento": "Ayuda a mitigar los efectos negativos de la fragmentación de bosques."
+    },
+    {
+      "id": 117,
+      "categoria": "Inteligencia Artificial",
+      "pregunta": "¿Qué es el 'Big Data'?",
+      "opciones": [
+        "Una computadora muy grande",
+        "Conjuntos de datos tan masivos que requieren software especial para su análisis",
+        "Tener muchos archivos en el disco duro",
+        "La base de datos de Google"
+      ],
+      "respuesta_correcta": "Conjuntos de datos tan masivos que requieren software especial para su análisis",
+      "sustento": "Es la materia prima que alimenta a los sistemas de Inteligencia Artificial modernos."
+    },
+    {
+      "id": 118,
+      "categoria": "Ciberseguridad",
+      "pregunta": "¿Qué es la 'Ingeniería Social'?",
+      "opciones": [
+        "Construir redes sociales",
+        "Técnicas de manipulación psicológica para que los usuarios entreguen datos privados",
+        "Estudiar sociología en internet",
+        "Arreglar problemas de la sociedad con tecnología"
+      ],
+      "respuesta_correcta": "Técnicas de manipulación psicológica para que los usuarios entreguen datos privados",
+      "sustento": "Es más fácil engañar a una persona para que dé su clave que hackear un servidor seguro."
+    },
+    {
+      "id": 119,
+      "categoria": "Historia del Internet",
+      "pregunta": "¿Qué es el 'IPv6'?",
+      "opciones": [
+        "Un modelo de teléfono",
+        "Nuevo protocolo de direcciones de internet que permite conectar billones de dispositivos",
+        "Un tipo de cable de red",
+        "La sexta versión de Windows"
+      ],
+      "respuesta_correcta": "Nuevo protocolo de direcciones de internet que permite conectar billones de dispositivos",
+      "sustento": "Sustituye al IPv4, cuyas direcciones se agotaron debido al crecimiento masivo de usuarios e internet de las cosas."
+    },
+    {
+      "id": 120,
+      "categoria": "Economía Circular",
+      "pregunta": "¿Qué es el 'Diseño para la Desmanufactura'?",
+      "opciones": [
+        "Hacer cosas que no se puedan desarmar",
+        "Diseñar productos pensando desde el inicio en cómo serán desarmados y reciclados",
+        "Hacer productos de mala calidad",
+        "Diseñar robots que trabajen solos"
+      ],
+      "respuesta_correcta": "Diseñar productos pensando desde el inicio en cómo serán desarmados y reciclados",
+      "sustento": "Es un pilar de la economía circular para facilitar la recuperación de componentes valiosos."
+    },
+    {
+      "id": 121,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Cuál es la característica de 'Inalienabilidad' de los Derechos Humanos?",
+      "opciones": [
+        "Que se pueden vender",
+        "Que nadie puede ser despojado de ellos bajo ninguna circunstancia",
+        "Que solo duran un tiempo",
+        "Que dependen de la nacionalidad"
+      ],
+      "respuesta_correcta": "Que nadie puede ser despojado de ellos bajo ninguna circunstancia",
+      "sustento": "Los derechos humanos son inherentes a la persona y no pueden ser renunciados ni quitados por el Estado."
+    },
+    {
+      "id": 122,
+      "categoria": "Desarrollo Sostenible",
+      "pregunta": "Según el texto, ¿qué busca el equilibrio de los 'Tres Pilares' del desarrollo sostenible?",
+      "opciones": [
+        "Dinero, poder y fama",
+        "Economía, sociedad y medio ambiente",
+        "Pasado, presente y futuro",
+        "Tecnología, industria y comercio"
+      ],
+      "respuesta_correcta": "Economía, sociedad y medio ambiente",
+      "sustento": "El desarrollo sostenible solo es posible si hay crecimiento económico con equidad social y protección ambiental."
+    },
+    {
+      "id": 123,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué significa que los Derechos Humanos sean 'Universales'?",
+      "opciones": [
+        "Que son para los astronautas",
+        "Que pertenecen a todos los seres humanos sin distinción alguna",
+        "Que se aplican solo en Europa",
+        "Que son leyes del universo"
+      ],
+      "respuesta_correcta": "Que pertenecen a todos los seres humanos sin distinción alguna",
+      "sustento": "La universalidad implica que el género, raza, religión o política no limitan el acceso a estos derechos."
+    },
+    {
+      "id": 124,
+      "categoria": "Educación Inclusiva",
+      "pregunta": "¿Cuál es el objetivo principal de las 'Adaptaciones Curriculares'?",
+      "opciones": [
+        "Hacer el examen más fácil para todos",
+        "Ajustar la enseñanza a las necesidades educativas específicas de cada estudiante",
+        "Eliminar materias difíciles",
+        "Cambiar los libros cada año"
+      ],
+      "respuesta_correcta": "Ajustar la enseñanza a las necesidades educativas específicas de cada estudiante",
+      "sustento": "Busca garantizar que los estudiantes con discapacidad o dificultades de aprendizaje alcancen los objetivos educativos."
+    },
+    {
+      "id": 125,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué es el derecho a la 'Interculturalidad' en la educación boliviana?",
+      "opciones": [
+        "Aprender solo inglés",
+        "El reconocimiento y respeto de la diversidad de saberes y culturas en el aula",
+        "Viajar a otros países",
+        "Hablar solo una lengua indígena"
+      ],
+      "respuesta_correcta": "El reconocimiento y respeto de la diversidad de saberes y culturas en el aula",
+      "sustento": "Es un principio constitucional que busca el diálogo armónico entre diferentes cosmovisiones."
+    },
+    {
+      "id": 126,
+      "categoria": "Desarrollo Sostenible",
+      "pregunta": "¿A qué se refiere el concepto de 'Justicia Intergeneracional'?",
+      "opciones": [
+        "A que los abuelos manden",
+        "A no comprometer los recursos de las generaciones futuras",
+        "A que todos los jóvenes vayan a juicio",
+        "A repartir dinero entre niños"
+      ],
+      "respuesta_correcta": "A no comprometer los recursos de las generaciones futuras",
+      "sustento": "Es la base ética de la sostenibilidad: usar hoy solo lo necesario para que el futuro tenga recursos."
+    },
+    {
+      "id": 127,
+      "categoria": "Cultura de Paz",
+      "pregunta": "¿Cuál es la definición de 'Conflicto' según los textos de formación ciudadana?",
+      "opciones": [
+        "Una pelea física inevitable",
+        "Una oportunidad de transformación social mediante el diálogo",
+        "Algo que debe evitarse a toda costa",
+        "Una guerra entre países"
+      ],
+      "respuesta_correcta": "Una oportunidad de transformación social mediante el diálogo",
+      "sustento": "El conflicto es natural; lo que se busca es resolverlo de forma no violenta para mejorar la convivencia."
+    },
+    {
+      "id": 128,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué organismo internacional emitió la Declaración Universal de los Derechos Humanos en 1948?",
+      "opciones": [
+        "La Unión Europea",
+        "La Organización de las Naciones Unidas (ONU)",
+        "La OEA",
+        "El Banco Mundial"
+      ],
+      "respuesta_correcta": "La Organización de las Naciones Unidas (ONU)",
+      "sustento": "Fue la respuesta global tras las atrocidades de la Segunda Guerra Mundial."
+    },
+    {
+      "id": 129,
+      "categoria": "Educación Ambiental",
+      "pregunta": "¿Qué es la 'Resiliencia Climática'?",
+      "opciones": [
+        "Detener la lluvia",
+        "La capacidad de una comunidad de adaptarse y recuperarse de desastres naturales",
+        "Vivir sin electricidad",
+        "Ignorar el cambio climático"
+      ],
+      "respuesta_correcta": "La capacidad de una comunidad de adaptarse y recuperarse de desastres naturales",
+      "sustento": "Involucra preparación, infraestructura y educación para enfrentar el cambio climático."
+    },
+    {
+      "id": 130,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿A qué se refiere la 'Indivisibilidad' de los derechos?",
+      "opciones": [
+        "A que no se pueden dividir en pedazos",
+        "A que todos los derechos tienen la misma importancia y están conectados",
+        "A que solo los derechos políticos valen",
+        "A que los derechos son individuales solamente"
+      ],
+      "respuesta_correcta": "A que todos los derechos tienen la misma importancia y están conectados",
+      "sustento": "No se puede disfrutar plenamente de los derechos civiles sin tener derechos económicos garantizados."
+    },
+    {
+      "id": 131,
+      "categoria": "Ciudadanía Digital",
+      "pregunta": "¿Qué es la 'Brecha Digital' según los textos de sociología?",
+      "opciones": [
+        "Un hueco en la computadora",
+        "La desigualdad en el acceso y uso de las tecnologías de información",
+        "La velocidad del internet",
+        "El tiempo que pasan los jóvenes en redes"
+      ],
+      "respuesta_correcta": "La desigualdad en el acceso y uso de las tecnologías de información",
+      "sustento": "Afecta principalmente a zonas rurales y sectores de escasos recursos, limitando sus oportunidades."
+    },
+    {
+      "id": 132,
+      "categoria": "Desarrollo Sostenible",
+      "pregunta": "¿Cuál es la meta del ODS número 4?",
+      "opciones": [
+        "Hambre cero",
+        "Educación de calidad",
+        "Energía limpia",
+        "Vida submarina"
+      ],
+      "respuesta_correcta": "Educación de calidad",
+      "sustento": "Busca garantizar una educación inclusiva, equitativa y promover oportunidades de aprendizaje permanente."
+    },
+    {
+      "id": 133,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué es el 'Derecho a la Intimidad' en la era de internet?",
+      "opciones": [
+        "No dejar que nadie use mi computadora",
+        "Protección de los datos personales y la vida privada frente a terceros",
+        "Tener una habitación propia",
+        "Cerrar las redes sociales"
+      ],
+      "respuesta_correcta": "Protección de los datos personales y la vida privada frente a terceros",
+      "sustento": "Es un derecho humano fundamental que se ve amenazado por el rastreo digital."
+    },
+    {
+      "id": 134,
+      "categoria": "Ética Profesional",
+      "pregunta": "¿Qué es la 'Deontología' docente?",
+      "opciones": [
+        "El estudio de los dientes",
+        "El conjunto de deberes y principios éticos que rigen la profesión maestra",
+        "Un método de enseñanza",
+        "La historia de la educación"
+      ],
+      "respuesta_correcta": "El conjunto de deberes y principios éticos que rigen la profesión maestra",
+      "sustento": "Define cómo debe actuar un profesor para proteger el bienestar del estudiante y la sociedad."
+    },
+    {
+      "id": 135,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué son los 'Derechos de Tercera Generación'?",
+      "opciones": [
+        "Derechos para los abuelos",
+        "Derechos colectivos como la paz, el medio ambiente y el desarrollo",
+        "Derechos que se heredan",
+        "Derechos de los niños"
+      ],
+      "respuesta_correcta": "Derechos colectivos como la paz, el medio ambiente y el desarrollo",
+      "sustento": "A diferencia de los individuales, estos requieren la cooperación internacional y de toda la sociedad."
+    },
+    {
+      "id": 136,
+      "categoria": "Género y Educación",
+      "pregunta": "¿Qué busca el concepto de 'Equidad de Género'?",
+      "opciones": [
+        "Que las mujeres manden a los hombres",
+        "Igualdad de oportunidades y justicia en el trato para hombres y mujeres",
+        "Que todos se vistan igual",
+        "Eliminar las diferencias biológicas"
+      ],
+      "respuesta_correcta": "Igualdad de oportunidades y justicia en el trato para hombres y mujeres",
+      "sustento": "Busca compensar las desventajas históricas para que ambos géneros tengan los mismos derechos."
+    },
+    {
+      "id": 137,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué significa que el Estado sea el 'Garante' de los derechos?",
+      "opciones": [
+        "Que el Estado es dueño de los derechos",
+        "Que tiene la obligación legal de proteger, promover y cumplir los derechos humanos",
+        "Que el Estado puede quitar los derechos",
+        "Que el Estado solo da derechos a quienes pagan"
+      ],
+      "respuesta_correcta": "Que tiene la obligación legal de proteger, promover y cumplir los derechos humanos",
+      "sustento": "La responsabilidad de cualquier violación de derechos humanos recae principalmente sobre el Estado."
+    },
+    {
+      "id": 138,
+      "categoria": "Soberanía Alimentaria",
+      "pregunta": "¿Cuál es la diferencia entre seguridad y soberanía alimentaria?",
+      "opciones": [
+        "Son lo mismo",
+        "La soberanía incluye el derecho de los pueblos a definir sus propias políticas agrarias",
+        "La seguridad es para los ricos",
+        "La soberanía es solo para los países grandes"
+      ],
+      "respuesta_correcta": "La soberanía incluye el derecho de los pueblos a definir sus propias políticas agrarias",
+      "sustento": "La soberanía prioriza la producción local y el control sobre las semillas y el mercado."
+    },
+    {
+      "id": 139,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué prohíbe el 'Derecho a la Integridad Personal'?",
+      "opciones": [
+        "Tener amigos",
+        "La tortura y los tratos crueles o degradantes",
+        "Hacer ejercicio",
+        "Cambiar de opinión"
+      ],
+      "respuesta_correcta": "La tortura y los tratos crueles o degradantes",
+      "sustento": "Nadie puede ser sometido a daño físico o psicológico intencional por parte de autoridades."
+    },
+    {
+      "id": 140,
+      "categoria": "Derechos del Niño",
+      "pregunta": "¿Qué es el 'Interés Superior del Niño'?",
+      "opciones": [
+        "Que los niños siempre tengan la razón",
+        "Principio que obliga a que toda decisión estatal priorice el bienestar del menor",
+        "Que los niños no estudien",
+        "Que los padres decidan todo sin consultar"
+      ],
+      "respuesta_correcta": "Principio que obliga a que toda decisión estatal priorice el bienestar del menor",
+      "sustento": "Es el eje central de cualquier proceso legal o administrativo que involucre a infantes."
+    },
+    {
+      "id": 141,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué es el 'Habeas Corpus'?",
+      "opciones": [
+        "Un examen médico",
+        "Recurso legal para evitar detenciones arbitrarias e ilegales",
+        "Un tipo de testamento",
+        "Una ceremonia religiosa"
+      ],
+      "respuesta_correcta": "Recurso legal para evitar detenciones arbitrarias e ilegales",
+      "sustento": "Garantiza que cualquier detenido sea presentado ante un juez para verificar la legalidad de su arresto."
+    },
+    {
+      "id": 142,
+      "categoria": "Democracia",
+      "pregunta": "¿Qué es la 'Democracia Participativa'?",
+      "opciones": [
+        "Votar cada 5 años solamente",
+        "Involucramiento directo de los ciudadanos en la toma de decisiones públicas",
+        "Que los militares gobiernen",
+        "Elegir representantes por sorteo"
+      ],
+      "respuesta_correcta": "Involucramiento directo de los ciudadanos en la toma de decisiones públicas",
+      "sustento": "Va más allá del voto, incluyendo referéndums, cabildos y consultas previas."
+    },
+    {
+      "id": 143,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué es el 'Derecho a la Libre Determinación'?",
+      "opciones": [
+        "Hacer lo que uno quiera sin leyes",
+        "Derecho de los pueblos a decidir su propia forma de gobierno y desarrollo",
+        "Elegir el nombre de los hijos",
+        "Poder viajar sin pasaporte"
+      ],
+      "respuesta_correcta": "Derecho de los pueblos a decidir su propia forma de gobierno y desarrollo",
+      "sustento": "Es fundamental para el reconocimiento de las naciones indígenas y originarias."
+    },
+    {
+      "id": 144,
+      "categoria": "Medio Ambiente",
+      "pregunta": "¿Qué es el 'Ecocentrismo'?",
+      "opciones": [
+        "Poner al ser humano en el centro de todo",
+        "Visión que reconoce valor intrínseco a la naturaleza, no solo como recurso",
+        "Limpiar los parques",
+        "Construir ciudades ecológicas"
+      ],
+      "respuesta_correcta": "Visión que reconoce valor intrínseco a la naturaleza, no solo como recurso",
+      "sustento": "En Bolivia, se refleja en el reconocimiento de los Derechos de la Madre Tierra."
+    },
+    {
+      "id": 145,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Cuál es la función del 'Defensor del Pueblo'?",
+      "opciones": [
+        "Defender a los delincuentes",
+        "Velar por la vigencia y cumplimiento de los derechos humanos frente a abusos del Estado",
+        "Ser el abogado del presidente",
+        "Dictar leyes nuevas"
+      ],
+      "respuesta_correcta": "Velar por la vigencia y cumplimiento de los derechos humanos frente a abusos del Estado",
+      "sustento": "Es una institución independiente que recibe quejas ciudadanas sobre maltrato administrativo."
+    },
+    {
+      "id": 146,
+      "categoria": "Pluralismo Jurídico",
+      "pregunta": "¿Qué significa que en Bolivia exista la 'Jurisdicción Indígena Originaria Campesina'?",
+      "opciones": [
+        "Que hay dos países distintos",
+        "Que los pueblos indígenas pueden aplicar su propia justicia según sus usos y costumbres",
+        "Que no existen leyes para los campesinos",
+        "Que todos los juicios son en idiomas nativos"
+      ],
+      "respuesta_correcta": "Que los pueblos indígenas pueden aplicar su propia justicia según sus usos y costumbres",
+      "sustento": "Tiene igual jerarquía que la justicia ordinaria según la Constitución."
+    },
+    {
+      "id": 147,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿A qué se refiere el 'Derecho al Olvido' en internet?",
+      "opciones": [
+        "A borrar toda la historia",
+        "Derecho a eliminar información personal obsoleta o perjudicial de los buscadores",
+        "A que nadie se acuerde de mi nombre",
+        "A formatear la computadora"
+      ],
+      "respuesta_correcta": "Derecho a eliminar información personal obsoleta o perjudicial de los buscadores",
+      "sustento": "Busca proteger la reputación y la privacidad frente a errores del pasado ya superados."
+    },
+    {
+      "id": 148,
+      "categoria": "Pueblos Originarios",
+      "pregunta": "¿Qué es la 'Consulta Previa, Libre e Informada'?",
+      "opciones": [
+        "Preguntar después de hacer una obra",
+        "Obligación estatal de consultar a pueblos indígenas antes de proyectos en sus territorios",
+        "Un examen médico para indígenas",
+        "Votar por internet"
+      ],
+      "respuesta_correcta": "Obligación estatal de consultar a pueblos indígenas antes de proyectos en sus territorios",
+      "sustento": "Es un derecho fundamental para proteger la integridad territorial y cultural."
+    },
+    {
+      "id": 149,
+      "categoria": "Derechos Humanos",
+      "pregunta": "¿Qué protege el 'Derecho a la Libertad de Conciencia'?",
+      "opciones": [
+        "Tener la mente en blanco",
+        "La libertad de profesar cualquier religión o creencia filosófica",
+        "No ir a la escuela",
+        "Poder decir mentiras"
+      ],
+      "respuesta_correcta": "La libertad de profesar cualquier religión o creencia filosófica",
+      "sustento": "Incluye también el derecho a no profesar ninguna religión (laicismo)."
+    },
+    {
+      "id": 150,
+      "categoria": "Desarrollo Sostenible",
+      "pregunta": "¿Qué es la 'Obsolescencia Programada'?",
+      "opciones": [
+        "Que las cosas duren mucho",
+        "Diseñar productos para que fallen o queden obsoletos en poco tiempo",
+        "Un método de estudio",
+        "Aprender a usar máquinas viejas"
+      ],
+      "respuesta_correcta": "Diseñar productos para que fallen o queden obsoletos en poco tiempo",
+      "sustento": "Es una práctica contraria a la sostenibilidad que genera toneladas de residuos innecesarios."
+    },
+  
+    {
+      "id": 151,
+      "categoria": "Comprensión - Ley 070",
+      "pregunta": "El texto indica que la educación es 'territorializada'. ¿Cuál es el sentido de este concepto en la planificación pedagógica?",
+      "opciones": [
+        "Que todos los contenidos deben ser iguales en todo el país",
+        "Que el currículo debe responder a las características geográficas y socioculturales de cada región",
+        "Que los estudiantes no pueden estudiar fuera de su departamento",
+        "Que la educación solo se da en áreas rurales"
+      ],
+      "respuesta_correcta": "Que el currículo debe responder a las características geográficas y socioculturales de cada región",
+      "sustento": "La territorialización busca que el aprendizaje sea pertinente y no una copia de realidades ajenas."
+    },
+    {
+      "id": 152,
+      "categoria": "Análisis de Texto - Educación Productiva",
+      "pregunta": "Según el repositorio, la educación es 'productiva' porque:",
+      "opciones": [
+        "Obliga a los estudiantes a trabajar para el Estado",
+        "Vincula la teoría con la práctica orientada a la producción lícita y el bien común",
+        "Busca que las escuelas se conviertan en empresas privadas",
+        "Solo enseña carreras técnicas y manuales"
+      ],
+      "respuesta_correcta": "Vincula la teoría con la práctica orientada a la producción lícita y el bien común",
+      "sustento": "El MESCP propone que el conocimiento debe ser útil para transformar la realidad económica del entorno."
+    },
+    {
+      "id": 153,
+      "categoria": "Vocabulario en Contexto",
+      "pregunta": "En el PDF se lee: 'La educación es **laica** y respeta la espiritualidad'. ¿Qué significa la palabra resaltada?",
+      "opciones": [
+        "Que es obligatoriamente atea",
+        "Que es independiente de cualquier dogma religioso oficial",
+        "Que solo se enseña religión católica",
+        "Que prohíbe las manifestaciones religiosas"
+      ],
+      "respuesta_correcta": "Que es independiente de cualquier dogma religioso oficial",
+      "sustento": "El carácter laico garantiza la libertad de conciencia y el respeto a la pluralidad de creencias."
+    },
+    {
+      "id": 154,
+      "categoria": "Comprensión - Evaluación",
+      "pregunta": "El Reglamento de Evaluación señala que esta es 'permanente y continua'. ¿Qué se infiere de esta afirmación?",
+      "opciones": [
+        "Que hay exámenes todos los días",
+        "Que se valora el proceso de aprendizaje en todo momento y no solo un examen final",
+        "Que el estudiante nunca deja de estar en el colegio",
+        "Que las notas se cambian cada semana"
+      ],
+      "respuesta_correcta": "Que se valora el proceso de aprendizaje en todo momento y no solo un examen final",
+      "sustento": "La evaluación procesual permite corregir dificultades a tiempo en lugar de solo sancionar al final."
+    },
+    {
+      "id": 155,
+      "categoria": "Análisis de Texto - Inclusividad",
+      "pregunta": "El texto oficial afirma: 'La educación inclusiva elimina las barreras al aprendizaje y la participación'. Esto implica que:",
+      "opciones": [
+        "Ya no habrá requisitos para entrar a la universidad",
+        "El sistema se adapta a las necesidades del estudiante, no al revés",
+        "Todos los estudiantes deben aprender exactamente al mismo ritmo",
+        "Los estudiantes con discapacidad deben estar en centros aislados"
+      ],
+      "respuesta_correcta": "El sistema se adapta a las necesidades del estudiante, no al revés",
+      "sustento": "La inclusión real requiere transformaciones metodológicas e infraestructurales del sistema educativo."
+    },
+    {
+      "id": 156,
+      "categoria": "Inferencia de Texto - Participación Social",
+      "pregunta": "Si el PDF menciona que 'la comunidad educativa es el sujeto de la gestión', ¿quiénes deben decidir sobre el Proyecto Socioproductivo (PSP)?",
+      "opciones": [
+        "Solo el director y los maestros",
+        "Maestros, estudiantes, padres de familia y autoridades locales",
+        "El Ministerio de Educación de forma directa",
+        "Una empresa consultora externa"
+      ],
+      "respuesta_correcta": "Maestros, estudiantes, padres de familia y autoridades locales",
+      "sustento": "El PSP es un instrumento participativo que nace del consenso de todos los actores sociales."
+    },
+    {
+      "id": 157,
+      "categoria": "Análisis Crítico - Descolonización",
+      "pregunta": "En un fragmento sobre descolonización se lee: 'No es un rechazo a la tecnología moderna, sino su uso soberano'. ¿Cuál es la idea principal?",
+      "opciones": [
+        "Que debemos fabricar nuestras propias computadoras obligatoriamente",
+        "Que la descolonización consiste en usar la ciencia universal desde nuestra propia realidad e identidad",
+        "Que hay que volver a vivir como en la época prehispánica",
+        "Que la tecnología es mala para la cultura"
+      ],
+      "respuesta_correcta": "Que la descolonización consiste en usar la ciencia universal desde nuestra propia realidad e identidad",
+      "sustento": "La descolonización implica una postura crítica y soberana frente al conocimiento global."
+    },
+    {
+      "id": 158,
+      "categoria": "Comprensión de la Estructura - SEP",
+      "pregunta": "El documento divide el SEP en tres subsistemas. ¿Cuál es el propósito de esta división?",
+      "opciones": [
+        "Separar a los estudiantes por edades para que no se mezclen",
+        "Organizar la educación de manera especializada según niveles y necesidades específicas de la población",
+        "Crear más cargos administrativos en el Ministerio",
+        "Hacer que cada subsistema funcione de manera totalmente independiente y aislada"
+      ],
+      "respuesta_correcta": "Organizar la educación de manera especializada según niveles y necesidades específicas de la población",
+      "sustento": "Permite atender desde la infancia (Regular) hasta la formación profesional (Superior) y personas adultas (Alternativa)."
+    },
+    {
+      "id": 159,
+      "categoria": "Vocabulario - Términos del MESCP",
+      "pregunta": "¿A qué se refiere el texto cuando habla de 'Saberes y Conocimientos'? (en plural)",
+      "opciones": [
+        "A que los estudiantes deben llevar muchos libros",
+        "Al reconocimiento de la ciencia occidental y los conocimientos de las naciones indígenas en igualdad de jerarquía",
+        "A que el profesor debe saber más que el alumno",
+        "A la acumulación de datos para los exámenes"
+      ],
+      "respuesta_correcta": "Al reconocimiento de la ciencia occidental y los conocimientos de las naciones indígenas en igualdad de jerarquía",
+      "sustento": "Es el principio de pluralismo epistemológico que rige la educación boliviana."
+    },
+    {
+      "id": 160,
+      "categoria": "Comprensión - El Hacer (Dimensión)",
+      "pregunta": "Al describir la dimensión del 'HACER', el PDF se refiere a la 'producción'. ¿Qué significa esto en el aula?",
+      "opciones": [
+        "Que los estudiantes deben fabricar objetos para vender",
+        "La aplicación práctica de los conocimientos teóricos en actividades creativas y útiles",
+        "Hacer muchas hojas de ejercicios matemáticos",
+        "Copiar la lección de la pizarra al cuaderno"
+      ],
+      "respuesta_correcta": "La aplicación práctica de los conocimientos teóricos en actividades creativas y útiles",
+      "sustento": "El 'Hacer' es la materialización del pensamiento en acciones concretas."
+    },
+    {
+      "id": 181,
+      "categoria": "Comprensión - Evaluación Comunitaria",
+      "pregunta": "El PDF describe la 'Evaluación Comunitaria' como un espacio donde participan maestros, estudiantes y padres. ¿Cuál es su objetivo principal?",
+      "opciones": [
+        "Identificar culpables del bajo rendimiento de los alumnos",
+        "Analizar los factores que dificultan el aprendizaje para proponer soluciones conjuntas",
+        "Poner una nota de comportamiento a los padres de familia",
+        "Elegir al mejor estudiante de la unidad educativa"
+      ],
+      "respuesta_correcta": "Analizar los factores que dificultan el aprendizaje para proponer soluciones conjuntas",
+      "sustento": "Busca la mejora del proceso educativo mediante el compromiso de todos los actores, no solo del maestro."
+    },
+    {
+      "id": 182,
+      "categoria": "Análisis de Texto - Rol de la ESFM",
+      "pregunta": "Según los lineamientos de formación docente, las ESFM deben formar maestros con 'vocación de servicio'. ¿Cómo se interpreta esta frase en el texto?",
+      "opciones": [
+        "Que el maestro debe trabajar sin recibir salario",
+        "Que el compromiso del docente trasciende el aula y se enfoca en el bienestar de la comunidad",
+        "Que el maestro debe obedecer todo lo que digan los padres",
+        "Que es una profesión de carácter religioso"
+      ],
+      "respuesta_correcta": "Que el compromiso del docente trasciende el aula y se enfoca en el bienestar de la comunidad",
+      "sustento": "La vocación se traduce en un compromiso ético y social con la transformación del país."
+    },
+    {
+      "id": 183,
+      "categoria": "Vocabulario - MESCP",
+      "pregunta": "En el documento se menciona el término 'Dialógico'. ¿A qué se refiere este concepto en la relación maestro-estudiante?",
+      "opciones": [
+        "A que el maestro debe hablar todo el tiempo",
+        "A un proceso de intercambio de saberes basado en el respeto y la escucha mutua",
+        "A que los estudiantes deben dar exámenes orales",
+        "A leer diálogos de obras de teatro en clase"
+      ],
+      "respuesta_correcta": "A un proceso de intercambio de saberes basado en el respeto y la escucha mutua",
+      "sustento": "El aprendizaje es un proceso bidireccional donde ambos actores construyen conocimiento."
+    },
+    {
+      "id": 184,
+      "categoria": "Inferencia - Educación Permanente",
+      "pregunta": "Si la educación es 'a lo largo de toda la vida', ¿qué se concluye sobre el rol de la escuela?",
+      "opciones": [
+        "Que la escuela es el único lugar donde se aprende",
+        "Que la formación escolar es solo una etapa, y el aprendizaje continúa en diversos espacios sociales",
+        "Que las personas deben ir al colegio hasta que sean ancianos",
+        "Que el título de bachiller es suficiente para no volver a estudiar"
+      ],
+      "respuesta_correcta": "Que la formación escolar es solo una etapa, y el aprendizaje continúa en diversos espacios sociales",
+      "sustento": "El sistema reconoce y acredita saberes adquiridos en la práctica comunitaria y laboral."
+    },
+    {
+      "id": 185,
+      "categoria": "Análisis de Texto - Currículo Regionalizado",
+      "pregunta": "El PDF señala que el 'Currículo Regionalizado' se complementa con el 'Currículo Base'. ¿Qué garantiza esta articulación?",
+      "opciones": [
+        "Que cada departamento tenga leyes educativas diferentes",
+        "El equilibrio entre los conocimientos universales y los saberes propios de cada cultura local",
+        "Que los estudiantes aprendan el doble de materias",
+        "Que el Ministerio de Educación no tenga control sobre las provincias"
+      ],
+      "respuesta_correcta": "El equilibrio entre los conocimientos universales y los saberes propios de cada cultura local",
+      "sustento": "Garantiza la unidad del Estado sin borrar la identidad de las naciones originarias."
+    },
+    {
+      "id": 186,
+      "categoria": "Comprensión - El Saber (Dimensión)",
+      "pregunta": "Al evaluar la dimensión del 'SABER', ¿qué se prioriza según el reglamento?",
+      "opciones": [
+        "La memorización de fechas y nombres",
+        "La comprensión de conceptos, teorías y la capacidad de análisis crítico",
+        "La caligrafía y ortografía de los cuadernos",
+        "El silencio de los estudiantes durante la explicación"
+      ],
+      "respuesta_correcta": "La comprensión de conceptos, teorías y la capacidad de análisis crítico",
+      "sustento": "El 'Saber' no es acumular datos, sino entender y cuestionar el conocimiento."
+    },
+    {
+      "id": 187,
+      "categoria": "Análisis Crítico - Proyecto Socioproductivo",
+      "pregunta": "El repositorio indica que el PSP nace de un 'diagnóstico'. ¿Qué se diagnostica?",
+      "opciones": [
+        "La salud física de los estudiantes",
+        "Las necesidades, problemas o potencialidades de la zona donde está la escuela",
+        "Los conocimientos previos de los profesores",
+        "El estado de los pupitres y las pizarras"
+      ],
+      "respuesta_correcta": "Las necesidades, problemas o potencialidades de la zona donde está la escuela",
+      "sustento": "El PSP busca que la escuela ayude a mejorar la calidad de vida de su entorno."
+    },
+    {
+      "id": 188,
+      "categoria": "Vocabulario - Ley 045",
+      "pregunta": "¿Cómo define el texto la 'Equidad de Género'?",
+      "opciones": [
+        "Que hombres y mujeres piensen de la misma manera",
+        "El ejercicio de derechos y el acceso a oportunidades sin distinción de sexo",
+        "Que las mujeres tengan más derechos que los hombres para compensar el pasado",
+        "Separar a hombres y mujeres para que no compitan"
+      ],
+      "respuesta_correcta": "El ejercicio de derechos y el acceso a oportunidades sin distinción de sexo",
+      "sustento": "Busca eliminar las brechas de desigualdad histórica en el sistema educativo."
+    },
+    {
+      "id": 189,
+      "categoria": "Comprensión - Educación Científica",
+      "pregunta": "Según el PDF, ¿por qué la educación boliviana es 'Científica'?",
+      "opciones": [
+        "Porque solo se estudian materias como química y física",
+        "Porque utiliza la investigación para resolver problemas de la sociedad",
+        "Porque rechaza los conocimientos tradicionales por no tener pruebas",
+        "Porque obliga a todos a ser científicos de laboratorio"
+      ],
+      "respuesta_correcta": "Porque utiliza la investigación para resolver problemas de la sociedad",
+      "sustento": "La ciencia se entiende como una herramienta de liberación y desarrollo soberano."
+    },
+    {
+      "id": 190,
+      "categoria": "Inferencia - Inclusión",
+      "pregunta": "Si un estudiante tiene una lengua materna distinta al castellano, la escuela debe:",
+      "opciones": [
+        "Obligarlo a hablar castellano desde el primer día para que se adapte",
+        "Respetar y fomentar su lengua propia como parte de su proceso de aprendizaje",
+        "Ignorar la situación y tratarlo como a los demás",
+        "Sugerirle que se cambie a una escuela de su región"
+      ],
+      "respuesta_correcta": "Respetar y fomentar su lengua propia como parte de su proceso de aprendizaje",
+      "sustento": "Es un derecho constitucional y un principio del modelo plurilingüe."
+    },
+    {
+      "id": 191,
+      "categoria": "Análisis de Texto - Educación Intercultural",
+      "pregunta": "La 'Interculturalidad' se define como el diálogo 'horizontal'. ¿Qué significa horizontal en este contexto?",
+      "opciones": [
+        "Que todos deben estudiar echados",
+        "Que ninguna cultura se considera superior a la otra",
+        "Que es una educación solo para los valles y llanos",
+        "Que el profesor y el alumno tienen el mismo sueldo"
+      ],
+      "respuesta_correcta": "Que ninguna cultura se considera superior a la otra",
+      "sustento": "Promueve el respeto y el intercambio de conocimientos sin jerarquías coloniales."
+    },
+    {
+      "id": 192,
+      "categoria": "Comprensión - Evaluación Formativa",
+      "pregunta": "¿Cuál es el propósito de la retroalimentación en la evaluación?",
+      "opciones": [
+        "Decirle al alumno cuánto le falta para aplazarse",
+        "Brindar información clara para que el estudiante mejore sus debilidades",
+        "Comparar al estudiante con sus compañeros más brillantes",
+        "Justificar por qué el profesor puso una nota baja"
+      ],
+      "respuesta_correcta": "Brindar información clara para que el estudiante mejore sus debilidades",
+      "sustento": "La evaluación es un medio para el aprendizaje, no un fin en sí mismo."
+    },
+    {
+      "id": 193,
+      "categoria": "Vocabulario - SEP",
+      "pregunta": "¿Qué es la 'Gestión Comunitaria'?",
+      "opciones": [
+        "La administración del dinero por parte del director",
+        "La participación de la comunidad en la toma de decisiones administrativas y pedagógicas",
+        "Limpiar la escuela los fines de semana",
+        "Hacer kermesses para recaudar fondos"
+      ],
+      "respuesta_correcta": "La participación de la comunidad en la toma de decisiones administrativas y pedagógicas",
+      "sustento": "Democratiza la escuela y la hace responsable ante su entorno."
+    },
+    {
+      "id": 194,
+      "categoria": "Análisis de Texto - Rol del Estudiante",
+      "pregunta": "El PDF define al estudiante como un 'sujeto activo'. Esto implica que:",
+      "opciones": [
+        "Debe correr mucho en educación física",
+        "Es protagonista de su propio aprendizaje a través de la investigación y la reflexión",
+        "Debe hablar más que el profesor en clase",
+        "Puede decidir no hacer las tareas si no le gustan"
+      ],
+      "respuesta_correcta": "Es protagonista de su propio aprendizaje a través de la investigación y la reflexión",
+      "sustento": "Supera el modelo de 'receptor pasivo' de información."
+    },
+    {
+      "id": 195,
+      "categoria": "Inferencia - Educación Secundaria",
+      "pregunta": "El objetivo de la educación secundaria es la formación 'humanística, técnica y tecnológica'. Esto busca evitar:",
+      "opciones": [
+        "Que los estudiantes se aburran",
+        "La separación entre el trabajo intelectual y el trabajo manual",
+        "Que los estudiantes tengan que ir a la universidad",
+        "Que el profesor de matemáticas trabaje solo"
+      ],
+      "respuesta_correcta": "La separación entre el trabajo intelectual y el trabajo manual",
+      "sustento": "Busca revalorizar todas las formas de trabajo y conocimiento."
+    },
+    {
+      "id": 196,
+      "categoria": "Análisis de Texto - Despatriarcalización",
+      "pregunta": "Según el texto, la despatriarcalización es una herramienta para eliminar:",
+      "opciones": [
+        "A los hombres de los cargos directivos",
+        "Las formas de violencia y dominación basadas en el género",
+        "La materia de religión",
+        "El uso de uniformes escolares"
+      ],
+      "respuesta_correcta": "Las formas de violencia y dominación basadas en el género",
+      "sustento": "Es un eje transversal para construir relaciones de equidad y respeto."
+    },
+    {
+      "id": 197,
+      "categoria": "Comprensión - Ejes Articuladores",
+      "pregunta": "¿Cuál es la función de los 'Ejes Articuladores' en el plan de clase?",
+      "opciones": [
+        "Son temas extra que se dan al final del año",
+        "Conectan los contenidos de las materias con la realidad social y política",
+        "Sirven para dividir el tiempo de la clase",
+        "Son los nombres de las unidades didácticas"
+      ],
+      "respuesta_correcta": "Conectan los contenidos de las materias con la realidad social y política",
+      "sustento": "Hacen que el contenido académico no esté aislado de la vida."
+    },
+    {
+      "id": 198,
+      "categoria": "Vocabulario - CPE",
+      "pregunta": "¿Qué significa que la educación sea 'Universal'?",
+      "opciones": [
+        "Que se enseña sobre el universo y los planetas",
+        "Que es un derecho para todos los bolivianos y bolivianas sin excepción",
+        "Que es igual en todo el mundo",
+        "Que solo se imparte en las universidades"
+      ],
+      "respuesta_correcta": "Que es un derecho para todos los bolivianos y bolivianas sin excepción",
+      "sustento": "Garantiza el acceso democrático a la formación sin discriminación."
+    },
+    {
+      "id": 199,
+      "categoria": "Análisis - Práctica Educativa",
+      "pregunta": "El PDF indica que la sesión empieza con la 'Práctica'. ¿Cuál es el punto de partida de esta?",
+      "opciones": [
+        "La lectura de un libro de texto",
+        "La experiencia vivida, el contacto directo con la realidad o la experimentación",
+        "Un examen diagnóstico",
+        "La explicación del profesor en la pizarra"
+      ],
+      "respuesta_correcta": "La experiencia vivida, el contacto directo con la realidad o la experimentación",
+      "sustento": "El ciclo metodológico (Práctica-Teoría-Valoración-Producción) inicia siempre desde la realidad."
+    },
+    {
+      "id": 200,
+      "categoria": "Inferencia Final - Modelo Educativo",
+      "pregunta": "En conclusión, el fin último del MESCP según el repositorio oficial es:",
+      "opciones": [
+        "Mejorar la posición de Bolivia en las pruebas internacionales de educación",
+        "La formación integral para vivir bien en comunidad",
+        "Que todos los estudiantes tengan un título universitario",
+        "Aumentar el número de horas de clase por día"
+      ],
+      "respuesta_correcta": "La formación integral para vivir bien en comunidad",
+      "sustento": "El 'Vivir Bien' es el horizonte ético y político de todo el sistema educativo plurinacional."
+    }
+
+    
+  ]
+}
+
+
+
+
+
+
+

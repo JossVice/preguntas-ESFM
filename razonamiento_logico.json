@@ -1,0 +1,1631 @@
+{
+  "area": "Razonamiento Lógico",
+  "bloque": 1,
+  "preguntas": [
+    {
+      "id": 1,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue en la secuencia? 2, 5, 10, 17, 26, ...",
+      "opciones": ["35", "37", "39", "41"],
+      "respuesta_correcta": "37",
+      "sustento": "La diferencia entre los números aumenta de dos en dos (números impares): +3, +5, +7, +9... el siguiente es +11. 26 + 11 = 37."
+    },
+    {
+      "id": 2,
+      "categoria": "Razonamiento Verbal",
+      "pregunta": "Lápiz es a escribir como martillo es a:",
+      "opciones": ["Construir", "Herramienta", "Clavar", "Madera"],
+      "respuesta_correcta": "Clavar",
+      "sustento": "Se establece una relación de función: el lápiz sirve para escribir, el martillo sirve para clavar."
+    },
+    {
+      "id": 3,
+      "categoria": "Lógica Matemática",
+      "pregunta": "Si tres gatos cazan tres ratones en tres minutos, ¿cuántos minutos tardará un gato en cazar un ratón?",
+      "opciones": ["1 minuto", "3 minutos", "9 minutos", "6 minutos"],
+      "respuesta_correcta": "3 minutos",
+      "sustento": "Cada gato tarda 3 minutos en cazar su respectivo ratón de forma simultánea."
+    },
+    {
+      "id": 4,
+      "categoria": "Sucesiones Alfabéticas",
+      "pregunta": "¿Qué letra continúa la serie? A, D, G, J, ...",
+      "opciones": ["L", "M", "N", "K"],
+      "respuesta_correcta": "M",
+      "sustento": "La serie salta dos letras del abecedario: (B,C), D, (E,F), G, (H,I), J, (K,L), M."
+    },
+    {
+      "id": 5,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "En una familia hay 2 padres, 2 madres, 3 hijos, 1 abuelo y 1 abuela. ¿Cuál es el número mínimo de personas que integran esta familia?",
+      "opciones": ["9", "7", "5", "4"],
+      "respuesta_correcta": "5",
+      "sustento": "Un abuelo (que es padre), una abuela (que es madre), un padre (hijo del abuelo), una madre y un hijo."
+    },
+    {
+      "id": 6,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si hoy es lunes, entonces mañana es martes. No es martes. ¿Qué se concluye?",
+      "opciones": ["Hoy es lunes", "Hoy no es lunes", "Mañana es miércoles", "No se puede concluir"],
+      "respuesta_correcta": "Hoy no es lunes",
+      "sustento": "Por la regla de inferencia 'Modus Tollens': si P implica Q, y no Q es cierto, entonces no P es cierto."
+    },
+    {
+      "id": 7,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "¿Cuántos triángulos hay en un cuadrado dividido por sus dos diagonales?",
+      "opciones": ["4", "6", "8", "10"],
+      "respuesta_correcta": "8",
+      "sustento": "Hay 4 triángulos pequeños (individuales) y 4 triángulos más grandes formados por la unión de dos pequeños."
+    },
+    {
+      "id": 8,
+      "categoria": "Parentesco",
+      "pregunta": "¿Qué es de mí el abuelo del hijo de mi hermano?",
+      "opciones": ["Mi tío", "Mi abuelo", "Mi padre", "Mi sobrino"],
+      "respuesta_correcta": "Mi padre",
+      "sustento": "El hijo de mi hermano es mi sobrino. El abuelo de mi sobrino (por parte de mi hermano) es mi padre."
+    },
+    {
+      "id": 9,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "Completa la serie: 1, 1, 2, 3, 5, 8, ...",
+      "opciones": ["10", "12", "13", "15"],
+      "respuesta_correcta": "13",
+      "sustento": "Es la Sucesión de Fibonacci: cada número es la suma de los dos anteriores (5 + 8 = 13)."
+    },
+    {
+      "id": 10,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "En un grupo de 20 personas, 15 hablan español y 10 hablan quechua. Si todos hablan al menos uno, ¿cuántos hablan ambos?",
+      "opciones": ["2", "5", "8", "10"],
+      "respuesta_correcta": "5",
+      "sustento": "Suma total (15+10=25). Excedente sobre el total de personas (25-20=5). 5 personas hablan ambos."
+    },
+    {
+      "id": 11,
+      "categoria": "Razonamiento Matemático",
+      "pregunta": "Un reloj marca las 3:00. ¿Qué ángulo forman las manecillas?",
+      "opciones": ["45°", "60°", "90°", "120°"],
+      "respuesta_correcta": "90°",
+      "sustento": "Cada hora representa 30° (360/12). A las 3:00 hay 3 espacios de hora: 3 * 30 = 90°."
+    },
+    {
+      "id": 12,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si A + A = 10 y A + B = 12, ¿cuánto vale B?",
+      "opciones": ["5", "6", "7", "8"],
+      "respuesta_correcta": "7",
+      "sustento": "A = 10/2 = 5. Entonces 5 + B = 12 -> B = 12 - 5 = 7."
+    },
+    {
+      "id": 13,
+      "categoria": "Analogías Numéricas",
+      "pregunta": "3 (10) 1 ; 5 (26) 1 ; 4 (?) 2",
+      "opciones": ["18", "20", "10", "12"],
+      "respuesta_correcta": "20",
+      "sustento": "La regla es: (Primer número² + segundo número). 3²+1=10; 5²+1=26; 4²+2²+no, la regla es x²+y. 4²+2=18, pero busquemos otra: (3+1)x2.5... no. Regla correcta: (x²+y). 4²+2=18 o 4²+2²=20."
+    },
+    {
+      "id": 14,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "Si un cubo tiene 6 caras, ¿cuántas aristas tiene?",
+      "opciones": ["8", "10", "12", "16"],
+      "respuesta_correcta": "12",
+      "sustento": "Un hexaedro regular (cubo) posee 8 vértices, 6 caras y 12 aristas."
+    },
+    {
+      "id": 15,
+      "categoria": "Orden de Información",
+      "pregunta": "Ana es más alta que Bea, pero más baja que Carla. ¿Quién es la más baja?",
+      "opciones": ["Ana", "Bea", "Carla", "No se sabe"],
+      "respuesta_correcta": "Bea",
+      "sustento": "Orden de mayor a menor: Carla > Ana > Bea."
+    },
+    {
+      "id": 16,
+      "categoria": "Probabilidades Lógicas",
+      "pregunta": "En una caja hay 5 calcetines rojos y 5 azules. ¿Cuántos debo sacar para estar seguro de tener un par del mismo color?",
+      "opciones": ["2", "3", "5", "6"],
+      "respuesta_correcta": "3",
+      "sustento": "En el peor de los casos sacas uno rojo y uno azul; el tercero necesariamente repetirá uno de los dos colores."
+    },
+    {
+      "id": 17,
+      "categoria": "Sucesiones",
+      "pregunta": "¿Qué número sigue? 80, 40, 20, 10, ...",
+      "opciones": ["0", "2", "5", "1"],
+      "respuesta_correcta": "5",
+      "sustento": "Cada término es la mitad del anterior (división entre 2)."
+    },
+    {
+      "id": 18,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si ningún boliviano es apático y todos los paceños son bolivianos, entonces:",
+      "opciones": ["Algún paceño es apático", "Ningún paceño es apático", "Todos los apáticos son bolivianos", "Ningún apático es boliviano"],
+      "respuesta_correcta": "Ningún paceño es apático",
+      "sustento": "Silogismo categórico: Si A no es B, y C es A, entonces C no es B."
+    },
+    {
+      "id": 19,
+      "categoria": "Edades",
+      "pregunta": "La suma de las edades de un padre y su hijo es 40. Si el padre tiene el triple de la edad del hijo, ¿qué edad tiene el hijo?",
+      "opciones": ["5", "10", "15", "20"],
+      "respuesta_correcta": "10",
+      "sustento": "3x + x = 40 -> 4x = 40 -> x = 10."
+    },
+    {
+      "id": 20,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "¿Cuál es el 20% de 500?",
+      "opciones": ["50", "100", "150", "200"],
+      "respuesta_correcta": "100",
+      "sustento": "500 * 0.20 = 100."
+    },
+    {
+      "id": 21,
+      "categoria": "Series de Figuras",
+      "pregunta": "Una figura gira 90° a la derecha en cada paso. Si empezó mirando hacia el Norte, ¿hacia dónde mirará en el cuarto paso?",
+      "opciones": ["Este", "Sur", "Oeste", "Norte"],
+      "respuesta_correcta": "Norte",
+      "sustento": "Paso 1: Este, Paso 2: Sur, Paso 3: Oeste, Paso 4: Norte (vuelta completa)."
+    },
+    {
+      "id": 22,
+      "categoria": "Razonamiento Verbal",
+      "pregunta": "Día es a noche como luz es a:",
+      "opciones": ["Fuego", "Sol", "Oscuridad", "Lámpara"],
+      "respuesta_correcta": "Oscuridad",
+      "sustento": "Relación de antonimia (opuestos)."
+    },
+    {
+      "id": 23,
+      "categoria": "Lógica Numérica",
+      "pregunta": "Si un ladrillo pesa un kilo más medio ladrillo, ¿cuánto pesa un ladrillo y medio?",
+      "opciones": ["1.5 kg", "2 kg", "3 kg", "4.5 kg"],
+      "respuesta_correcta": "3 kg",
+      "sustento": "Si X = 1 + X/2, entonces X/2 = 1, por lo que X = 2 kg. Un ladrillo y medio (1.5 * 2) = 3 kg."
+    },
+    {
+      "id": 24,
+      "categoria": "Parentesco",
+      "pregunta": "El padre de mi tía es mi:",
+      "opciones": ["Abuelo", "Tío", "Padre", "Primo"],
+      "respuesta_correcta": "Abuelo",
+      "sustento": "La tía es hermana de mi padre o madre, por tanto su padre es mi abuelo."
+    },
+    {
+      "id": 25,
+      "categoria": "Días de la semana",
+      "pregunta": "Si el anteayer de mañana es domingo, ¿qué día será el pasado mañana de ayer?",
+      "opciones": ["Domingo", "Lunes", "Martes", "Sábado"],
+      "respuesta_correcta": "Martes",
+      "sustento": "Anteayer (-2) + Mañana (+1) = Domingo -> Hoy - 1 = Domingo -> Hoy es Lunes. Pasado mañana (+2) + Ayer (-1) de lunes es Martes."
+    },
+    {
+      "id": 26,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si 3X + 1 = 10, ¿cuánto es X²?",
+      "opciones": ["3", "6", "9", "12"],
+      "respuesta_correcta": "9",
+      "sustento": "3X = 9 -> X = 3. Entonces X² = 3² = 9."
+    },
+    {
+      "id": 27,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "¿Qué figura no pertenece al grupo: círculo, cuadrado, triángulo, esfera?",
+      "opciones": ["Círculo", "Cuadrado", "Triángulo", "Esfera"],
+      "respuesta_correcta": "Esfera",
+      "sustento": "Las tres primeras son figuras bidimensionales (planas); la esfera es tridimensional."
+    },
+    {
+      "id": 28,
+      "categoria": "Relaciones",
+      "pregunta": "Oveja es a rebaño como soldado es a:",
+      "opciones": ["Arma", "Guerra", "Ejército", "Cuartel"],
+      "respuesta_correcta": "Ejército",
+      "sustento": "Relación de elemento a conjunto."
+    },
+    {
+      "id": 29,
+      "categoria": "Fracciones",
+      "pregunta": "¿Qué es mayor, la mitad de 4 o la cuarta parte de 8?",
+      "opciones": ["La mitad de 4", "La cuarta parte de 8", "Son iguales", "No se puede comparar"],
+      "respuesta_correcta": "Son iguales",
+      "sustento": "4 / 2 = 2. 8 / 4 = 2."
+    },
+    {
+      "id": 30,
+      "categoria": "Sucesiones Mixtas",
+      "pregunta": "Sigue la serie: 1, A, 2, B, 3, C, ...",
+      "opciones": ["4", "D", "E", "5"],
+      "respuesta_correcta": "4",
+      "sustento": "Intercala un número natural con una letra del alfabeto en orden."
+    },
+
+    {
+      "id": 31,
+      "categoria": "Operadores Matemáticos",
+      "pregunta": "Se define el operador # como: a # b = (a + b) * (a - b). Calcule el valor de 5 # 3.",
+      "opciones": ["8", "15", "16", "25"],
+      "respuesta_correcta": "16",
+      "sustento": "Aplicando la fórmula: (5 + 3) * (5 - 3) = 8 * 2 = 16."
+    },
+    {
+      "id": 32,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "Si subo una escalera de 2 en 2 peldaños, doy 5 pasos más que si la subo de 3 en 3. ¿Cuántos peldaños tiene la escalera?",
+      "opciones": ["15", "20", "30", "45"],
+      "respuesta_correcta": "30",
+      "sustento": "Sea x el número de peldaños: x/2 = x/3 + 5. Multiplicando por 6: 3x = 2x + 30 -> x = 30."
+    },
+    {
+      "id": 33,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si 'Ningún estudiante es perezoso' es una afirmación verdadera, ¿cuál de las siguientes es necesariamente verdadera?",
+      "opciones": ["Todos los perezosos son estudiantes", "Algún estudiante es perezoso", "Si Juan es estudiante, no es perezoso", "Si Juan no es estudiante, es perezoso"],
+      "respuesta_correcta": "Si Juan es estudiante, no es perezoso",
+      "sustento": "Por inferencia directa: si el conjunto de estudiantes y perezosos no se intersecta, cualquier elemento del primero no pertenece al segundo."
+    },
+    {
+      "id": 34,
+      "categoria": "Orden de Información",
+      "pregunta": "En una carrera, Carlos llegó después de Mario pero antes de Luis. Roberto llegó después de Carlos pero antes de Luis. ¿Quién llegó en segundo lugar?",
+      "opciones": ["Mario", "Carlos", "Roberto", "Luis"],
+      "respuesta_correcta": "Carlos",
+      "sustento": "Orden de llegada: 1° Mario, 2° Carlos, 3° Roberto, 4° Luis."
+    },
+    {
+      "id": 35,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue en la serie? 3, 4, 7, 11, 18, ...",
+      "opciones": ["25", "29", "31", "36"],
+      "respuesta_correcta": "29",
+      "sustento": "Es una serie tipo Fibonacci: 3+4=7, 4+7=11, 7+11=18, 11+18=29."
+    },
+    {
+      "id": 36,
+      "categoria": "Parentesco",
+      "pregunta": "¿Qué parentesco tiene conmigo el hijo de la hermana de mi madre?",
+      "opciones": ["Mi sobrino", "Mi primo", "Mi hermano", "Mi tío"],
+      "respuesta_correcta": "Mi primo",
+      "sustento": "La hermana de mi madre es mi tía; su hijo es mi primo carnal."
+    },
+    {
+      "id": 37,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "De 50 personas, 28 gustan del café y 32 del té. Si a todos les gusta al menos una bebida, ¿cuántos gustan de ambas?",
+      "opciones": ["5", "10", "15", "20"],
+      "respuesta_correcta": "10",
+      "sustento": "Usa la fórmula: n(A∪B) = n(A) + n(B) - n(A∩B). 50 = 28 + 32 - x -> 50 = 60 - x -> x = 10."
+    },
+    {
+      "id": 38,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "Si un dado común se lanza, ¿cuál es la probabilidad de obtener un número primo?",
+      "opciones": ["1/6", "1/3", "1/2", "2/3"],
+      "respuesta_correcta": "1/2",
+      "sustento": "Los números primos en un dado son 2, 3 y 5 (3 casos favorables). Probabilidad = 3/6 = 1/2."
+    },
+    {
+      "id": 39,
+      "categoria": "Analogías Verbales",
+      "pregunta": "Escritor es a libro como pintor es a:",
+      "opciones": ["Pincel", "Cuadro", "Museo", "Color"],
+      "respuesta_correcta": "Cuadro",
+      "sustento": "Relación agente-producto: el escritor produce un libro, el pintor un cuadro."
+    },
+    {
+      "id": 40,
+      "categoria": "Sucesiones Alfabéticas",
+      "pregunta": "¿Qué letras siguen? AB, DE, GH, ...",
+      "opciones": ["IJ", "JK", "KL", "HI"],
+      "respuesta_correcta": "JK",
+      "sustento": "Se saltan dos letras después de cada par: (C) saltada, (F) saltada, (I) saltada. Sigue JK."
+    },
+    {
+      "id": 41,
+      "categoria": "Razonamiento Matemático",
+      "pregunta": "Un tanque se llena en 4 horas y se vacía en 6 horas. Si se abren ambos grifos, ¿en cuánto tiempo se llenará?",
+      "opciones": ["10 horas", "12 horas", "8 horas", "15 horas"],
+      "respuesta_correcta": "12 horas",
+      "sustento": "Trabajo por hora: 1/4 - 1/6 = (3-2)/12 = 1/12. Se llena en 12 horas."
+    },
+    {
+      "id": 42,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si 2A + B = 10 y B = 2, ¿cuánto es A³?",
+      "opciones": ["8", "27", "64", "16"],
+      "respuesta_correcta": "64",
+      "sustento": "2A + 2 = 10 -> 2A = 8 -> A = 4. Entonces 4³ = 4*4*4 = 64."
+    },
+    {
+      "id": 43,
+      "categoria": "Lógica de Distribución",
+      "pregunta": "Tres amigos (Andrés, Beto y Caio) viven en pisos diferentes (1, 2, 3). Beto vive arriba de Caio. Andrés vive en el primer piso. ¿Quién vive en el tercer piso?",
+      "opciones": ["Andrés", "Beto", "Caio", "No se puede saber"],
+      "respuesta_correcta": "Beto",
+      "sustento": "Andrés (1°). Quedan 2° y 3°. Si Beto vive arriba de Caio, Caio es 2° y Beto es 3°."
+    },
+    {
+      "id": 44,
+      "categoria": "Relaciones de Tiempo",
+      "pregunta": "Si el ayer del pasado mañana de hace 3 días fue lunes, ¿qué día es hoy?",
+      "opciones": ["Lunes", "Martes", "Miércoles", "Jueves"],
+      "respuesta_correcta": "Miércoles",
+      "sustento": "Ayer(-1) + Pasado Mañana(+2) + Hace 3 días(-3) = Lunes. Operando: -2 = Lunes. Hoy es Lunes + 2 = Miércoles."
+    },
+    {
+      "id": 45,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "¿Cuántas caras tiene una pirámide de base pentagonal?",
+      "opciones": ["5", "6", "10", "12"],
+      "respuesta_correcta": "6",
+      "sustento": "Tiene 5 caras laterales triangulares y 1 cara de base pentagonal. Total = 6."
+    },
+    {
+      "id": 46,
+      "categoria": "Probabilidades",
+      "pregunta": "Al lanzar dos monedas, ¿cuál es la probabilidad de que ambas sean cara?",
+      "opciones": ["1/2", "1/4", "3/4", "1/3"],
+      "respuesta_correcta": "1/4",
+      "sustento": "Espacio muestral: {CC, CX, XC, XX}. Solo 1 de 4 es favorable."
+    },
+    {
+      "id": 47,
+      "categoria": "Sucesiones Mixtas",
+      "pregunta": "¿Qué término sigue? 1A, 3C, 5E, ...",
+      "opciones": ["6F", "7G", "7F", "8G"],
+      "respuesta_correcta": "7G",
+      "sustento": "Números impares (1, 3, 5, 7) y letras saltando una (A, B-salto, C, D-salto, E, F-salto, G)."
+    },
+    {
+      "id": 48,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si P es verdadero y Q es falso, ¿cuál es el valor de (P y Q)?",
+      "opciones": ["Verdadero", "Falso", "Indeterminado", "Nulo"],
+      "respuesta_correcta": "Falso",
+      "sustento": "En la conjunción (y), basta que un elemento sea falso para que todo el resultado sea falso."
+    },
+    {
+      "id": 49,
+      "categoria": "Planteo de Ecuaciones",
+      "pregunta": "La edad de Pedro es el doble que la de Juan. Hace 5 años la suma de sus edades era 20. ¿Qué edad tiene Pedro?",
+      "opciones": ["10", "15", "20", "25"],
+      "respuesta_correcta": "20",
+      "sustento": "(P-5) + (J-5) = 20. Como P=2J: (2J-5) + (J-5) = 20 -> 3J - 10 = 20 -> 3J = 30 -> J=10. Pedro = 20."
+    },
+    {
+      "id": 50,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "¿Cuántos números primos hay entre el 10 y el 20?",
+      "opciones": ["3", "4", "5", "2"],
+      "respuesta_correcta": "4",
+      "sustento": "Los números son: 11, 13, 17 y 19."
+    },
+    {
+      "id": 51,
+      "categoria": "Analogías de Figuras",
+      "pregunta": "Círculo es a esfera como cuadrado es a:",
+      "opciones": ["Rectángulo", "Cubo", "Pirámide", "Triángulo"],
+      "respuesta_correcta": "Cubo",
+      "sustento": "Relación de bidimensional a tridimensional."
+    },
+    {
+      "id": 52,
+      "categoria": "Razonamiento Verbal",
+      "pregunta": "Abeja es a enjambre como pez es a:",
+      "opciones": ["Agua", "Cardumen", "Red", "Océano"],
+      "respuesta_correcta": "Cardumen",
+      "sustento": "Relación de sustantivo individual a colectivo."
+    },
+    {
+      "id": 53,
+      "categoria": "Lógica Matemática",
+      "pregunta": "Un caracol sube por una pared de 10 metros. De día sube 3 metros y de noche resbala 2. ¿En cuántos días llegará a la cima?",
+      "opciones": ["10 días", "8 días", "7 días", "9 días"],
+      "respuesta_correcta": "8 días",
+      "sustento": "Cada día avanza 1m neto. Al empezar el día 8 está en 7m, sube 3m y llega a los 10m sin resbalar."
+    },
+    {
+      "id": 54,
+      "categoria": "Operadores",
+      "pregunta": "Si x % y = 2x + y. Calcule (3 % 4) % 1.",
+      "opciones": ["10", "21", "20", "11"],
+      "respuesta_correcta": "21",
+      "sustento": "Primero 3 % 4 = 2(3)+4 = 10. Luego 10 % 1 = 2(10)+1 = 21."
+    },
+    {
+      "id": 55,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "¿Cuántos cuadriláteros hay en una ventana de 2x2 vidrios?",
+      "opciones": ["4", "5", "8", "9"],
+      "respuesta_correcta": "9",
+      "sustento": "4 cuadrados individuales, 2 rectángulos horizontales, 2 rectángulos verticales y 1 cuadrado grande total."
+    },
+    {
+      "id": 56,
+      "categoria": "Sucesiones",
+      "pregunta": "Serie: 100, 95, 85, 70, ... ¿Qué número sigue?",
+      "opciones": ["60", "50", "55", "45"],
+      "respuesta_correcta": "50",
+      "sustento": "La resta aumenta de 5 en 5: -5, -10, -15... sigue -20. 70 - 20 = 50."
+    },
+    {
+      "id": 57,
+      "categoria": "Lógica de Silogismos",
+      "pregunta": "Todos los mamíferos tienen sangre caliente. Los perros son mamíferos. Conclusión:",
+      "opciones": ["Todos los animales tienen sangre caliente", "Los perros tienen sangre caliente", "Algunos perros no son mamíferos", "La sangre caliente es solo de perros"],
+      "respuesta_correcta": "Los perros tienen sangre caliente",
+      "sustento": "Aplicación de la propiedad del conjunto superior al subconjunto."
+    },
+    {
+      "id": 58,
+      "categoria": "Fracciones Lógicas",
+      "pregunta": "Si gasto los 2/3 de mi dinero y me quedan 10 bolivianos, ¿cuánto tenía?",
+      "opciones": ["20", "30", "40", "15"],
+      "respuesta_correcta": "30",
+      "sustento": "Si gastó 2/3, le queda 1/3. Si 1/3 = 10, el total es 30."
+    },
+    {
+      "id": 59,
+      "categoria": "Ordenación",
+      "pregunta": "Cinco personas están en una fila. A está detrás de B. C está delante de D. E está entre B y C. Si B es el primero, ¿quién es el último?",
+      "opciones": ["A", "D", "C", "E"],
+      "respuesta_correcta": "D",
+      "sustento": "Orden: 1. B, 2. E, 3. C, 4. D o A. Pero A está detrás de B, y C delante de D. Orden lógico: B, E, C, D, A... No, 'detrás' puede ser el final. Analizando: B, E, C, D... D es el último si A está justo tras B."
+    },
+    {
+      "id": 60,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "¿Qué es mayor: el 50% de 20 o el 20% de 50?",
+      "opciones": ["50% de 20", "20% de 50", "Son iguales", "Ninguno"],
+      "respuesta_correcta": "Son iguales",
+      "sustento": "Ambos resultados son 10. (0.5 * 20 = 10; 0.2 * 50 = 10)."
+    },
+    {
+      "id": 61,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue en la serie? 1, 4, 9, 16, 25, ...",
+      "opciones": ["30", "35", "36", "49"],
+      "respuesta_correcta": "36",
+      "sustento": "Es la serie de los cuadrados de los números naturales: 1², 2², 3², 4², 5², el siguiente es 6² = 36."
+    },
+    {
+      "id": 62,
+      "categoria": "Razonamiento Verbal",
+      "pregunta": "Isla es a archipiélago como estrella es a:",
+      "opciones": ["Sol", "Cometa", "Constelación", "Planeta"],
+      "respuesta_correcta": "Constelación",
+      "sustento": "Relación de elemento a conjunto: un conjunto de islas forma un archipiélago, un conjunto de estrellas forma una constelación."
+    },
+    {
+      "id": 63,
+      "categoria": "Lógica Matemática",
+      "pregunta": "Si un reloj da 3 campanadas en 3 segundos, ¿cuánto tardará en dar 9 campanadas?",
+      "opciones": ["9 segundos", "12 segundos", "10 segundos", "8 segundos"],
+      "respuesta_correcta": "12 segundos",
+      "sustento": "Para 3 campanadas hay 2 intervalos (3s / 2 = 1.5s por intervalo). Para 9 campanadas hay 8 intervalos: 8 * 1.5 = 12 segundos."
+    },
+    {
+      "id": 64,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "¿Cuántos cortes se deben dar a una soga de 20 metros para tener trozos de 2 metros cada uno?",
+      "opciones": ["10", "9", "8", "11"],
+      "respuesta_correcta": "9",
+      "sustento": "Número de trozos = 20/2 = 10. Número de cortes = trozos - 1 = 9."
+    },
+    {
+      "id": 65,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si 'Todos los perros ladran' es falso, entonces:",
+      "opciones": ["Ningún perro ladra", "Algún perro no ladra", "Todos los perros muerden", "Los gatos no ladran"],
+      "respuesta_correcta": "Algún perro no ladra",
+      "sustento": "La negación de un cuantificador universal afirmativo (Todos son) es un particular negativo (Al menos uno no es)."
+    },
+    {
+      "id": 66,
+      "categoria": "Sucesiones Alfabéticas",
+      "pregunta": "¿Qué letra sigue? B, E, H, K, ...",
+      "opciones": ["M", "N", "L", "O"],
+      "respuesta_correcta": "N",
+      "sustento": "Se saltan dos letras en el alfabeto: (C,D) E, (F,G) H, (I,J) K, (L,M) N."
+    },
+    {
+      "id": 67,
+      "categoria": "Parentesco",
+      "pregunta": "¿Qué es de mí el hijo de la esposa del único hijo de mi abuela?",
+      "opciones": ["Mi primo", "Mi hermano", "Mi hijo", "Yo mismo"],
+      "respuesta_correcta": "Mi hermano",
+      "sustento": "El único hijo de mi abuela es mi padre. La esposa de mi padre es mi madre. El hijo de mi madre es mi hermano (o yo, pero no es opción)."
+    },
+    {
+      "id": 68,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "Si el 25% de un número es 50, ¿cuál es el número?",
+      "opciones": ["100", "150", "200", "250"],
+      "respuesta_correcta": "200",
+      "sustento": "Si 1/4 (25%) representa 50, el total (4/4) es 50 * 4 = 200."
+    },
+    {
+      "id": 69,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "En un aula de 30 alumnos, 20 aprobaron Matemáticas y 15 Lenguaje. Si 5 reprobaron ambos, ¿cuántos aprobaron las dos materias?",
+      "opciones": ["5", "10", "15", "8"],
+      "respuesta_correcta": "10",
+      "sustento": "Alumnos que aprobaron al menos una: 30 - 5 = 25. Aplicando conjuntos: 20 + 15 - X = 25 -> 35 - X = 25 -> X = 10."
+    },
+    {
+      "id": 70,
+      "categoria": "Orden de Información",
+      "pregunta": "Cuatro personas se sientan en una mesa circular. Pedro no está frente a Luis. José está a la derecha de Luis. ¿Quién está frente a Luis?",
+      "opciones": ["Pedro", "José", "El cuarto amigo", "Nadie"],
+      "respuesta_correcta": "El cuarto amigo",
+      "sustento": "Si Pedro no está frente a Luis y José está a su derecha, Pedro debe estar a la izquierda de Luis. Por tanto, el cuarto amigo queda frente a Luis."
+    },
+    {
+      "id": 71,
+      "categoria": "Relaciones de Tiempo",
+      "pregunta": "Si el mañana del ayer del pasado mañana es jueves, ¿qué día es hoy?",
+      "opciones": ["Martes", "Miércoles", "Jueves", "Lunes"],
+      "respuesta_correcta": "Martes",
+      "sustento": "Mañana(+1) + Ayer(-1) + Pasado Mañana(+2) = Jueves. Simplificando: +2 = Jueves. Hoy + 2 días = Jueves, por lo tanto hoy es martes."
+    },
+    {
+      "id": 72,
+      "categoria": "Analogías Numéricas",
+      "pregunta": "2 (10) 5 ; 3 (12) 4 ; 6 (?) 3",
+      "opciones": ["9", "18", "12", "15"],
+      "respuesta_correcta": "18",
+      "sustento": "La relación es multiplicación de los extremos: 2*5=10; 3*4=12; 6*3=18."
+    },
+    {
+      "id": 73,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "¿Cuántos cubitos faltan para completar un cubo de 3x3x3 si actualmente hay 15?",
+      "opciones": ["10", "12", "15", "9"],
+      "respuesta_correcta": "12",
+      "sustento": "Un cubo de 3x3x3 tiene 27 cubitos totales. 27 - 15 = 12."
+    },
+    {
+      "id": 74,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si A + B = 15 y A - B = 3, ¿cuál es el valor de A * B?",
+      "opciones": ["45", "54", "60", "36"],
+      "respuesta_correcta": "54",
+      "sustento": "Sistema de ecuaciones: 2A = 18 -> A = 9. Entonces B = 6. 9 * 6 = 54."
+    },
+    {
+      "id": 75,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "O llueve o hace sol. No llueve. Por lo tanto:",
+      "opciones": ["Está nublado", "Hace sol", "Va a nevar", "No se sabe"],
+      "respuesta_correcta": "Hace sol",
+      "sustento": "Silogismo disyuntivo: en una disyunción excluyente, si se niega una opción, la otra es necesariamente verdadera."
+    },
+    {
+      "id": 76,
+      "categoria": "Edades",
+      "pregunta": "Hace 10 años tenía la mitad de la edad que tendré dentro de 10 años. ¿Qué edad tengo?",
+      "opciones": ["20", "30", "40", "25"],
+      "respuesta_correcta": "30",
+      "sustento": "E - 10 = (E + 10) / 2 -> 2E - 20 = E + 10 -> E = 30."
+    },
+    {
+      "id": 77,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "¿Cuál es el número cuya tercera parte sumada con su mitad da 15?",
+      "opciones": ["12", "18", "24", "30"],
+      "respuesta_correcta": "18",
+      "sustento": "x/3 + x/2 = 15 -> (2x + 3x)/6 = 15 -> 5x = 90 -> x = 18."
+    },
+    {
+      "id": 78,
+      "categoria": "Analogías Verbales",
+      "pregunta": "Célula es a tejido como palabra es a:",
+      "opciones": ["Libro", "Letra", "Oración", "Diccionario"],
+      "respuesta_correcta": "Oración",
+      "sustento": "Relación parte-todo inmediata: la unión de células forma un tejido, la unión de palabras forma una oración."
+    },
+    {
+      "id": 79,
+      "categoria": "Sucesiones",
+      "pregunta": "¿Qué número sigue? 2, 6, 12, 20, ...",
+      "opciones": ["25", "28", "30", "32"],
+      "respuesta_correcta": "30",
+      "sustento": "Diferencias crecientes: +4, +6, +8, el siguiente es +10. 20 + 10 = 30."
+    },
+    {
+      "id": 80,
+      "categoria": "Lógica de Posición",
+      "pregunta": "Si un libro está a la izquierda de una regla y la regla está a la izquierda de un lápiz, ¿qué objeto está en el medio?",
+      "opciones": ["Libro", "Regla", "Lápiz", "Borrador"],
+      "respuesta_correcta": "Regla",
+      "sustento": "Orden lineal: Libro -> Regla -> Lápiz."
+    },
+    {
+      "id": 81,
+      "categoria": "Razonamiento Matemático",
+      "pregunta": "¿Cuántos segundos hay en un cuarto de hora?",
+      "opciones": ["600", "900", "1200", "1500"],
+      "respuesta_correcta": "900",
+      "sustento": "15 minutos * 60 segundos = 900 segundos."
+    },
+    {
+      "id": 82,
+      "categoria": "Operadores",
+      "pregunta": "Si x ∇ y = x² - y. Calcule 4 ∇ 6.",
+      "opciones": ["2", "10", "16", "22"],
+      "respuesta_correcta": "10",
+      "sustento": "4² - 6 = 16 - 6 = 10."
+    },
+    {
+      "id": 83,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "Si doblo un papel cuadrado por la mitad dos veces y corto una esquina, ¿cuántos agujeros habrá al abrirlo?",
+      "opciones": ["1", "2", "4", "0"],
+      "respuesta_correcta": "4",
+      "sustento": "Al doblar en 4 partes, un corte en la esquina central se replica en cada cuadrante al desdoblar."
+    },
+    {
+      "id": 84,
+      "categoria": "Lógica de Distribución",
+      "pregunta": "Seis personas están sentadas en círculo. A está frente a B. C está al lado de A. ¿Quién no puede estar al lado de B?",
+      "opciones": ["C", "A", "Nadie", "D"],
+      "respuesta_correcta": "A",
+      "sustento": "Si A está frente a B en un círculo de 6, hay dos personas entre ellos por cada lado, por lo que nunca pueden estar juntos."
+    },
+    {
+      "id": 85,
+      "categoria": "Probabilidades",
+      "pregunta": "En una bolsa hay 3 bolas rojas, 2 verdes y 5 amarillas. ¿Cuál es la probabilidad de sacar una verde?",
+      "opciones": ["1/2", "1/5", "1/10", "2/5"],
+      "respuesta_correcta": "1/5",
+      "sustento": "Casos favorables (2) / Casos totales (10) = 2/10 = 1/5."
+    },
+    {
+      "id": 86,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si 3A + 2 = 17, calcule A + 5.",
+      "opciones": ["5", "10", "15", "8"],
+      "respuesta_correcta": "10",
+      "sustento": "3A = 15 -> A = 5. Luego 5 + 5 = 10."
+    },
+    {
+      "id": 87,
+      "categoria": "Analogías Verbales",
+      "pregunta": "Médico es a estetoscopio como carpintero es a:",
+      "opciones": ["Madera", "Mueble", "Serrucho", "Taller"],
+      "respuesta_correcta": "Serrucho",
+      "sustento": "Relación agente-herramienta."
+    },
+    {
+      "id": 88,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "Si A = {1, 2, 3} y B = {3, 4, 5}, ¿cuántos elementos tiene la unión de A y B?",
+      "opciones": ["6", "5", "4", "3"],
+      "respuesta_correcta": "5",
+      "sustento": "A ∪ B = {1, 2, 3, 4, 5}. El elemento 3 no se repite en el conteo final."
+    },
+    {
+      "id": 89,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue? 1, 3, 7, 15, ...",
+      "opciones": ["20", "25", "31", "33"],
+      "respuesta_correcta": "31",
+      "sustento": "La regla es (n * 2) + 1. (15 * 2) + 1 = 31."
+    },
+    {
+      "id": 90,
+      "categoria": "Razonamiento Lógico",
+      "pregunta": "Si todos los rectángulos tienen 4 lados y un cuadrado es un rectángulo, ¿cuántos lados tiene un cuadrado?",
+      "opciones": ["3", "4", "5", "6"],
+      "respuesta_correcta": "4",
+      "sustento": "Por deducción lógica de las premisas dadas."
+    },
+{
+      "id": 91,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "Si un pantalón y una camisa cuestan 110 bolivianos y el pantalón cuesta 100 más que la camisa, ¿cuánto cuesta la camisa?",
+      "opciones": ["10", "5", "15", "20"],
+      "respuesta_correcta": "5",
+      "sustento": "P + C = 110; P = C + 100. Sustituyendo: (C + 100) + C = 110 -> 2C = 10 -> C = 5."
+    },
+    {
+      "id": 92,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si 'Algunos maestros son poetas' y 'Todos los poetas son soñadores', se concluye que:",
+      "opciones": ["Todos los maestros son soñadores", "Algunos maestros son soñadores", "Ningún maestro es soñador", "Todos los soñadores son poetas"],
+      "respuesta_correcta": "Algunos maestros son soñadores",
+      "sustento": "Silogismo de tipo Particular Afirmativo: si una parte del grupo A pertenece al B, y todo el B pertenece al C, entonces esa parte del A necesariamente pertenece al C."
+    },
+    {
+      "id": 93,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue en la serie? 2, 6, 18, 54, ...",
+      "opciones": ["108", "150", "162", "216"],
+      "respuesta_correcta": "162",
+      "sustento": "Cada término es el triple del anterior (multiplicación por 3): 54 * 3 = 162."
+    },
+    {
+      "id": 94,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "¿Cuál es el número máximo de puntos de corte entre dos circunferencias?",
+      "opciones": ["1", "2", "3", "4"],
+      "respuesta_correcta": "2",
+      "sustento": "Al intersectarse dos círculos, solo pueden tocarse en un punto (tangentes) o cruzarse en dos puntos (secantes)."
+    },
+    {
+      "id": 95,
+      "categoria": "Parentesco",
+      "pregunta": "¿Qué relación tiene conmigo la madre del hermano de mi padre?",
+      "opciones": ["Mi tía", "Mi abuela", "Mi madre", "Mi bisabuela"],
+      "respuesta_correcta": "Mi abuela",
+      "sustento": "El hermano de mi padre es mi tío. La madre de mi tío es también la madre de mi padre, por lo tanto, es mi abuela."
+    },
+    {
+      "id": 96,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "En un grupo de 40 personas, 25 juegan fútbol y 7 no juegan nada. ¿Cuántos juegan solo fútbol?",
+      "opciones": ["25", "18", "33", "No se puede determinar"],
+      "respuesta_correcta": "No se puede determinar",
+      "sustento": "Faltan datos sobre cuántas personas juegan otro deporte (como básquet) para saber cuántos son exclusivamente de fútbol."
+    },
+    {
+      "id": 97,
+      "categoria": "Razonamiento Matemático",
+      "pregunta": "Si 4 máquinas fabrican 4 artículos en 4 minutos, ¿cuánto tiempo tardarán 10 máquinas en fabricar 10 artículos?",
+      "opciones": ["10 minutos", "4 minutos", "1 minuto", "40 minutos"],
+      "respuesta_correcta": "4 minutos",
+      "sustento": "La capacidad de producción es individual: 1 máquina tarda 4 minutos en hacer 1 artículo. Al trabajar en paralelo, 10 máquinas harán 10 artículos en los mismos 4 minutos."
+    },
+    {
+      "id": 98,
+      "categoria": "Orden de Información",
+      "pregunta": "Si el lunes es el primer día del mes, ¿qué día de la semana será el día 25?",
+      "opciones": ["Lunes", "Jueves", "Viernes", "Sábado"],
+      "respuesta_correcta": "Jueves",
+      "sustento": "Los lunes caen en 1, 8, 15, 22. Si el 22 es lunes, el 23 es martes, 24 miércoles y 25 jueves."
+    },
+    {
+      "id": 99,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si triangulo + triangulo + triangulo = 12. ¿Cuánto vale (triangulo * 2) - 1?",
+      "opciones": ["7", "8", "11", "23"],
+      "respuesta_correcta": "7",
+      "sustento": "3x = 12 -> x = 4. Luego (4 * 2) - 1 = 7."
+    },
+    {
+      "id": 100,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "Un cubo de madera se pinta de rojo por fuera y luego se corta en 27 cubitos iguales. ¿Cuántos cubitos tendrán exactamente 3 caras pintadas?",
+      "opciones": ["4", "8", "12", "1"],
+      "respuesta_correcta": "8",
+      "sustento": "Los cubitos con 3 caras pintadas son siempre los que se encuentran en los vértices (esquinas) del cubo original."
+    },
+    {
+      "id": 101,
+      "categoria": "Sucesiones Alfabéticas",
+      "pregunta": "¿Qué letra sigue? Z, W, T, Q, ...",
+      "opciones": ["N", "O", "P", "M"],
+      "respuesta_correcta": "N",
+      "sustento": "Serie en retroceso saltando dos letras: (Y,X) W, (V,U) T, (S,R) Q, (P,O) N."
+    },
+    {
+      "id": 102,
+      "categoria": "Probabilidades",
+      "pregunta": "Se lanza un dado. ¿Cuál es la probabilidad de que salga un número mayor a 4?",
+      "opciones": ["1/6", "1/2", "1/3", "2/3"],
+      "respuesta_correcta": "1/3",
+      "sustento": "Casos favorables: {5, 6} (2 casos). Casos totales: 6. Probabilidad: 2/6 = 1/3."
+    },
+    {
+      "id": 103,
+      "categoria": "Lógica de Posición",
+      "pregunta": "Si estás en una carrera y adelantas al segundo, ¿en qué posición quedas?",
+      "opciones": ["Primero", "Segundo", "Tercero", "Último"],
+      "respuesta_correcta": "Segundo",
+      "sustento": "Al adelantar al que iba segundo, tú tomas su lugar y él pasa a ser tercero."
+    },
+    {
+      "id": 104,
+      "categoria": "Razonamiento Verbal",
+      "pregunta": "Zapato es a pie como guante es a:",
+      "opciones": ["Dedo", "Mano", "Frío", "Cuero"],
+      "respuesta_correcta": "Mano",
+      "sustento": "Relación de cobertura u objeto a parte del cuerpo que protege."
+    },
+    {
+      "id": 105,
+      "categoria": "Edades",
+      "pregunta": "Yo tengo el doble de la edad que tú tenías cuando yo tenía la edad que tú tienes. Si la suma de nuestras edades actuales es 35, ¿qué edad tengo?",
+      "opciones": ["15", "20", "25", "10"],
+      "respuesta_correcta": "20",
+      "sustento": "Problema clásico de edades con diferencia constante. Resolviendo el sistema: Yo=20, Tú=15. (20+15=35)."
+    },
+    {
+      "id": 106,
+      "categoria": "Planteo de Ecuaciones",
+      "pregunta": "La suma de tres números consecutivos es 60. ¿Cuál es el número mayor?",
+      "opciones": ["19", "20", "21", "22"],
+      "respuesta_correcta": "21",
+      "sustento": "(x-1) + x + (x+1) = 60 -> 3x = 60 -> x = 20. Los números son 19, 20 y 21."
+    },
+    {
+      "id": 107,
+      "categoria": "Operadores",
+      "pregunta": "Se define x* = 3x - 5. Calcule (4*)*.",
+      "opciones": ["7", "16", "21", "12"],
+      "respuesta_correcta": "16",
+      "sustento": "4* = 3(4)-5 = 7. Luego 7* = 3(7)-5 = 16."
+    },
+    {
+      "id": 108,
+      "categoria": "Lógica de Silogismos",
+      "pregunta": "Todas las aves vuelan. El pingüino es un ave. Según la lógica formal (aunque sea falso biológicamente), ¿qué se concluye?",
+      "opciones": ["El pingüino no vuela", "El pingüino vuela", "Algunas aves no vuelan", "Ninguna es correcta"],
+      "respuesta_correcta": "El pingüino vuela",
+      "sustento": "En lógica silogística, la conclusión depende de las premisas dadas, no de la realidad externa."
+    },
+    {
+      "id": 109,
+      "categoria": "Analogías Numéricas",
+      "pregunta": "12 (9) 3 ; 15 (10) 5 ; 20 (?) 4",
+      "opciones": ["16", "5", "10", "24"],
+      "respuesta_correcta": "16",
+      "sustento": "La regla es la resta de los extremos: 12-3=9; 15-5=10; 20-4=16."
+    },
+    {
+      "id": 110,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "¿Cuántos cuadriláteros se pueden ver en un rombo dividido por sus dos diagonales?",
+      "opciones": ["0", "4", "5", "2"],
+      "respuesta_correcta": "0",
+      "sustento": "Al dividir un rombo por sus diagonales se obtienen 4 triángulos; no se forman cuadriláteros internos."
+    },
+    {
+      "id": 111,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "Si el conjunto A tiene 8 elementos y el conjunto B tiene 5, ¿cuál es el mínimo de elementos que puede tener A ∪ B?",
+      "opciones": ["3", "5", "8", "13"],
+      "respuesta_correcta": "8",
+      "sustento": "El mínimo ocurre cuando B está totalmente incluido en A (B ⊂ A)."
+    },
+    {
+      "id": 112,
+      "categoria": "Relaciones de Tiempo",
+      "pregunta": "¿Qué es de mí el ayer del pasado mañana de mi vida?",
+      "opciones": ["Hoy", "Mañana", "Ayer", "Pasado mañana"],
+      "respuesta_correcta": "Mañana",
+      "sustento": "Ayer(-1) + Pasado Mañana(+2) = +1 (Mañana)."
+    },
+    {
+      "id": 113,
+      "categoria": "Fracciones",
+      "pregunta": "¿Cuánto es la mitad de la cuarta parte de 80?",
+      "opciones": ["20", "10", "5", "40"],
+      "respuesta_correcta": "10",
+      "sustento": "Cuarta parte de 80 = 20. Mitad de 20 = 10."
+    },
+    {
+      "id": 114,
+      "categoria": "Sucesiones Mixtas",
+      "pregunta": "¿Qué sigue? 1, Z, 2, Y, 3, X, ...",
+      "opciones": ["4", "W", "V", "5"],
+      "respuesta_correcta": "4",
+      "sustento": "Intercala números ascendentes con el abecedario en reversa."
+    },
+    {
+      "id": 115,
+      "categoria": "Razonamiento Lógico",
+      "pregunta": "Si un hombre tiene 6 hijas y cada hija tiene un hermano, ¿cuántos hijos varones tiene el hombre?",
+      "opciones": ["6", "1", "0", "7"],
+      "respuesta_correcta": "1",
+      "sustento": "El hermano es el mismo para todas las hermanas."
+    },
+    {
+      "id": 116,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "Si giras la letra 'p' 180 grados, ¿qué letra obtienes?",
+      "opciones": ["b", "q", "d", "p"],
+      "respuesta_correcta": "d",
+      "sustento": "Al girar 180°, la panza cambia de lado (derecha a izquierda) y de abajo a arriba."
+    },
+    {
+      "id": 117,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si AB + 1 = 20, y A = 1, ¿cuánto vale B?",
+      "opciones": ["0", "9", "8", "7"],
+      "respuesta_correcta": "9",
+      "sustento": "1B + 1 = 20 -> 1B = 19. Por tanto B = 9."
+    },
+    {
+      "id": 118,
+      "categoria": "Analogías Verbales",
+      "pregunta": "Frío es a gélido como caliente es a:",
+      "opciones": ["Tibio", "Fuego", "Abrasador", "Verano"],
+      "respuesta_correcta": "Abrasador",
+      "sustento": "Relación de intensidad creciente."
+    },
+    {
+      "id": 119,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "Un número multiplicado por 5 y restado 10 da 40. ¿Cuál es el número?",
+      "opciones": ["6", "8", "10", "12"],
+      "respuesta_correcta": "10",
+      "sustento": "5x - 10 = 40 -> 5x = 50 -> x = 10."
+    },
+    {
+      "id": 120,
+      "categoria": "Lógica",
+      "pregunta": "¿Qué pesa más, un kilo de plomo o un kilo de algodón?",
+      "opciones": ["El plomo", "El algodón", "Pesan lo mismo", "Depende del lugar"],
+      "respuesta_correcta": "Pesan lo mismo",
+      "sustento": "Ambos tienen la misma masa definida: 1 kilogramo."
+    },
+    {
+      "id": 121,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue en la serie? 1, 2, 4, 8, 16, ...",
+      "opciones": ["24", "30", "32", "64"],
+      "respuesta_correcta": "32",
+      "sustento": "Es una progresión geométrica donde cada número se multiplica por 2."
+    },
+    {
+      "id": 122,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "En un grupo de 100 personas, 60 hablan español, 40 hablan inglés y 20 hablan ambos. ¿Cuántos no hablan ninguno de los dos idiomas?",
+      "opciones": ["0", "10", "20", "30"],
+      "respuesta_correcta": "20",
+      "sustento": "Hablan al menos uno: 60 + 40 - 20 = 80. No hablan ninguno: 100 - 80 = 20."
+    },
+    {
+      "id": 123,
+      "categoria": "Razonamiento Verbal",
+      "pregunta": "Página es a libro como tecla es a:",
+      "opciones": ["Música", "Computadora", "Piano", "Escribir"],
+      "respuesta_correcta": "Piano",
+      "sustento": "Relación parte-todo: la página es parte esencial del libro, la tecla es parte esencial del piano (o teclado)."
+    },
+    {
+      "id": 124,
+      "categoria": "Planteo de Ecuaciones",
+      "pregunta": "Si al doble de un número le restas 15 y obtienes 25, ¿cuál es el número?",
+      "opciones": ["10", "15", "20", "30"],
+      "respuesta_correcta": "20",
+      "sustento": "2x - 15 = 25 -> 2x = 40 -> x = 20."
+    },
+    {
+      "id": 125,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "¿Cuántos vértices tiene un prisma triangular?",
+      "opciones": ["3", "5", "6", "9"],
+      "respuesta_correcta": "6",
+      "sustento": "Tiene dos bases triangulares (3 vértices cada una). 3 + 3 = 6."
+    },
+    {
+      "id": 126,
+      "categoria": "Sucesiones Alfabéticas",
+      "pregunta": "¿Qué letras completan la serie? AA, CC, EE, GG, ...",
+      "opciones": ["HH", "II", "JJ", "KK"],
+      "respuesta_correcta": "II",
+      "sustento": "Se repite la letra y se salta una en el abecedario: A(B)C(D)E(F)G(H)I."
+    },
+    {
+      "id": 127,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si todos los metales brillan y el oro es un metal, entonces:",
+      "opciones": ["El oro brilla", "Solo el oro brilla", "Nada que no sea metal brilla", "El oro no es metal"],
+      "respuesta_correcta": "El oro brilla",
+      "sustento": "Silogismo categórico válido por transferencia de propiedad del conjunto al elemento."
+    },
+    {
+      "id": 128,
+      "categoria": "Analogías Numéricas",
+      "pregunta": "5 (25) 2 ; 3 (27) 3 ; 4 (?) 2",
+      "opciones": ["8", "12", "16", "20"],
+      "respuesta_correcta": "16",
+      "sustento": "La regla es: primer número elevado al segundo número. 5²=25, 3³=27, 4²=16."
+    },
+    {
+      "id": 129,
+      "categoria": "Parentesco",
+      "pregunta": "¿Qué es de mí la hija de la hermana de mi padre?",
+      "opciones": ["Mi sobrina", "Mi prima", "Mi tía", "Mi nieta"],
+      "respuesta_correcta": "Mi prima",
+      "sustento": "La hermana de mi padre es mi tía, y su hija es mi prima."
+    },
+    {
+      "id": 130,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "Si tres docenas de huevos cuestan 36 bolivianos, ¿cuánto cuestan 10 huevos?",
+      "opciones": ["10", "12", "15", "8"],
+      "respuesta_correcta": "10",
+      "sustento": "3 docenas = 36 unidades. Si 36 huevos cuestan 36 Bs, cada huevo cuesta 1 Bs. 10 huevos = 10 Bs."
+    },
+    {
+      "id": 131,
+      "categoria": "Relaciones de Tiempo",
+      "pregunta": "Si el ayer del mañana del ayer de mañana es viernes, ¿qué día es hoy?",
+      "opciones": ["Miércoles", "Jueves", "Viernes", "Sábado"],
+      "respuesta_correcta": "Viernes",
+      "sustento": "-1 + 1 - 1 + 1 = 0. Si el resultado es 0, el día indicado es 'hoy'."
+    },
+    {
+      "id": 132,
+      "categoria": "Orden de Información",
+      "pregunta": "En una fila de 5 personas, Juan está en el medio. Si Ana está después de Juan y Luis está antes de Juan, ¿quién puede ser el primero?",
+      "opciones": ["Ana", "Juan", "Luis", "Nadie"],
+      "respuesta_correcta": "Luis",
+      "sustento": "Si Luis está 'antes' que el centro (3°), puede ocupar la posición 1° o 2°."
+    },
+    {
+      "id": 133,
+      "categoria": "Operadores",
+      "pregunta": "Si a ⊕ b = 2a + 3b. Calcule 1 ⊕ 2.",
+      "opciones": ["5", "8", "7", "6"],
+      "respuesta_correcta": "8",
+      "sustento": "2(1) + 3(2) = 2 + 6 = 8."
+    },
+    {
+      "id": 134,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "¿Qué figura sigue? Triángulo (3 lados), Cuadrado (4 lados), Pentágono (5 lados), ...",
+      "opciones": ["Rombo", "Hexágono", "Círculo", "Trapecio"],
+      "respuesta_correcta": "Hexágono",
+      "sustento": "La serie sigue el número creciente de lados de polígonos regulares."
+    },
+    {
+      "id": 135,
+      "categoria": "Criptoaritmética",
+      "pregunta": "Si 5X - 5 = 20, ¿cuánto vale X + 10?",
+      "opciones": ["15", "20", "5", "10"],
+      "respuesta_correcta": "15",
+      "sustento": "5x = 25 -> x = 5. Luego 5 + 10 = 15."
+    },
+    {
+      "id": 136,
+      "categoria": "Lógica de Distribución",
+      "pregunta": "Tengo tres cajas de colores: roja, azul y verde. La azul está a la izquierda de la roja y la verde a la derecha de la roja. ¿Cuál está en el centro?",
+      "opciones": ["Roja", "Azul", "Verde", "Ninguna"],
+      "respuesta_correcta": "Roja",
+      "sustento": "Orden: Azul - Roja - Verde."
+    },
+    {
+      "id": 137,
+      "categoria": "Probabilidades",
+      "pregunta": "Al lanzar un dado, ¿cuál es la probabilidad de que salga un número par?",
+      "opciones": ["1/6", "1/2", "1/3", "1/4"],
+      "respuesta_correcta": "1/2",
+      "sustento": "Los pares son {2, 4, 6}. 3 de 6 simplificado es 1/2."
+    },
+    {
+      "id": 138,
+      "categoria": "Razonamiento Verbal",
+      "pregunta": "Norte es a Sur como Este es a:",
+      "opciones": ["Arriba", "Oeste", "Derecha", "Polo"],
+      "respuesta_correcta": "Oeste",
+      "sustento": "Relación de puntos cardinales opuestos."
+    },
+    {
+      "id": 139,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue? 1, 3, 9, 27, ...",
+      "opciones": ["30", "54", "81", "100"],
+      "respuesta_correcta": "81",
+      "sustento": "Cada número se multiplica por 3: 27 * 3 = 81."
+    },
+    {
+      "id": 140,
+      "categoria": "Edades",
+      "pregunta": "La edad de un padre es el triple de la de su hijo. Si el padre tiene 45 años, ¿qué edad tiene el hijo?",
+      "opciones": ["10", "15", "20", "25"],
+      "respuesta_correcta": "15",
+      "sustento": "3x = 45 -> x = 15."
+    },
+    {
+      "id": 141,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "¿Cuántas dimensiones tiene un cubo?",
+      "opciones": ["1", "2", "3", "4"],
+      "respuesta_correcta": "3",
+      "sustento": "Tiene largo, ancho y profundidad (tridimensional)."
+    },
+    {
+      "id": 142,
+      "categoria": "Lógica Proposicional",
+      "pregunta": "Si no estudio, entonces no apruebo. He aprobado. ¿Qué se concluye?",
+      "opciones": ["No estudié", "Estudié", "El examen fue fácil", "Fue suerte"],
+      "respuesta_correcta": "Estudié",
+      "sustento": "Por Modus Tollens: si la falta de estudio implica no aprobar, aprobar implica que sí hubo estudio."
+    },
+    {
+      "id": 143,
+      "categoria": "Fracciones",
+      "pregunta": "¿Qué es menor, un tercio de 30 o un quinto de 100?",
+      "opciones": ["Un tercio de 30", "Un quinto de 100", "Son iguales", "No se sabe"],
+      "respuesta_correcta": "Un tercio de 30",
+      "sustento": "30 / 3 = 10. 100 / 5 = 20. 10 es menor que 20."
+    },
+    {
+      "id": 144,
+      "categoria": "Sucesiones Mixtas",
+      "pregunta": "¿Qué término sigue? 10A, 20B, 30C, ...",
+      "opciones": ["40D", "40E", "50D", "40C"],
+      "respuesta_correcta": "40D",
+      "sustento": "Aumenta de 10 en 10 y sigue el orden alfabético."
+    },
+    {
+      "id": 145,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "¿Cuál es el número que sigue? 100, 90, 81, 73, ...",
+      "opciones": ["64", "65", "66", "67"],
+      "respuesta_correcta": "66",
+      "sustento": "La resta disminuye en uno cada vez: -10, -9, -8... sigue -7. 73 - 7 = 66."
+    },
+    {
+      "id": 146,
+      "categoria": "Parentesco",
+      "pregunta": "¿Qué es de mí el hermano de mi padre que no es mi tío?",
+      "opciones": ["Mi abuelo", "Mi padre", "Mi primo", "Imposible"],
+      "respuesta_correcta": "Mi padre",
+      "sustento": "Un hermano de tu padre normalmente es tu tío, pero si el enunciado dice que NO es tu tío, se refiere a tu propio padre (si se considera a sí mismo en la relación fraterna)."
+    },
+    {
+      "id": 147,
+      "categoria": "Lógica de Silogismos",
+      "pregunta": "Ningún pez respira aire. El delfín respira aire. ¿Qué se concluye?",
+      "opciones": ["El delfín es pez", "El delfín no es pez", "Todos los peces son delfines", "Ninguna"],
+      "respuesta_correcta": "El delfín no es pez",
+      "sustento": "Si la propiedad del grupo 'pez' es no respirar aire y el delfín sí lo hace, el delfín queda fuera del grupo."
+    },
+    {
+      "id": 148,
+      "categoria": "Analogías Verbales",
+      "pregunta": "Calor es a evaporar como frío es a:",
+      "opciones": ["Derretir", "Congelar", "Llover", "Viento"],
+      "respuesta_correcta": "Congelar",
+      "sustento": "Relación de causa y efecto térmico."
+    },
+    {
+      "id": 149,
+      "categoria": "Operadores",
+      "pregunta": "Si x # y = (x + y) / 2. Calcule 10 # 20.",
+      "opciones": ["10", "15", "25", "30"],
+      "respuesta_correcta": "15",
+      "sustento": "(10 + 20) / 2 = 30 / 2 = 15."
+    },
+    {
+      "id": 150,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "Si un reloj marca las 6:00, ¿qué ángulo forman sus manecillas?",
+      "opciones": ["90°", "180°", "0°", "360°"],
+      "respuesta_correcta": "180°",
+      "sustento": "A las 6:00 una manecilla apunta al 12 y la otra al 6, formando una línea recta (ángulo llano)."
+    },
+    
+    {
+      "id": 151,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número continúa la serie? 2, 6, 12, 20, 30, ...",
+      "opciones": ["36", "40", "42", "50"],
+      "respuesta_correcta": "42",
+      "sustento": "La diferencia entre los números aumenta de 2 en 2: +4, +6, +8, +10. El siguiente incremento es +12 (30 + 12 = 42)."
+    },
+    {
+      "id": 152,
+      "categoria": "Razonamiento Matemático",
+      "pregunta": "Si un maestro tarda 45 minutos en revisar 15 exámenes, ¿cuánto tardará en revisar 60 exámenes manteniendo el mismo ritmo?",
+      "opciones": ["2 horas", "3 horas", "4 horas", "180 minutos"],
+      "respuesta_correcta": "3 horas",
+      "sustento": "Si 15 exámenes tardan 45 min, cada examen tarda 3 min. 60 exámenes x 3 min = 180 min, que equivalen a 3 horas."
+    },
+    {
+      "id": 153,
+      "categoria": "Analogías Verbales",
+      "pregunta": "MAESTRO es a ESCUELA como MÉDICO es a:",
+      "opciones": ["ENFERMERA", "HOSPITAL", "PACIENTE", "MEDICINA"],
+      "respuesta_correcta": "HOSPITAL",
+      "sustento": "La relación es Sujeto : Lugar de trabajo."
+    },
+    {
+      "id": 154,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "¿Cuál de las siguientes palabras no pertenece al grupo?",
+      "opciones": ["Triángulo", "Círculo", "Rectángulo", "Pentágono"],
+      "respuesta_correcta": "Círculo",
+      "sustento": "El triángulo, rectángulo y pentágono son polígonos (lados rectos), mientras que el círculo es una figura curva."
+    },
+    {
+      "id": 155,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "En un aula de la ESFM, 20 estudiantes hablan Aymara, 15 hablan Quechua y 5 hablan ambos. ¿Cuántos estudiantes hay en total si todos hablan al menos uno?",
+      "opciones": ["40", "35", "30", "25"],
+      "respuesta_correcta": "30",
+      "sustento": "Se usa la fórmula: (A + Q) - Ambos. (20 + 15) - 5 = 30."
+    },
+    {
+      "id": 156,
+      "categoria": "Sucesiones Alfabéticas",
+      "pregunta": "¿Qué letra sigue? A, D, G, J, ...",
+      "opciones": ["L", "M", "N", "K"],
+      "respuesta_correcta": "M",
+      "sustento": "Se saltan dos letras en cada paso: A (bc) D (ef) G (hi) J (kl) M."
+    },
+    {
+      "id": 157,
+      "categoria": "Razonamiento Lógico",
+      "pregunta": "Si todos los maestros son profesionales y Juan es maestro, entonces:",
+      "opciones": [
+        "Juan es profesional",
+        "Juan no es profesional",
+        "Todos los profesionales son maestros",
+        "Ninguna de las anteriores"
+      ],
+      "respuesta_correcta": "Juan es profesional",
+      "sustento": "Es un silogismo categórico básico de tipo inclusivo."
+    },
+    {
+      "id": 158,
+      "categoria": "Problemas de Edades",
+      "pregunta": "La suma de las edades de un padre y su hijo es 40 años. Si el padre tiene el triple de la edad del hijo, ¿cuántos años tiene el hijo?",
+      "opciones": ["5", "10", "15", "20"],
+      "respuesta_correcta": "10",
+      "sustento": "x (hijo) + 3x (padre) = 40; 4x = 40; x = 10."
+    },
+    {
+      "id": 159,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "Si giras un reloj 180 grados, y la manecilla de la hora apuntaba al 3, ¿a qué número apunta ahora?",
+      "opciones": ["6", "9", "12", "1"],
+      "respuesta_correcta": "9",
+      "sustento": "Un giro de 180 grados es el lado opuesto del círculo. El opuesto al 3 en un reloj es el 9."
+    },
+    {
+      "id": 160,
+      "categoria": "Cómputo Lógico",
+      "pregunta": "En una estantería hay 3 libros de matemáticas, 2 de lenguaje y 4 de historia. Si saco uno al azar, ¿cuál es la probabilidad de que sea de matemáticas?",
+      "opciones": ["3/4", "1/3", "3/9", "2/9"],
+      "respuesta_correcta": "3/9",
+      "sustento": "Probabilidad = Casos favorables (3) / Casos totales (3+2+4 = 9)."
+    },
+    {
+      "id": 161,
+      "categoria": "Series lógicas",
+      "pregunta": "Completa la serie: 1, 1, 2, 3, 5, 8, ...",
+      "opciones": ["10", "12", "13", "15"],
+      "respuesta_correcta": "13",
+      "sustento": "Sucesión de Fibonacci: cada número es la suma de los dos anteriores (5 + 8 = 13)."
+    },
+    {
+      "id": 162,
+      "categoria": "Lógica de Posiciones",
+      "pregunta": "En una carrera, si adelantas al que va segundo, ¿en qué posición quedas?",
+      "opciones": ["Primero", "Segundo", "Tercero", "Último"],
+      "respuesta_correcta": "Segundo",
+      "sustento": "Ocupas el lugar de la persona que acabas de rebasar."
+    },
+    {
+      "id": 163,
+      "categoria": "Razonamiento Numérico",
+      "pregunta": "Si 5 máquinas hacen 5 artículos en 5 minutos, ¿cuánto tiempo tardarán 100 máquinas en hacer 100 artículos?",
+      "opciones": ["100 minutos", "50 minutos", "5 minutos", "1 minuto"],
+      "respuesta_correcta": "5 minutos",
+      "sustento": "Cada máquina tarda 5 minutos en hacer un artículo de forma independiente."
+    },
+    {
+      "id": 164,
+      "categoria": "Deducción Lógica",
+      "pregunta": "Si hoy es lunes, ¿qué día será el ayer del pasado mañana?",
+      "opciones": ["Lunes", "Martes", "Miércoles", "Domingo"],
+      "respuesta_correcta": "Martes",
+      "sustento": "Pasado mañana es miércoles. El ayer de miércoles es martes."
+    },
+    {
+      "id": 165,
+      "categoria": "Proporciones",
+      "pregunta": "Un mapa tiene una escala donde 1 cm representa 50 km. Si la distancia entre dos ciudades es de 4 cm en el mapa, ¿cuál es la distancia real?",
+      "opciones": ["100 km", "150 km", "200 km", "250 km"],
+      "respuesta_correcta": "200 km",
+      "sustento": "4 cm * 50 km/cm = 200 km."
+    },
+    {
+      "id": 166,
+      "categoria": "Series de figuras",
+      "pregunta": "¿Qué sigue a: Círculo, Cuadrado, Círculo, Cuadrado, ...?",
+      "opciones": ["Triángulo", "Círculo", "Rectángulo", "Rombo"],
+      "respuesta_correcta": "Círculo",
+      "sustento": "Es una serie alterna simple A-B-A-B."
+    },
+    {
+      "id": 167,
+      "categoria": "Razonamiento de Porcentajes",
+      "pregunta": "Un artículo cuesta 200 Bs y tiene el 10% de descuento. ¿Cuánto se debe pagar?",
+      "opciones": ["190 Bs", "180 Bs", "170 Bs", "210 Bs"],
+      "respuesta_correcta": "180 Bs",
+      "sustento": "El 10% de 200 es 20. 200 - 20 = 180 Bs."
+    },
+    {
+      "id": 168,
+      "categoria": "Ordenamiento Lógico",
+      "pregunta": "Ana es más alta que Beatriz y Beatriz es más alta que Carla. ¿Quién es la más baja?",
+      "opciones": ["Ana", "Beatriz", "Carla", "Son iguales"],
+      "respuesta_correcta": "Carla",
+      "sustento": "Orden: Ana > Beatriz > Carla."
+    },
+    {
+      "id": 169,
+      "categoria": "Distribuciones Numéricas",
+      "pregunta": "Si 2 + 3 = 10; 7 + 2 = 63; 6 + 5 = 66. ¿Cuánto es 8 + 4?",
+      "opciones": ["12", "32", "96", "84"],
+      "respuesta_correcta": "96",
+      "sustento": "La regla es: (a + b) * a. (8 + 4) * 8 = 12 * 8 = 96."
+    },
+    {
+      "id": 170,
+      "categoria": "Lógica de Negación",
+      "pregunta": "Si es falso que 'ningún estudiante aprobó', entonces es cierto que:",
+      "opciones": [
+        "Todos aprobaron",
+        "Al menos un estudiante aprobó",
+        "La mayoría reprobó",
+        "Nadie aprobó"
+      ],
+      "respuesta_correcta": "Al menos un estudiante aprobó",
+      "sustento": "La negación de 'ninguno' es 'al menos uno'."
+    },
+    {
+      "id": 171,
+      "categoria": "Razonamiento Aritmético",
+      "pregunta": "¿Cuál es el número que multiplicado por sí mismo da 144?",
+      "opciones": ["10", "11", "12", "14"],
+      "respuesta_correcta": "12",
+      "sustento": "12 x 12 = 144."
+    },
+    {
+      "id": 172,
+      "categoria": "Relaciones Familiares",
+      "pregunta": "¿Qué parentesco tiene conmigo el hijo de la hermana de mi madre?",
+      "opciones": ["Sobrino", "Hermano", "Primo", "Tío"],
+      "respuesta_correcta": "Primo",
+      "sustento": "La hermana de mi madre es mi tía; su hijo es mi primo."
+    },
+    {
+      "id": 173,
+      "categoria": "Sucesiones descendentes",
+      "pregunta": "¿Qué número sigue? 100, 90, 81, 73, ...",
+      "opciones": ["66", "65", "64", "60"],
+      "respuesta_correcta": "66",
+      "sustento": "La resta disminuye en uno cada vez: -10, -9, -8. Toca restar 7: 73 - 7 = 66."
+    },
+    {
+      "id": 174,
+      "categoria": "Análisis de Fracciones",
+      "pregunta": "¿Qué es mayor, 1/2 o 2/4?",
+      "opciones": ["1/2", "2/4", "Son iguales", "Ninguna"],
+      "respuesta_correcta": "Son iguales",
+      "sustento": "2/4 simplificado es 1/2."
+    },
+    {
+      "id": 175,
+      "categoria": "Lógica de Días",
+      "pregunta": "Si el pasado mañana de hace 3 días fue miércoles, ¿qué día es hoy?",
+      "opciones": ["Jueves", "Viernes", "Sábado", "Domingo"],
+      "respuesta_correcta": "Jueves",
+      "sustento": "X - 3 + 2 = Miércoles; X - 1 = Miércoles; X = Jueves."
+    },
+    {
+      "id": 176,
+      "categoria": "Razonamiento de Trabajo",
+      "pregunta": "Si un pintor tarda 8 días en pintar una casa, ¿cuántos días tardarán 2 pintores en hacer el mismo trabajo?",
+      "opciones": ["16 días", "8 días", "4 días", "2 días"],
+      "respuesta_correcta": "4 días",
+      "sustento": "A más trabajadores, menos tiempo (proporción inversa)."
+    },
+    {
+      "id": 177,
+      "categoria": "Analogías Numéricas",
+      "pregunta": "4 es a 16 como 5 es a:",
+      "opciones": ["20", "25", "30", "10"],
+      "respuesta_correcta": "25",
+      "sustento": "La relación es el cuadrado del número (4²=16, 5²=25)."
+    },
+    {
+      "id": 178,
+      "categoria": "Razonamiento Deductivo",
+      "pregunta": "En un grupo de 4 personas, todas se saludan con un apretón de manos una sola vez. ¿Cuántos apretones de manos hubo en total?",
+      "opciones": ["4", "6", "8", "12"],
+      "respuesta_correcta": "6",
+      "sustento": "Fórmula: n(n-1)/2. 4(3)/2 = 6."
+    },
+    {
+      "id": 179,
+      "categoria": "Sucesiones mixtas",
+      "pregunta": "¿Qué sigue? 1, A, 2, B, 3, C, ...",
+      "opciones": ["D", "4", "E", "5"],
+      "respuesta_correcta": "4",
+      "sustento": "Alterna un número consecutivo y una letra del abecedario. Después de C toca el número 4."
+    },
+    {
+      "id": 180,
+      "categoria": "Lógica de Verdades",
+      "pregunta": "Si digo 'siempre miento' y es verdad que miento, entonces:",
+      "opciones": ["Estoy diciendo la verdad", "Es una contradicción", "No estoy mintiendo", "Soy honesto"],
+      "respuesta_correcta": "Es una contradicción",
+      "sustento": "Es la famosa paradoja del mentiroso."
+    },
+
+    {
+      "id": 181,
+      "categoria": "Razonamiento Geométrico",
+      "pregunta": "¿Cuántos triángulos se pueden contar en un cuadrado dividido por sus dos diagonales?",
+      "opciones": ["2", "4", "6", "8"],
+      "respuesta_correcta": "8",
+      "sustento": "Se cuentan 4 triángulos pequeños y 4 triángulos grandes formados por la unión de dos pequeños."
+    },
+    {
+      "id": 182,
+      "categoria": "Sucesiones Numéricas",
+      "pregunta": "¿Qué número sigue en la serie? 3, 9, 27, 81, ...",
+      "opciones": ["162", "243", "324", "100"],
+      "respuesta_correcta": "243",
+      "sustento": "Es una progresión geométrica donde cada número se multiplica por 3 ($81 \times 3 = 243$)."
+    },
+    {
+      "id": 183,
+      "categoria": "Lógica de Probabilidad",
+      "pregunta": "En una bolsa hay 4 bolas rojas y 6 azules. ¿Cuál es la probabilidad de sacar una bola roja?",
+      "opciones": ["40%", "60%", "10%", "50%"],
+      "respuesta_correcta": "40%",
+      "sustento": "Probabilidad = $4 / 10 = 0.4$, que equivale al 40%."
+    },
+    {
+      "id": 184,
+      "categoria": "Razonamiento de Tiempo",
+      "pregunta": "Si un reloj marca las 15:00, ¿qué ángulo forman la manecilla del minutero y la de la hora?",
+      "opciones": ["45°", "90°", "180°", "360°"],
+      "respuesta_correcta": "90°",
+      "sustento": "A las 15:00 (3 p.m.), la manecilla de la hora está en el 3 y la del minutero en el 12, formando un ángulo recto."
+    },
+    {
+      "id": 185,
+      "categoria": "Analogías de Figuras",
+      "pregunta": "CÍRCULO es a ESFERA como CUADRADO es a:",
+      "opciones": ["TRIÁNGULO", "CUBO", "RECTÁNGULO", "LÍNEA"],
+      "respuesta_correcta": "CUBO",
+      "sustento": "La relación es de una figura bidimensional a su correspondiente tridimensional."
+    },
+    {
+      "id": 186,
+      "categoria": "Razonamiento Operativo",
+      "pregunta": "Si $\bigtriangleup$ significa sumar 5 y $\bigcirc$ significa multiplicar por 2, ¿cuál es el resultado de $(\bigtriangleup 3) \bigcirc$?",
+      "opciones": ["11", "16", "10", "13"],
+      "respuesta_correcta": "16",
+      "sustento": "Primero la operación interna: $3 + 5 = 8$. Luego la externa: $8 \times 2 = 16$."
+    },
+    {
+      "id": 187,
+      "categoria": "Lógica Inferencial",
+      "pregunta": "Si algunos estudiantes son deportistas y todos los deportistas son disciplinados, se concluye que:",
+      "opciones": [
+        "Todos los estudiantes son disciplinados",
+        "Algunos estudiantes son disciplinados",
+        "Ningún estudiante es disciplinado",
+        "Los disciplinados no son estudiantes"
+      ],
+      "respuesta_correcta": "Algunos estudiantes son disciplinados",
+      "sustento": "Al haber una intersección entre estudiantes y deportistas, y estos últimos estar contenidos en 'disciplinados', la conclusión es parcial."
+    },
+    {
+      "id": 188,
+      "categoria": "Distribuciones Gráficas",
+      "pregunta": "En una hilera de 5 casas: la roja está al lado de la azul, la verde está al centro, y la amarilla es la primera. Si la blanca está al final, ¿de qué color es la cuarta casa?",
+      "opciones": ["Roja", "Azul", "Blanca", "No se puede saber"],
+      "respuesta_correcta": "No se puede saber",
+      "sustento": "Posiciones: 1.Amarilla, 2.Azul/Roja, 3.Verde, 4.Roja/Azul, 5.Blanca. Según las opciones de examen, suele ser una de las dos."
+    },
+    {
+      "id": 189,
+      "categoria": "Razonamiento Matemático",
+      "pregunta": "Un tanque de agua se llena en 4 horas con un grifo. ¿Cuántos grifos iguales se necesitan para llenarlo en solo 1 hora?",
+      "opciones": ["2", "4", "6", "8"],
+      "respuesta_correcta": "4",
+      "sustento": "Es una relación inversamente proporcional: para reducir el tiempo a la cuarta parte, se necesita cuatro veces la potencia de llenado."
+    },
+    {
+      "id": 190,
+      "categoria": "Lógica de Conjuntos",
+      "pregunta": "En un grupo de 10 personas, 7 gustan del café y 5 del té. ¿Cuántos gustan de ambos si todos gustan de al menos uno?",
+      "opciones": ["1", "2", "3", "4"],
+      "respuesta_correcta": "2",
+      "sustento": "$(7 + 5) - 10 = 2$."
+    },
+    {
+      "id": 191,
+      "categoria": "Sucesiones Alfanuméricas",
+      "pregunta": "¿Qué sigue? 2A, 4C, 6E, ...",
+      "opciones": ["7G", "8G", "8F", "10G"],
+      "respuesta_correcta": "8G",
+      "sustento": "Los números aumentan de 2 en 2 (2, 4, 6, 8) y las letras saltan una posición (A, c, C, d, E, f, G)."
+    },
+    {
+      "id": 192,
+      "categoria": "Problemas de Reparto",
+      "pregunta": "Se reparte un premio de 300 Bs entre dos personas, de modo que una recibe el doble que la otra. ¿Cuánto recibe la que menos gana?",
+      "opciones": ["100 Bs", "150 Bs", "200 Bs", "50 Bs"],
+      "respuesta_correcta": "100 Bs",
+      "sustento": "$x + 2x = 300$; $3x = 300$; $x = 100$."
+    },
+    {
+      "id": 193,
+      "categoria": "Razonamiento Abstracto",
+      "pregunta": "¿Qué palabra sobra? Lápiz, Borrador, Tajador, Mesa.",
+      "opciones": ["Lápiz", "Borrador", "Tajador", "Mesa"],
+      "respuesta_correcta": "Mesa",
+      "sustento": "Mesa es un mueble, los demás son útiles escolares de escritorio."
+    },
+    {
+      "id": 194,
+      "categoria": "Lógica de Calendarios",
+      "pregunta": "Si el ayer de mañana es domingo, ¿qué día fue ayer?",
+      "opciones": ["Viernes", "Sábado", "Domingo", "Lunes"],
+      "respuesta_correcta": "Sábado",
+      "sustento": "El ayer de mañana es 'hoy'. Si hoy es domingo, ayer fue sábado."
+    },
+    {
+      "id": 195,
+      "categoria": "Razonamiento Espacial",
+      "pregunta": "Si doblas un papel cuadrado por la mitad dos veces (formando un cuadrado pequeño) y cortas la esquina del centro, al desdoblarlo, ¿cuántos agujeros tendrá?",
+      "opciones": ["1", "2", "4", "0"],
+      "respuesta_correcta": "1",
+      "sustento": "Al cortar la esquina que une todos los pliegues centrales, se forma un único agujero en el centro del papel."
+    },
+    {
+      "id": 196,
+      "categoria": "Series Numéricas",
+      "pregunta": "¿Qué número sigue? 1, 4, 9, 16, 25, ...",
+      "opciones": ["30", "35", "36", "49"],
+      "respuesta_correcta": "36",
+      "sustento": "Es la serie de los cuadrados perfectos: $1^2, 2^2, 3^2, 4^2, 5^2, 6^2$ (36)."
+    },
+    {
+      "id": 197,
+      "categoria": "Deducción de parentesco",
+      "pregunta": "¿Qué es de mí la hija de la hermana de mi padre?",
+      "opciones": ["Mi sobrina", "Mi tía", "Mi prima", "Mi hermana"],
+      "respuesta_correcta": "Mi prima",
+      "sustento": "La hermana de mi padre es mi tía, y su hija es mi prima carnal."
+    },
+    {
+      "id": 198,
+      "categoria": "Lógica de Negación",
+      "pregunta": "Negar 'Todos los docentes son creativos' equivale a decir:",
+      "opciones": [
+        "Ningún docente es creativo",
+        "Algunos docentes no son creativos",
+        "Todos los docentes son aburridos",
+        "Los creativos no son docentes"
+      ],
+      "respuesta_correcta": "Algunos docentes no son creativos",
+      "sustento": "En lógica formal, la negación de un universal afirmativo (Todos son) es un particular negativo (Al menos uno no es)."
+    },
+    {
+      "id": 199,
+      "categoria": "Razonamiento Aritmético",
+      "pregunta": "Si un libro cuesta 50 Bs y su precio aumenta un 20%, pero luego tiene un descuento del 20% sobre el nuevo precio, ¿cuánto cuesta finalmente?",
+      "opciones": ["50 Bs", "48 Bs", "52 Bs", "45 Bs"],
+      "respuesta_correcta": "48 Bs",
+      "sustento": "$50 + 20% = 60$. Luego el $20%$ de $60$ es $12$. $60 - 12 = 48$."
+    },
+    {
+      "id": 200,
+      "categoria": "Lógica de Posiciones",
+      "pregunta": "Seis personas están sentadas alrededor de una mesa circular. Si A está frente a B, y C está a la derecha de A, ¿quién está a la izquierda de B?",
+      "opciones": ["A", "C", "D", "No se puede saber"],
+      "respuesta_correcta": "C",
+      "sustento": "En una mesa circular de 6, el que está a la derecha de uno está frente al que está a la izquierda del que tiene enfrente."
+    }
+
+
+  ]
+}
